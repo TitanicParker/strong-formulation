@@ -1,0 +1,101 @@
+[
+  {
+    "id": "C001",
+    "statement": "The problem entered Neurology as an integrated feet–gait–tone–toe–function presentation.",
+    "type": "fact",
+    "evidence": ["E001", "E002", "E003", "E004"],
+    "profiles": ["P01", "P03", "P04"],
+    "dependencies": [],
+    "challenges": ["The evidence does not establish one exclusive mechanism for every structural foot lesion."]
+  },
+  {
+    "id": "C002",
+    "statement": "The founding neurological synthesis left the relationship between the painful feet and neurological lower-limb disorder expressly unresolved as 'Not clear'.",
+    "type": "clinician-assertion",
+    "evidence": ["E005"],
+    "profiles": ["P06", "P28"],
+    "dependencies": ["C001"],
+    "challenges": []
+  },
+  {
+    "id": "C003",
+    "statement": "The founding synthesis strengthened patient-derived separation by recording that he had 'in his own mind - markedly divorced' the leg tension from the foot pain/corns/callouses.",
+    "type": "documentary-analysis",
+    "evidence": ["E005"],
+    "profiles": ["P20", "P38"],
+    "dependencies": ["C002"],
+    "challenges": ["The underlying patient-origin wording and the clinician-authored attribution must be kept distinct."]
+  },
+  {
+    "id": "C004",
+    "statement": "Before closure, the patient directly challenged the adequacy of the foot disposition; the project treats this Protest as an established case fact.",
+    "type": "fact-with-provenance-note",
+    "evidence": ["E008"],
+    "profiles": ["P07", "P08", "P37"],
+    "dependencies": ["C002"],
+    "challenges": ["The surviving canonical extract used here is a later patient-authored reconstruction, not a contemporaneous clinician note; that provenance must remain visible."]
+  },
+  {
+    "id": "C005",
+    "statement": "The final portable synthesis preserved the selected management branch and compatible patient knowledge-state but did not preserve the Protest, removing the visible decision fork.",
+    "type": "record-audit-inference",
+    "evidence": ["E005", "E006", "E007", "E008"],
+    "profiles": ["P06", "P07", "P10", "P20", "P38"],
+    "dependencies": ["C003", "C004"],
+    "challenges": ["Omission is established by comparison of the material decision event against the final synthesis, not by treating absence as affirmative proof of motive."]
+  },
+  {
+    "id": "C006",
+    "statement": "Later letters repeatedly recorded knowledge, counselling, awareness and shared understanding within the inherited management framework.",
+    "type": "fact-and-documentary-analysis",
+    "evidence": ["E007", "E011", "E012", "E016", "E020"],
+    "profiles": ["P19", "P25", "P37", "P38"],
+    "dependencies": ["C005"],
+    "challenges": ["Understanding a particular treatment choice is not the same proposition as accepting the adequacy of the founding feet disposition."]
+  },
+  {
+    "id": "C007",
+    "statement": "Later treatment states and independent clinical observations repeatedly bore on the same structural–neurological boundary that was unresolved in 2017.",
+    "type": "fact-and-inference",
+    "evidence": ["E009", "E010", "E013", "E014", "E015"],
+    "profiles": ["P04", "P12", "P13", "P14", "P31"],
+    "dependencies": ["C002"],
+    "challenges": ["These observations test the relationship; they do not by themselves prove one exclusive mechanism."]
+  },
+  {
+    "id": "C008",
+    "statement": "The record identifies repeated local updates but no identified global reconstruction that resets the original structural–neurological formulation against the accumulating later evidence.",
+    "type": "record-audit-inference",
+    "evidence": ["E009", "E010", "E013", "E014", "E015", "E020"],
+    "profiles": ["P14", "P15", "P17", "P18", "P31"],
+    "dependencies": ["C007"],
+    "challenges": ["This is a record-audit conclusion: the audit should remain open to any candidate reconstructive document produced later."]
+  },
+  {
+    "id": "C009",
+    "statement": "In 2025, historical letters and claimed longstanding shared understanding were invoked to answer a challenge to the historical pathway itself.",
+    "type": "fact-and-documentary-analysis",
+    "evidence": ["E016", "E017", "E007", "E011"],
+    "profiles": ["P19", "P25", "P37"],
+    "dependencies": ["C005", "C006", "C008"],
+    "challenges": ["Later letters may accurately prove later events; continuity alone is not independent proof that the founding representation was complete."]
+  },
+  {
+    "id": "C010",
+    "statement": "The record contains a specific PRKN/PARK2 causal suspicion and later states idiopathic Parkinson's disease; the explanatory bridge between those documentary states should be located and audited.",
+    "type": "record-audit-question",
+    "evidence": ["E018", "E019"],
+    "profiles": ["P23", "P35"],
+    "dependencies": [],
+    "challenges": ["This page asks for the bridge; it does not infer that no clinically valid bridge can exist outside the presently indexed record."]
+  },
+  {
+    "id": "C011",
+    "statement": "The DBS passage records patient initiation, a retrospective 'reminded' formulation, a restrictive description of DBS, continuing candidacy and 'if he wishes' language; provenance of the prior counselling should be auditable.",
+    "type": "record-audit-question",
+    "evidence": ["E012"],
+    "profiles": ["P23", "P38"],
+    "dependencies": [],
+    "challenges": ["The passage is treated as an independent provenance stress test, not as proof of the founding foot mechanism."]
+  }
+]
