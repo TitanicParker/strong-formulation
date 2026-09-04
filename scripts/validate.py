@@ -28,6 +28,13 @@ def load_json(path: Path):
 
 
 def norm(text: str) -> str:
+    """Normalize canonical transcription text for locked-quote comparison.
+
+    The forensic source prefixes every physical line with a stable CLIN identifier.
+    Those provenance markers can fall inside a sentence when a quote spans lines,
+    so they must not participate in literal quote matching.
+    """
+    text = re.sub(r"\bCLIN-\d{6}\b", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
