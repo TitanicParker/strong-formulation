@@ -1,0 +1,33 @@
+[
+  {
+    "id": "AF1",
+    "title": "Omission from an intended authoritative account after direct notice",
+    "short": "The aggravation is not simply that the Protest is missing. It is that the document later relied upon to prove the decision process omitted the event that most directly qualified that process.",
+    "proposition": "The treating neurologist received a direct patient challenge to the adequacy of the proposed disposition while the final synthesis was still being produced. The synthesis then omitted that challenge while preserving patient-understanding material supportive of the chosen plan. Because the same synthesis became the portable historical account and was later relied upon as evidence of the reasoning and shared understanding, the omission did not merely make the record incomplete: it materially altered the evidential representation of the decision process itself.",
+    "parts": [
+      {
+        "title": "Direct notice",
+        "statement": "The Protest changed the information state from unresolved uncertainty to unresolved uncertainty expressly contested by the patient before closure.",
+        "claims": ["C004"]
+      },
+      {
+        "title": "Still-open authoritative synthesis",
+        "statement": "The challenge existed while the authoritative synthesis was still being formed through discharge and later finalisation; the issue is therefore omission from the document intended to preserve reasoning, understanding and the forward plan, not omission from a frozen earlier note.",
+        "claims": ["C004", "C005"]
+      },
+      {
+        "title": "Directional selection",
+        "statement": "Supportive patient-state material travelled — including 'markedly divorced', exceptional insight, counselling, 'good understanding', 'firmer footing' and 'clear plan' — while the decisive contrary patient-state did not.",
+        "claims": ["C003", "C005", "C006"]
+      },
+      {
+        "title": "Later evidential authority",
+        "statement": "The resulting synthesis became part of the historical account through which the pathway was understood, and later letters and claimed shared understanding were invoked in 2025 as evidence that the historical reasoning had been properly recorded.",
+        "claims": ["C006", "C009"]
+      }
+    ],
+    "asymmetry": "supportive patient-state information travelled; the decisive contrary patient-state did not.",
+    "self_protecting_effect": "the fact capable of challenging the documentary account was absent from the documentary account, and the documentary account was later used to prove that the historical process had been adequate.",
+    "evidence": ["E005", "E006", "E007", "E008", "E011", "E016"]
+  }
+]

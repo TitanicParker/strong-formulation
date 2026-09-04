@@ -1,0 +1,62 @@
+[
+  {
+    "date":"2017-07",
+    "patient_origin":"The analytical reservoir characterises the underlying patient distinction as 'not the same problem' — a limited distinction between foot pain and internal leg tension.",
+    "authored_state":"'he has in his own mind - markedly divorced' the leg tension from the foot/corns/callouses pain.",
+    "provenance":"Patient-origin formulation is analytical; authored-state wording is primary clinician text at E005.",
+    "added_meaning":"A limited symptom distinction becomes a stronger attributed separation state.",
+    "management_function":"Supports the selected separation/disposition as cognitively compatible with the patient.",
+    "later_reuse":"Travels alongside 'good understanding', 'firmer footing' and 'clear plan' language.",
+    "evidence":["E005","E006","E007"]
+  },
+  {
+    "date":"2017-07",
+    "patient_origin":"Before closure, the patient directly challenged the adequacy of the foot disposition. The Protest is an established case fact.",
+    "authored_state":"The final founding synthesis does not preserve the Protest.",
+    "provenance":"The audit question is the omission itself: an established pre-closure contest is absent from the portable founding account.",
+    "added_meaning":"Known contested uncertainty becomes invisible in the portable account.",
+    "management_function":"The selected branch remains visible without the decision fork that qualified any claim of shared understanding.",
+    "later_reuse":"Later generic knowledge/understanding language accumulates from a documentary starting state in which the contrary patient state has been omitted.",
+    "evidence":["E008","E005","E006","E007"]
+  },
+  {
+    "date":"2019",
+    "patient_origin":"Patient receives letters and participates in extended consultations.",
+    "authored_state":"Letters are written in real time 'so that we have a shared understanding of what I mean'.",
+    "provenance":"Clinician-authored explanation of documentary function at E011.",
+    "added_meaning":"The record is an active instrument for communicating and stabilising clinician meaning.",
+    "management_function":"Later documentary continuity can carry both treatment decisions and attributed common understanding.",
+    "later_reuse":"2025 response relies on the letters as evidence of longstanding understanding.",
+    "evidence":["E011","E016"]
+  },
+  {
+    "date":"2021",
+    "patient_origin":"Patient raises treatment questions including DBS and participates in medication-risk discussions.",
+    "authored_state":"'well aware', 'fully counselled', 'As I have reminded him', and 'if he wishes'.",
+    "provenance":"Clinician-authored knowledge-state and management language at E012.",
+    "added_meaning":"Awareness and prior-knowledge language becomes increasingly portable across treatment topics.",
+    "management_function":"Supports later accounts of informed, participatory management within the inherited frame.",
+    "later_reuse":"Provides a control specimen for provenance questions: what exactly was previously said, when, and where is it recorded?",
+    "evidence":["E012"]
+  },
+  {
+    "date":"2023",
+    "patient_origin":"Patient position is recorded as materially misaligned with the clinician over whether the feet are a separate major problem.",
+    "authored_state":"The letter expressly records a 'misalignment' and 'very reasonable and justifiable concerns'.",
+    "provenance":"Clinician-authored account of patient position at E020.",
+    "added_meaning":"Later disagreement is visible and therefore limits any global inference from generic 'understanding' language.",
+    "management_function":"Shows that knowledge-state has to be issue-specific, not inferred wholesale.",
+    "later_reuse":"Relevant to the 2025 claim of a clear understanding 'for quite some time'.",
+    "evidence":["E020","E016"]
+  },
+  {
+    "date":"2025-04",
+    "patient_origin":"The historical pathway is challenged in a formal complaint.",
+    "authored_state":"'As the letters show, we have had a clear understanding for quite some time that Sinemet does help his pain.'",
+    "provenance":"Retrospective complaint response at E016, read against the complaint at E017.",
+    "added_meaning":"Documentary continuity is used evidentially to support the historical management account.",
+    "management_function":"The letters shift from instruments of shared understanding to witnesses offered in proof of it.",
+    "later_reuse":"Closing loop of the documentary system.",
+    "evidence":["E016","E017","E011"]
+  }
+]
