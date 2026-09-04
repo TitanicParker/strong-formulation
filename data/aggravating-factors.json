@@ -1,29 +1,34 @@
 [
   {
     "id":"AF1",
-    "title":"Omission from an intended authoritative account after direct notice",
-    "short":"The aggravation is not simply that the Protest is missing. It is that the patient identified unfinished neurological work before closure, the clinician proceeded without reopening it, and the final synthesis omitted that event while making the resulting partition portable.",
-    "proposition":"The treating neurologist received direct notice that the patient considered the neurological work incomplete because the feet had not been properly dealt with. The answer was Podiatry; no neurological reopening or defined handover question is identified. The synthesis then constructed a separate/peripheral-neuropathy/Podiatry channel, preserved separation-compatible patient-state material, and omitted the event that exposed the phenotype as unfinished. Because that synthesis became the portable historical account and later acquired evidential authority, the omission materially altered the represented decision process.",
+    "title":"Omission from an intended authoritative account after the originating referral problem was restored",
+    "short":"The aggravation is not simply that the Protest is missing. After days of asymmetric specialist weighting, the patient restored the underweighted first paragraph of the GP referral before closure; the final synthesis then joined the known elements directionally, omitted that restoring event, and made the resulting arrangement portable.",
+    "proposition":"The treating neurologist received direct notice that the patient considered the work incomplete because the painful feet through which the GP referral began had not been properly dealt with. The answer was Podiatry; no neurological reopening or defined handover question is identified. The synthesis itself became the founding join: it preserved structural, dystonic, Parkinsonian and PRKN material but gave the painful feet a separate/peripheral-neuropathy/Podiatry-compatible direction ending 'Not clear'. It preserved separation-compatible patient-state material and omitted the event that had restored the originating referral problem. Because that synthesis became the portable historical account and later acquired evidential authority, the omission materially altered the represented decision process.",
     "parts":[
       {
-        "title":"Direct notice of unfinished work",
-        "statement":"The Protest did not convert an already-recognised unresolved relationship into contested uncertainty. It forced an incompletely examined part of the phenotype back into view before closure.",
+        "title":"Referral return",
+        "statement":"The Protest did not introduce a new problem. It restored the underweighted first paragraph of the GP referral after days in which the record had overwhelmingly developed the neurological component.",
         "claims":["C003"]
       },
       {
-        "title":"Decision after notice",
-        "statement":"The neurologist answered Podiatry; the record identifies no neurological reopening and no defined neurological handover question or return mechanism. Before the Protest the problem may be omission; after the Protest it becomes decision.",
+        "title":"Decision after restoration",
+        "statement":"The neurologist answered Podiatry; the record identifies no neurological reopening and no defined neurological handover question or return mechanism after the originating problem was expressly back in view.",
         "claims":["C004"]
       },
       {
-        "title":"Documentary partition",
-        "statement":"The synthesis then allocated the painful feet to a separate/peripheral-neuropathy/Podiatry channel ending 'Not clear', while strengthening 'markedly divorced'.",
-        "claims":["C005","C006"]
+        "title":"Founding directional join",
+        "statement":"The synthesis itself joined the known elements but allocated the painful feet to a separate/peripheral-neuropathy/Podiatry channel ending 'Not clear', while Parkinsonism/PRKN received richer explanatory development.",
+        "claims":["C005"]
       },
       {
         "title":"Directional selection",
-        "statement":"Separation-compatible patient-state material travelled while the patient's warning that the phenotype was unfinished did not.",
+        "statement":"Separation-compatible patient-state material travelled while the patient's restoration of the original referral problem did not.",
         "claims":["C006","C007"]
+      },
+      {
+        "title":"Later non-reconstruction",
+        "statement":"Later mechanical and neurological treatment-state evidence crossed the founding join without an identified global re-join or reconstruction.",
+        "claims":["C008","C009","C010"]
       },
       {
         "title":"Later evidential authority",
@@ -31,8 +36,8 @@
         "claims":["C011"]
       }
     ],
-    "asymmetry":"the patient-state compatible with separation travelled; the patient-state identifying unfinished work did not.",
-    "self_protecting_effect":"the event capable of showing that the founding pathway required reconsideration was absent from the founding account later relied upon as evidence of continuity and adequate reasoning.",
+    "asymmetry":"the patient-state compatible with separation travelled; the patient-state restoring the originating referral problem did not.",
+    "self_protecting_effect":"the event capable of showing that the founding closure required reconsideration was absent from the founding account later relied upon as evidence of continuity and adequate reasoning.",
     "evidence":["E005","E006","E007","E008","E011","E016"]
   }
 ]
