@@ -1,51 +1,55 @@
 # Founding formulation
 
-The patient entered Neurology with an integrated phenotype involving feet, gait, tone, toe-clawing, movement difficulty and function. The correct pre-Protest description is not “an unresolved foot relationship.” The surviving record identifies neurological and structural findings, but no substantial neurological remapping of the feet after those discoveries and before discharge.
+The patient entered Neurology through an integrated GP referral. The first paragraph begins with the concrete presenting problem: bilateral foot issues, an unusual stiff/festinant gait, callouses/corns and feet “not in a good state.” The remainder explains why the GP had become concerned that this was not merely a foot problem: impaired initiation, marked tone, toe-clawing, inability to relax, dexterity loss and functional failure under an open neurological differential.
 
-Shortly before discharge, after the eight-day admission, the patient directly said in substance that the feet had not been properly dealt with and that the neurological work could not therefore be complete. He was not contesting a separation he already understood himself to be challenging. He was saying the phenotype was unfinished.
+Neurology then identified severe very-young-onset Parkinsonism, a lower-limb appearance suggestive of dystonic posture, structural foot disease and possible PRKN/PARK2. The surviving record shows extensive development of the neurological syndrome and comparatively limited direct work on the painful abnormal feet through which the referral began.
+
+That initial neurological emphasis may be understandable.
+
+The decisive event comes later. Shortly before discharge, after days of specialist work, the patient directly said in substance that the feet had not been properly dealt with and the neurological work could not therefore be complete. He was not introducing a new problem or contesting a separation he already understood. He was **restoring the first paragraph of the GP referral to the centre of the encounter**.
 
 The neurologist answered: **Podiatry**.
 
-> **Before the Protest, the problem may be omission. After the Protest, it becomes decision.**
+> **Initial narrowing may be understandable. Once the patient restores the originating foot problem before closure, the question becomes what Neurology does with the whole referral.**
 
-The record identifies no neurological reopening and no defined neurological handover question or return mechanism. The discharge synthesis then creates the durable partition. It preserves the dystonic-looking lower-limb sign, painful structural feet and possible PRKN/PARK2, but allocates the feet principally to a different explanatory route: possibly completely separate, possibly peripheral neuropathy, **“Not clear,”** and Podiatry. The patient’s earlier limited symptom distinction is strengthened into **“markedly divorced.”** The Protest itself is omitted.
+By that point substantial diagnostic and therapeutic commitment had accumulated around severe young-onset Parkinsonism, possible PRKN/PARK2 and a cautious non-levodopa strategy involving senior Neurology. This does not prove pride or bad faith. It creates an objective setting of **professional-coherence / commitment pressure**: reopening the restored first paragraph would require acknowledging that a comparatively elementary part of the referring problem remained insufficiently worked through despite days of sophisticated specialist work elsewhere.
+
+The discharge synthesis then becomes central. It is not a record in which the relevant elements were never joined. In an important sense, **the discharge synthesis is the join**.
+
+It contains:
+
+- severe very-young-onset Parkinsonism;
+- dystonic-looking lower-limb phenomenology — “NOT FOOT DROP”;
+- painful structural feet;
+- possible PRKN/PARK2;
+- possible peripheral neuropathy;
+- the patient’s distinction between internal leg tension and foot pain;
+- the forward treatment strategy.
+
+The question is how those elements are arranged.
+
+The synthesis gives extensive explanatory force to Parkinsonism/PRKN/treatment strategy while making the painful feet compatible with a separate or peripheral-neuropathic route ending **“Not clear”** and Podiatry. It strengthens the patient-derived distinction into **“in his own mind – markedly divorced.”** The Protest that restored the first paragraph does not travel. **“Plan/Recommendations: As per above”** then makes the resulting arrangement operational and portable.
 
 This is the centre:
 
-> **The synthesis does not lose the feet. It decides what explanatory pathway they are allowed to inhabit.**
+> **The patient did not discover a new problem at discharge. He restored the referrer’s original problem after days in which the record had overwhelmingly valued something else. The discharge synthesis then had to decide what that restored problem was allowed to mean.**
 
-And:
+The corrected founding sequence is therefore:
 
-> **The patient said the feet had not been investigated. The neurologist answered Podiatry. The discharge synthesis then supplied the intellectual architecture that made that answer look medically complete.**
+> **integrated GP referral → striking neurological discoveries → asymmetric clinical weighting → days of specialist diagnostic/treatment commitment → patient restores paragraph one: “you cannot be finished” → Podiatry answer → no identified neurological reopening → discharge synthesis joins all elements directionally into a separate/peripheral-neuropathy/“Not clear” foot channel → Protest omitted → “As per above” makes the arrangement portable.**
 
-The final synthesis preserves extensive material about questions, intelligence, insight, counselling, “firmer footing,” “good understanding,” a “clear plan,” and **“Plan/Recommendations: As per above.”** It does not preserve the event showing that the patient said the phenotype was unfinished.
+Later evidence repeatedly crossed the resulting boundary. Procyclidine response and withdrawal altered gait, tension and feet together. In April 2018 the treating neurologist recorded rapid return of the outside-left-foot phenomenon during withdrawal. Podiatry independently documented a recurrent left fifth-MTPJ loading problem and repeatedly offloaded it mechanically. Primary care repeatedly regenerated the integrated feet–tone–gait formulation. Later OFF-related pain/shuffling and dopaminergic relief again crossed the boundary.
 
-The founding sequence is therefore:
+The later problem is therefore not merely that “the missing piece was the join.” The founding synthesis had already performed a join. The later unanswered question is:
 
-> **integrated phenotype → neurological discoveries → incomplete foot examination → Protest: “you cannot be finished” → Podiatry answer → no neurological reopening / no defined handover question → discharge synthesis constructs separate-or-neuropathic “Not clear” foot channel → Protest omitted → “As per above” makes the partition portable.**
+> **Where was that founding arrangement globally reconstructed when subsequent mechanical and neurological information repeatedly crossed it?**
 
-By documentary closure the hospital possessed the integrated referral state, the neurological findings, the structural feet, possible PRKN/PARK2, uncertainty about what the feet represented, and direct notice from the patient that the feet had not been adequately worked through before discharge. The hospital did not need to know the final mechanism. It knew enough to know that it did not know, and after the Protest it knew the incompleteness had been expressly identified before closure.
+The record’s behaviour can be described as:
 
-Later evidence repeatedly crossed the partition. Procyclidine response and withdrawal altered gait, tension and feet together. In April 2018 the treating neurologist recorded rapid return of the outside-left-foot phenomenon during withdrawal. Podiatry independently documented a recurrent left fifth-MTPJ loading problem and repeatedly offloaded it mechanically. Primary care repeatedly regenerated the integrated feet–tone–gait formulation. Later OFF-related pain/shuffling and dopaminergic relief again crossed the boundary.
+> **integrated information enters → one pathway is amplified → other facts are retained but comparatively underdeveloped → relationships are assigned → uncertainty receives a destination → prose becomes plan → later crossing evidence is absorbed locally → the founding arrangement remains stable.**
 
-The most revealing join is:
-
-> **Podiatry knew where it was. Neurology knew it changed with neurological treatment. The missing piece was the join.**
-
-The danger is longitudinal. The phenotype keeps generating integrated evidence while the documentary architecture keeps processing that evidence through the inherited partition.
-
-> **The biology updated. The document did not.**
-
-The case does not require proof that every structural foot abnormality had one neurological cause, that Neurology should have known the exact mechanism in July 2017, or that any private motive is established.
+The case does not require proof that the neurologist literally failed to read the referral, that every foot lesion had one neurological cause, that levodopa had to be started in July 2017, or that private pride, embarrassment or deliberate concealment is established.
 
 The narrower proposition is stronger:
 
-> **The patient identified before discharge that a material part of the presenting phenotype had not been neurologically worked through. Neurology did not reopen that question. The discharge synthesis then constructed and transmitted a partition in which the feet were treated as separate or possibly neuropathic, while the Protest that exposed the incompleteness of the phenotype did not travel. Later biological and mechanical evidence repeatedly crossed that boundary without an identified global reconstruction.**
-
-The central evidential consequence is:
-
-> **The hospital’s longitudinal record cannot serve as complete and self-sufficient proof of the material decision pathway because the durable continuity begins only after the patient’s direct warning that the phenotype was incompletely worked through had been omitted from the founding synthesis.**
-
-Shortest:
-
-> **Before the Protest: omission. After the Protest: decision. After the synthesis: durable partition.**
+> **The GP referred a whole problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs. Neurology understandably concentrated on the striking neurological syndrome. After days of that work, the patient expressly restored the underweighted first paragraph before closure. The final synthesis then contained all of the relevant elements but arranged them so that the neurological admission could be treated as complete while the painful feet remained separate, possibly neuropathic, “Not clear” and operationally Podiatry. The Protest that exposed the closure problem did not travel.**
