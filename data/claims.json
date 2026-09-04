@@ -1,7 +1,7 @@
 [
   {
     "id":"C001",
-    "statement":"The problem entered Neurology as an integrated feet–gait–tone–toe–function phenotype, not as an already-recognised unresolved feet-versus-neurology relationship.",
+    "statement":"The GP referral presented one integrated problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs, rather than two already-separated pathways.",
     "type":"fact-and-documentary-analysis",
     "evidence":["E001","E002","E003","E004"],
     "profiles":["P01","P03","P04"],
@@ -10,16 +10,16 @@
   },
   {
     "id":"C002",
-    "statement":"The surviving admission record identifies neurological and structural findings but no substantial post-discovery neurological remapping of the feet before discharge; the pre-Protest state is therefore best described as an incompletely examined phenotype.",
+    "statement":"The surviving admission record shows asymmetric clinical weighting: the findings pointing toward severe very-young-onset Parkinsonism/PRKN were investigated and elaborated far more completely than the painful abnormal feet and gait problem through which the referral began.",
     "type":"record-audit-inference",
     "evidence":["E004","E005"],
     "profiles":["P03","P06","P28"],
     "dependencies":["C001"],
-    "challenges":["This is a record-audit proposition and remains open to any contemporaneous reassessment document later produced."]
+    "challenges":["This does not prove that the neurologist failed to read the referral or acted unreasonably in initially prioritising the striking neurological syndrome."]
   },
   {
     "id":"C003",
-    "statement":"Before closure the patient directly said, in substance, that the feet had not been properly dealt with and the neurological work could not therefore be complete; the Protest challenged unfinished work, not a separation the patient already understood himself to be contesting.",
+    "statement":"Before closure the patient directly said, in substance, that the feet had not been properly dealt with and the neurological work could not therefore be complete; the Protest restored the underweighted first paragraph of the GP referral rather than introducing a new problem or contesting a separation the patient already understood.",
     "type":"fact-and-interpretive-discipline",
     "evidence":["E008"],
     "profiles":["P07","P08","P37"],
@@ -28,34 +28,34 @@
   },
   {
     "id":"C004",
-    "statement":"The neurologist answered Podiatry; the record identifies no neurological reopening and no defined neurological handover carrying a feet–neurology question into Podiatry. Before the Protest the problem may be omission; after the Protest it becomes decision.",
+    "statement":"The neurologist answered Podiatry; the record identifies no neurological reopening and no defined neurological handover carrying the restored feet–neurology question into Podiatry. Initial narrowing may have been understandable; after the Protest the originating problem was expressly back in view before closure.",
     "type":"record-audit-inference",
     "evidence":["E008","E005"],
     "profiles":["P07","P08","P22"],
     "dependencies":["C003"],
-    "challenges":["Podiatry could appropriately treat structural manifestations; the issue is the absence of a documented mechanism for answering the neurological question raised by the Protest."]
+    "challenges":["Podiatry could appropriately treat structural manifestations; the issue is what Neurology did once the originating referral problem was expressly restored to view."]
   },
   {
     "id":"C005",
-    "statement":"The discharge synthesis then constructs the durable partition: it preserves dystonic-looking lower-limb and structural-foot facts, entertains PRKN/PARK2, but allocates the painful feet principally to a separate/peripheral-neuropathy/Podiatry channel ending 'Not clear'.",
+    "statement":"The discharge synthesis is the founding join: it contains the dystonic-looking lower-limb, structural-foot, Parkinsonism and PRKN/PARK2 material, then allocates the painful feet principally to a separate/peripheral-neuropathy/Podiatry channel ending 'Not clear' while Parkinsonism/PRKN receives much richer explanatory development.",
     "type":"documentary-analysis",
     "evidence":["E004","E005"],
     "profiles":["P06","P20","P28","P35"],
     "dependencies":["C004"],
-    "challenges":["The synthesis does not state that the feet are definitively non-neurological; it preserves a neurological possibility through peripheral neuropathy."]
+    "challenges":["The synthesis does not state that the feet are definitively non-neurological; the issue is the direction and operational effect of the join it constructs."]
   },
   {
     "id":"C006",
-    "statement":"The founding synthesis strengthens patient-derived separation by recording that he had 'in his own mind - markedly divorced' leg tension from foot pain/corns/callouses, while the Protest showing that he considered the work unfinished is absent from the portable account.",
+    "statement":"The founding synthesis strengthens patient-derived separation by recording that he had 'in his own mind - markedly divorced' leg tension from foot pain/corns/callouses, while the Protest showing that he had restored the originating foot problem as unfinished is absent from the portable account.",
     "type":"documentary-analysis",
     "evidence":["E005","E008"],
     "profiles":["P20","P38"],
     "dependencies":["C005"],
-    "challenges":["The underlying patient-origin distinction and clinician-authored intensification must remain distinct."]
+    "challenges":["The underlying patient-origin phenomenological distinction and clinician-authored intensification must remain distinct."]
   },
   {
     "id":"C007",
-    "statement":"The final portable synthesis preserves the selected management architecture and compatible patient knowledge-state while omitting the event that exposed the phenotype as unfinished before closure.",
+    "statement":"The final portable synthesis preserves the selected management architecture and compatible patient knowledge-state while omitting the event that explains why the original referral problem had to be reconsidered before closure.",
     "type":"record-audit-inference",
     "evidence":["E005","E006","E007","E008"],
     "profiles":["P06","P07","P10","P20","P38"],
@@ -64,16 +64,16 @@
   },
   {
     "id":"C008",
-    "statement":"Later treatment states and independent clinical observations repeatedly cross the partition constructed in 2017, including procyclidine withdrawal, recurrent focal foot loading, GP reintegration, OFF-related pain/shuffling and dopaminergic relief.",
+    "statement":"Later treatment states and independent clinical observations repeatedly cross the boundaries of the 2017 founding join, including procyclidine withdrawal, recurrent focal foot loading, GP reintegration, OFF-related pain/shuffling and dopaminergic relief.",
     "type":"fact-and-inference",
     "evidence":["E009","E010","E013","E014","E015"],
     "profiles":["P04","P11","P12","P13","P14","P31"],
     "dependencies":["C005"],
-    "challenges":["These observations test the partition; they do not by themselves prove one exclusive mechanism."]
+    "challenges":["These observations test the adequacy and durability of the founding arrangement; they do not by themselves prove one exclusive mechanism."]
   },
   {
     "id":"C009",
-    "statement":"Podiatry acquired local mechanical information while Neurology acquired dynamic treatment-state information; the record identifies no point at which those streams were formally joined to reconstruct the founding model.",
+    "statement":"Podiatry acquired local mechanical information while Neurology acquired dynamic treatment-state information; the founding join already existed in the discharge synthesis, but the record identifies no later formal re-join that reconstructs that synthesis against the two streams of evidence.",
     "type":"record-audit-inference",
     "evidence":["E009","E010","E015"],
     "profiles":["P11","P12","P15","P16","P17"],
@@ -82,7 +82,7 @@
   },
   {
     "id":"C010",
-    "statement":"The record identifies repeated local updates but no identified global reconstruction that resets the 2017 partition against the accumulating later evidence.",
+    "statement":"The record identifies repeated local updates but no identified global reconstruction that resets the 2017 directional join against accumulating later evidence.",
     "type":"record-audit-inference",
     "evidence":["E009","E010","E013","E014","E015","E020"],
     "profiles":["P14","P15","P17","P18","P31"],
@@ -96,6 +96,15 @@
     "evidence":["E016","E017","E007","E011"],
     "profiles":["P19","P25","P37"],
     "dependencies":["C007","C010"],
-    "challenges":["Later letters may accurately prove later events; continuity alone is not independent proof that the founding representation was complete."]
+    "challenges":["Later letters may accurately prove later events; continuity alone is not independent proof that the founding representation was complete or appropriately reconstructed."]
+  },
+  {
+    "id":"C012",
+    "statement":"By the time of the Protest, substantial diagnostic, hierarchical and therapeutic commitment had accumulated around the young-onset Parkinsonism/PRKN formulation, creating an objective professional-coherence or commitment-pressure context when the patient restored the underweighted part of the referral.",
+    "type":"contextual-inference",
+    "evidence":["E004","E005","E008"],
+    "profiles":["P02","P03","P07","P27"],
+    "dependencies":["C002","C003"],
+    "challenges":["This is not proof of pride, embarrassment, deliberate concealment or any other private motive."]
   }
 ]
