@@ -1,22 +1,22 @@
 [
   {
     "date":"2017-07",
-    "patient_origin":"The analytical reservoir characterises the underlying patient distinction as 'not the same problem' — a limited distinction between foot pain and internal leg tension.",
+    "patient_origin":"The underlying patient distinction was phenomenological: foot pain and internal leg tension were experienced as not the same problem.",
     "authored_state":"'he has in his own mind - markedly divorced' the leg tension from the foot/corns/callouses pain.",
     "provenance":"Patient-origin formulation is analytical; authored-state wording is primary clinician text at E005.",
     "added_meaning":"A limited symptom distinction becomes a stronger attributed separation state.",
-    "management_function":"Supports the selected separation/disposition as cognitively compatible with the patient.",
+    "management_function":"Supports the later partition as cognitively compatible with the patient.",
     "later_reuse":"Travels alongside 'good understanding', 'firmer footing' and 'clear plan' language.",
     "evidence":["E005","E006","E007"]
   },
   {
     "date":"2017-07",
-    "patient_origin":"Before closure, the patient directly challenged the adequacy of the foot disposition. The Protest is an established case fact.",
+    "patient_origin":"Before closure, the patient directly said in substance that the feet had not been properly dealt with and the neurological work could not therefore be complete. He was challenging unfinished work, not a separation he already understood himself to be contesting.",
     "authored_state":"The final founding synthesis does not preserve the Protest.",
-    "provenance":"The audit question is the omission itself: an established pre-closure contest is absent from the portable founding account.",
-    "added_meaning":"Known contested uncertainty becomes invisible in the portable account.",
-    "management_function":"The selected branch remains visible without the decision fork that qualified any claim of shared understanding.",
-    "later_reuse":"Later generic knowledge/understanding language accumulates from a documentary starting state in which the contrary patient state has been omitted.",
+    "provenance":"Established case fact at E008; omission audited against the portable founding account.",
+    "added_meaning":"The patient's warning that the phenotype was unfinished becomes invisible, while a stronger separation-compatible patient state remains visible.",
+    "management_function":"The later partition appears as a coherent clinical disposition without the event that forced the incompleteness into view before closure.",
+    "later_reuse":"Later understanding language accumulates from a documentary starting state in which this contrary patient state has been omitted.",
     "evidence":["E008","E005","E006","E007"]
   },
   {
