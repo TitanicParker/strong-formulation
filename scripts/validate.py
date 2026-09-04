@@ -30,11 +30,13 @@ def load_json(path: Path):
 def norm(text: str) -> str:
     """Normalize canonical transcription text for locked-quote comparison.
 
-    The forensic source prefixes every physical line with a stable CLIN identifier.
-    Those provenance markers can fall inside a sentence when a quote spans lines,
-    so they must not participate in literal quote matching.
+    The forensic source prefixes physical lines with stable CLIN identifiers and
+    uses Markdown blockquote markers around transcribed source text. Those
+    provenance/presentation markers can occur inside a sentence when a quote
+    spans lines, so they must not participate in literal quote matching.
     """
     text = re.sub(r"\bCLIN-\d{6}\b", " ", text)
+    text = re.sub(r"(?m)^\s*>\s?", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -88,7 +90,6 @@ for collection_name, collection in (("timeline", timeline), ("evidence", evidenc
         if date and not iso_re.match(date):
             fail(f"{collection_name} {item.get('id', '')}: non-ISO date {date}")
 
-# Scan all derived files for CLIN references and ensure they exist.
 for folder in (DATA, DOCS):
     if not folder.exists():
         continue
@@ -125,7 +126,6 @@ for html in DOCS.glob("*.html"):
         if not candidate.exists():
             fail(f"{html.relative_to(ROOT)}: unresolved internal link {link}")
 
-# Presentation privacy guardrails. Canonical sources are intentionally excluded.
 privacy_patterns = {
     "DOB-like date": re.compile(r"\b\d{2}/\d{2}/\d{4}\b"),
     "Irish mobile-like number": re.compile(r"\b08\d{8}\b"),
