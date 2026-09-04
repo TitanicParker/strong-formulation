@@ -38,15 +38,23 @@ By documentary closure the hospital possessed, at minimum, an integrated referra
 
 The hospital did not need to know the final mechanism. It knew enough to know that it did not know, and after the Protest it knew that the patient had specifically identified the incompleteness before closure.
 
+## Controlling-version note
+
+`CRYSTAL_CLEAR_CENTRE.md` and the corrected derived files listed below now control the interpretation of the repository. Older passages in the large analytical reservoir that describe the pre-Protest state as an already-existing **“unresolved relationship”** or describe the Protest as converting that state into **“known contested uncertainty”** should be read as superseded by the corrected sequence:
+
+> **integrated phenotype → incomplete neurological work → Protest identifying unfinished feet → Podiatry answer → no identified neurological reopening → discharge synthesis constructs the durable partition.**
+
+The reservoir remains valuable as an evidential and analytical store, but this newer formulation governs where the weight is placed.
+
 ## How to read the repository
 
 1. [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) — the controlling formulation produced from the full record and the latest reconstruction.
 2. [`founding.md`](founding.md) — the case in plain language.
 3. [`PROSE_LAYER_INFORMATION_STATE.md`](PROSE_LAYER_INFORMATION_STATE.md) — the longitudinal prose layer from incomplete phenotype to durable partition and later fragmentation.
 4. [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md) — the chronological information-state timeline.
-5. [`data/claims.json`](data/claims.json), [`data/knowledge-state.json`](data/knowledge-state.json), [`data/profiles.json`](data/profiles.json), [`data/timeline.json`](data/timeline.json), [`data/evidence-index.json`](data/evidence-index.json) — machine-readable derived structure.
+5. [`data/claims.json`](data/claims.json), [`data/knowledge-state.json`](data/knowledge-state.json), [`data/profiles.json`](data/profiles.json), [`data/timeline.json`](data/timeline.json), [`data/evidence-index.json`](data/evidence-index.json), [`data/aggravating-factors.json`](data/aggravating-factors.json) — machine-readable derived structure.
 6. [`SRC_COMPLETE_RECORD_FORENSIC.md`](SRC_COMPLETE_RECORD_FORENSIC.md) — canonical longitudinal primary-record transcription.
-7. [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — the full analytical reservoir.
+7. [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — the full analytical reservoir, read subject to the controlling-version note above.
 
 ## What the case does not require
 
@@ -60,7 +68,7 @@ The narrower proposition is stronger: once the patient directly identified that 
 
 And the shortest formulation remains:
 
-> **The Protest broke the apparent completeness. The synthesis removed the break. The later record documented continuity across the gap.**
+> **Before the Protest: omission. After the Protest: decision. After the synthesis: durable partition.**
 
 ## Status
 
