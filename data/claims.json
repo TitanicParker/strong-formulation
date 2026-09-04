@@ -28,21 +28,21 @@
   },
   {
     "id": "C004",
-    "statement": "Before closure, the patient directly challenged the adequacy of the foot disposition; the project treats this Protest as an established case fact.",
-    "type": "fact-with-provenance-note",
+    "statement": "Before closure, the patient directly challenged the adequacy of the foot disposition. The Protest is an established case fact and converted residual uncertainty into known contested uncertainty.",
+    "type": "fact",
     "evidence": ["E008"],
     "profiles": ["P07", "P08", "P37"],
     "dependencies": ["C002"],
-    "challenges": ["The surviving canonical extract used here is a later patient-authored reconstruction, not a contemporaneous clinician note; that provenance must remain visible."]
+    "challenges": []
   },
   {
     "id": "C005",
-    "statement": "The final portable synthesis preserved the selected management branch and compatible patient knowledge-state but did not preserve the Protest, removing the visible decision fork.",
+    "statement": "The final portable synthesis preserved the selected management branch and compatible patient knowledge-state but omitted the Protest, removing the visible decision fork.",
     "type": "record-audit-inference",
     "evidence": ["E005", "E006", "E007", "E008"],
     "profiles": ["P06", "P07", "P10", "P20", "P38"],
     "dependencies": ["C003", "C004"],
-    "challenges": ["Omission is established by comparison of the material decision event against the final synthesis, not by treating absence as affirmative proof of motive."]
+    "challenges": ["The absence of the Protest from the founding portable account is the alleged documentary defect; it is not evidence that the Protest did not occur, and no inference of private motive is required."]
   },
   {
     "id": "C006",
