@@ -4,18 +4,18 @@
     "patient_origin":"The underlying patient distinction was phenomenological: foot pain and internal leg tension were experienced as not the same problem.",
     "authored_state":"'he has in his own mind - markedly divorced' the leg tension from the foot/corns/callouses pain.",
     "provenance":"Patient-origin formulation is analytical; authored-state wording is primary clinician text at E005.",
-    "added_meaning":"A limited symptom distinction becomes a stronger attributed separation state.",
-    "management_function":"Supports the later partition as cognitively compatible with the patient.",
+    "added_meaning":"A limited phenomenological distinction becomes a stronger attributed separation-compatible state inside the discharge synthesis.",
+    "management_function":"Supports a directional founding join in which the painful feet can occupy a separate/peripheral/Podiatry-compatible channel while the Parkinsonism/PRKN architecture is elaborated elsewhere.",
     "later_reuse":"Travels alongside 'good understanding', 'firmer footing' and 'clear plan' language.",
     "evidence":["E005","E006","E007"]
   },
   {
     "date":"2017-07",
-    "patient_origin":"Before closure, the patient directly said in substance that the feet had not been properly dealt with and the neurological work could not therefore be complete. He was challenging unfinished work, not a separation he already understood himself to be contesting.",
+    "patient_origin":"Before closure, after days of specialist work, the patient directly said in substance that the feet had not been properly dealt with and the neurological work could not therefore be complete. In doing so he restored the underweighted originating foot problem from the GP referral rather than introducing a new problem or contesting a separation he already understood.",
     "authored_state":"The final founding synthesis does not preserve the Protest.",
     "provenance":"Established case fact at E008; omission audited against the portable founding account.",
-    "added_meaning":"The patient's warning that the phenotype was unfinished becomes invisible, while a stronger separation-compatible patient state remains visible.",
-    "management_function":"The later partition appears as a coherent clinical disposition without the event that forced the incompleteness into view before closure.",
+    "added_meaning":"The patient's act of restoring the referrer's original problem becomes invisible, while a stronger separation-compatible patient state remains visible.",
+    "management_function":"The final synthesis can present a coherent closure state without preserving the event that forced the originating referral problem back into view immediately before closure.",
     "later_reuse":"Later understanding language accumulates from a documentary starting state in which this contrary patient state has been omitted.",
     "evidence":["E008","E005","E006","E007"]
   },
@@ -25,7 +25,7 @@
     "authored_state":"Letters are written in real time 'so that we have a shared understanding of what I mean'.",
     "provenance":"Clinician-authored explanation of documentary function at E011.",
     "added_meaning":"The record is an active instrument for communicating and stabilising clinician meaning.",
-    "management_function":"Later documentary continuity can carry both treatment decisions and attributed common understanding.",
+    "management_function":"Later documentary continuity can carry both treatment decisions and attributed common understanding within the inherited directional model.",
     "later_reuse":"2025 response relies on the letters as evidence of longstanding understanding.",
     "evidence":["E011","E016"]
   },
@@ -45,7 +45,7 @@
     "authored_state":"The letter expressly records a 'misalignment' and 'very reasonable and justifiable concerns'.",
     "provenance":"Clinician-authored account of patient position at E020.",
     "added_meaning":"Later disagreement is visible and therefore limits any global inference from generic 'understanding' language.",
-    "management_function":"Shows that knowledge-state has to be issue-specific, not inferred wholesale.",
+    "management_function":"Shows that knowledge-state has to be issue-specific, not inferred wholesale, and that later disagreement can coexist with continuity of the inherited founding arrangement.",
     "later_reuse":"Relevant to the 2025 claim of a clear understanding 'for quite some time'.",
     "evidence":["E020","E016"]
   },
@@ -55,7 +55,7 @@
     "authored_state":"'As the letters show, we have had a clear understanding for quite some time that Sinemet does help his pain.'",
     "provenance":"Retrospective complaint response at E016, read against the complaint at E017.",
     "added_meaning":"Documentary continuity is used evidentially to support the historical management account.",
-    "management_function":"The letters shift from instruments of shared understanding to witnesses offered in proof of it.",
+    "management_function":"The letters shift from instruments of shared understanding to witnesses offered in proof of a pathway whose founding synthesis did not preserve the event that restored the original referral problem before closure.",
     "later_reuse":"Closing loop of the documentary system.",
     "evidence":["E016","E017","E011"]
   }
