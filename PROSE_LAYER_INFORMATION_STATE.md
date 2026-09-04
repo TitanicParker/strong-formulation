@@ -1,153 +1,158 @@
-# Prose Layer — From Integrated Phenotype to Durable Partition
+# Prose Layer — Referral Return, Directional Synthesis and Durable Record Behaviour
 
-## The starting point
+## The starting point is the referral as a whole
 
-The case should not begin with an “unresolved foot relationship.” That formulation is already too late.
+The case should begin with the architecture of the GP referral.
 
-The patient entered Neurology through an integrated presentation: painful abnormal feet, abnormal gait, pathological lower-limb tone, toe-clawing, impaired movement initiation and deteriorating function. The referral did not present two already-separated problems. It presented one phenotype requiring specialist interpretation.
+The patient entered Neurology through a problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs: tone, movement-initiation difficulty, toe-clawing, worsening dexterity and functional loss. The referral did not present two already-separated problems. It asked Neurology to explain a whole presentation whose neurological significance had become increasingly apparent.
 
-Neurology then identified severe very-young-onset Parkinsonism, marked rigidity/bradykinesia, a gait with a footdrop-like appearance described as suggestive of dystonic posture, and genuine structural foot abnormalities. Possible PRKN/PARK2 entered the diagnostic reasoning.
+That matters because the later issue is not simply whether a feet–neurology relationship was “unclear.” The first question is what happened to the referrer’s whole problem once Neurology encountered a striking specialist diagnosis.
 
-The surviving record identifies one focused look at the feet, but no substantial neurological remapping of them after those neurological discoveries and before discharge. The pre-Protest state is therefore best described as **an incompletely examined phenotype**.
+## Initial neurological narrowing may be entirely understandable
 
-## The Protest is the hinge
+Neurology identified severe very-young-onset Parkinsonism, marked rigidity/bradykinesia, a striking footdrop-like lower-limb appearance described as suggestive of dystonic posture, genuine structural foot abnormalities and possible PRKN/PARK2.
 
-Shortly before discharge, after the eight-day admission, the patient directly challenged the completeness of the work. His point was not: “you have separated my feet from Parkinson’s disease.” He did not understand himself to be contesting a partition. His point was simpler: **the feet had not been properly dealt with, so Neurology could not be finished.**
+Those findings were important. It is entirely understandable that they became the intellectual centre of the admission.
 
-The neurologist answered: **Podiatry**.
+The surviving record shows, however, a marked asymmetry in clinical weighting. Parkinsonism, atypicality, imaging, genetics, treatment risk, medication strategy and counselling are developed extensively. The painful abnormal feet through which the referral began receive comparatively limited direct evaluation, notwithstanding that the record itself contains both structural foot findings and dystonic-looking lower-limb phenomenology.
 
-That creates the decisive fork.
+The proposition is not that the neurologist failed to read the referral. That mental state cannot be proved from the record.
 
-> **Before the Protest, the problem may be omission. After the Protest, it becomes decision.**
+The observable proposition is stronger:
 
-At that moment Neurology could reopen the examination, delay closure, seek movement-disorder or multidisciplinary input, preserve an explicit neurological question for Podiatry, define ownership, or create a return criterion. The record identifies no neurological reopening and no defined neurological handover carrying such a question into Podiatry.
+> **The findings pointing toward very-young-onset Parkinsonism were investigated and elaborated far more completely than the painful abnormal feet and gait problem through which the referral began.**
 
-The Protest therefore does not merely make an existing unresolved relationship “contested.” It does something more primitive: it forces the clinical status of the feet into view and demands that the incomplete phenotype be worked through before closure.
+## The Protest restores paragraph one
 
-## The discharge synthesis constructs the partition
+Shortly before discharge, after days of specialist work, the patient directly challenged the completeness of the admission. His point was not: “you have wrongly separated my feet from Parkinson’s disease.” He did not need a diagnostic theory.
 
-The separation comes after that moment.
+His point was simpler: **the feet had not been properly dealt with, so Neurology could not yet be finished.**
 
-The synthesis possesses all the relevant ingredients: severe young-onset Parkinsonism, a dystonic-looking lower-limb sign, painful structural feet, possible PRKN/PARK2, and the possibility of peripheral neuropathy.
+The NCT / bald-tyres analogy performs a precise information-state function. The patient is not introducing a new clinical object. He is restoring the underweighted first paragraph of the GP referral to the centre of the encounter.
 
-It then allocates explanatory force.
+The sequence is therefore:
 
-The painful feet are described as possibly **“completely separate”** or perhaps a **secondary peripheral neuropathy**, ending **“Not clear.”** The patient’s earlier limited phenomenological distinction between foot pain and internal leg tension is strengthened into the authored proposition that he had **“in his own mind — markedly divorced”** the two.
+> **whole referral → striking neurological discovery → asymmetric specialist weighting → patient restores the originating foot problem before closure.**
 
-At the same time, the dystonic lower-limb sign and painful feet are not used to integrate the PRKN/Parkinsonian construction. The feet remain neurologically possible principally through another route: peripheral neuropathy.
+Initial narrowing may be understandable. After the Protest, the originating problem is no longer merely something that may have been under-read or overtaken by the neurological diagnosis. It is expressly back in view.
 
-This is the key:
+The decisive question becomes:
 
-> **The synthesis does not lose the feet. It decides what explanatory pathway they are allowed to inhabit.**
+> **What did Neurology do once the patient restored the referrer’s original problem after days of specialist work?**
 
-And:
+## The timing creates objective commitment pressure
 
-> **He did not lose the facts. He lost the relationship by deciding what each fact was allowed to mean.**
+By the time the patient restores paragraph one, substantial diagnostic and therapeutic investment has accumulated. Severe young-onset Parkinsonism has been identified; PRKN/PARK2 is under consideration; the dystonic-looking lower-limb phenomenon has been recorded; senior neurological input has been obtained; and a cautious non-levodopa strategy has begun to crystallise.
 
-The synthesis then describes extensive questioning, intelligence, insight, counselling, “firmer footing,” “good understanding,” and a “clear plan.” The Protest — the event showing that the patient said the phenotype was unfinished — is absent. “Plan/Recommendations: As per above” then carries the architecture forward.
+This does not prove pride, embarrassment or any private motive.
 
-Thus the durable sequence is:
+It does create an objective professional-coherence problem: reopening the first paragraph would require acknowledging that a comparatively elementary part of the referring problem remained insufficiently worked through despite days of sophisticated specialist work elsewhere.
 
-> **integrated phenotype → neurological discoveries → incomplete foot examination → Protest: you cannot be finished → Podiatry answer → no neurological reopening / no defined handover question → discharge synthesis constructs separate-or-neuropathic “Not clear” foot channel → Protest omitted → “As per above” makes the partition portable.**
+The proper analytical term is therefore **professional-coherence / commitment pressure**, not proved pride.
 
-## Constructive knowledge by closure
+Reopening the feet did not require abandoning Parkinsonism, PRKN reasoning or the cautious medication strategy. Neurology could have reassessed the feet, mapped fixed structural findings against dynamic posturing, preserved an explicit structural–dynamic question, defined a Podiatry handover question or return criterion, or planned later remapping while leaving the treatment policy intact.
 
-By documentary closure the hospital possessed, at minimum:
+The problem exposed by the Protest was narrower:
 
-- the integrated referral state;
+> **Can the admission legitimately close if the problem that initiated the referral has still not been adequately integrated into the neurological state discovered during admission?**
+
+## The discharge synthesis is the founding join
+
+This is a central correction.
+
+The discharge synthesis is not evidence that nobody joined the information. **The synthesis itself is the founding join.**
+
+It contains the relevant elements:
+
 - severe very-young-onset Parkinsonism;
-- the dystonic-looking lower-limb sign;
-- painful structural feet;
+- the dystonic-looking lower-limb sign — “NOT FOOT DROP”;
+- painful structural feet, including pes planus, hammertoes, corns and callouses;
 - possible PRKN/PARK2;
-- uncertainty about what the feet represented;
-- and the patient’s direct warning that the feet had not been adequately worked through before discharge.
+- possible peripheral neuropathy;
+- the patient’s historical distinction between internal leg tension and foot pain;
+- and the forward neurological treatment strategy.
 
-The hospital did not need to know the final mechanism. It knew enough to know that it did not know. After the Protest it also knew the patient had specifically identified the incompleteness before closure.
+The forensic question is therefore not “why were the pieces never joined?” It is:
 
-## Podiatry was a destination, not an answer
+> **Why does the completed join point where it points?**
 
-The patient already had a Podiatry history. Primary care had already expedited Podiatry and flagged the case “as Parkinson’s.” Podiatry could therefore be a perfectly proper destination for structural treatment.
+The synthesis allocates explanatory force asymmetrically. Parkinsonism / PRKN / treatment strategy receive extensive development. The painful feet are made compatible with a route in which they may be “completely separate,” perhaps peripheral-neuropathic, ultimately “Not clear,” and operationally Podiatry.
 
-But destination is not explanation.
+The patient’s limited phenomenological distinction is rendered as having “in his own mind – markedly divorced” the leg tension from the foot pain/corns/callouses. The patient’s contrary information state — that the originating foot problem remained unfinished — does not travel in the final portable account.
 
-The unanswered neurological question was what the feet meant inside the newly recognised movement-disorder phenotype. The record identifies no corresponding neurological handover question, no return criterion and no later automatic mechanism by which Podiatry findings would force neurological reconstruction.
+The synthesis then describes extensive questioning, intelligence, insight, counselling, “firmer footing,” “good understanding,” and a “clear plan.” “Plan/Recommendations: As per above” makes the prose arrangement operational.
 
-> **The pathway had an exit, but no return route.**
+Thus the document does not lose the facts. It **assigns relationships, status and destination to them**.
 
-## Neurology acquired dynamic treatment-state evidence
+> **The discharge synthesis made the join; its importance lies in the direction of the join.**
 
-The 2017 plan contemplated a procyclidine test-stop. During withdrawal the patient contemporaneously reported that his feet became restless and his walk fell apart.
+## The synthesis solves the closure problem
 
-In April 2018 the treating neurologist documented that the **first thing** to change, and to change **rapidly**, during withdrawal was the **return** of the outside-left-foot corn phenomenon.
+The final construction allows two propositions to coexist:
 
-“Return” matters. It entails a prior state in which that phenomenon had receded sufficiently to be understood as absent or materially improved.
+> **The neurological admission is sufficiently complete to close.**
+>
+> **The painful feet can remain unresolved because they occupy a separate / peripheral / Podiatry-compatible channel.**
 
-This does not prove a single neurological mechanism for the corn. It establishes something narrower and more consequential: Neurology itself now possessed treatment-state evidence capable of bearing directly on the partition it had created.
+That is why “Not clear” is not inert uncertainty. The causal relationship remains unresolved, but the document nevertheless establishes enough direction for management to proceed around the uncertainty.
 
-By April 2018, the feet should at minimum have become an explicit object of neurological mapping: pain, posture, toe position, tone, gait, loading, sensory findings and treatment state.
+The record therefore converts unresolved relation into an operationally stable arrangement.
 
-## Podiatry acquired the local mechanical truth
+## The Protest omission changes the represented decision history
 
-Podiatry repeatedly documented the left fifth-MTPJ site, enucleated it to pin-prick haemorrhage and repeatedly offloaded the exact region with pads and insoles.
+The final synthesis is unusually elaborate and patient-facing. It preserves extensive material about discussion, understanding and plan. Yet the event that restored the GP’s original problem immediately before closure is absent.
 
-That is evidence of a persistent local loading problem.
+The omission matters because it removes the event that explains why the final arrangement required justification at all.
 
-Podiatry therefore knew **where** the problem was and how it behaved mechanically.
+The durable sequence is therefore:
 
-Neurology knew that an outside-left-foot phenomenon changed rapidly with neurological treatment state.
+> **integrated GP referral → understandable specialist concentration on the striking neurological syndrome → asymmetric weighting of the referred problem → patient restores paragraph one before closure → Podiatry answer / no identified neurological reopening → discharge synthesis joins all known elements directionally into Parkinsonism/PRKN versus separate-or-neuropathic “Not clear” feet → Protest omitted → “As per above” makes the arrangement portable.**
 
-The cleanest join is:
+## Later evidence tests the direction of the founding join
 
-> **Podiatry knew where it was. Neurology knew it changed with neurological treatment. The missing piece was the join.**
+Later treatment states and independent clinical observations repeatedly cross the boundary created by the synthesis.
 
-Or:
+Procyclidine withdrawal changes feet, tension and gait together. In April 2018 Neurology records rapid return of the outside-left-foot phenomenon. Podiatry repeatedly identifies and mechanically offloads the left fifth-MTPJ site. Primary care repeatedly reconnects feet, tone, gait and Parkinsonian state. Later Movement Disorders documentation describes pain/shuffling as OFF-related. Sinemet and later controlled-release Sinemet alter the experience of the feet.
 
-> **Podiatry identified the load-bearing failure. Neurology identified a treatment-state variable capable of changing the foot. The record does not identify where those facts were formally joined.**
+These observations do not prove that every foot symptom had one neurological mechanism. Their function is narrower: **they create repeated opportunities to reconsider the direction and adequacy of the founding join.**
 
-## The peripheral-neuropathy hypothesis
+## The later missing operation is re-joining, not the original join
 
-Peripheral neuropathy entered the synthesis as a possibility, not a finding. The record does not identify a defined criterion by which that hypothesis would be confirmed or rejected.
+Podiatry accumulated local mechanical information. Neurology accumulated dynamic treatment-state information. Primary care repeatedly regenerated the integrated object.
 
-That allowed it to survive longitudinally while later evidence accumulated around it: recurrent focal loading, primary-care reintegration, treatment-state dependence, incomplete relief at high-dose pregabalin, and later dopaminergic relief.
+The record does not identify the later operation that formally brought those streams back to the founding 2017 synthesis and asked whether its directional arrangement still held.
 
-The issue is not that any one of those facts disproves neuropathy. The issue is that the hypothesis was never given a clear falsification pathway.
+So the old phrase “the missing piece was the join” requires precision.
 
-> **The hypothesis was never tested to death because the record never defined what could kill it.**
+> **The founding join existed: it was the discharge synthesis. The later missing operation was the re-join — the explicit reconstruction of that synthesis when new mechanical and neurological treatment-state evidence crossed its boundaries.**
 
-## The GP repeatedly regenerates the integrated object
+That is the longitudinal problem.
 
-Primary care is important because it supplies a natural longitudinal control.
+## The record’s repeated behaviour
 
-Before Neurology, the GP saw feet, gait and tone together. Later primary-care records again link foot problems, clawing, increased tone, abnormal gait and Parkinsonian state.
+Read as a system, the record repeatedly behaves in a recognisable way:
 
-This is not a new exotic theory appearing years later. It is the repeated re-emergence of the integrated object that originally entered specialist care.
+1. integrated information enters;
+2. one pathway receives greater explanatory development;
+3. the relationship between pathways remains qualified;
+4. uncertainty is assigned an operational destination;
+5. the narrative arrangement becomes the plan;
+6. later boundary-crossing evidence is absorbed locally;
+7. the founding directional model is not visibly reconstructed globally;
+8. documentary continuity later becomes evidence of longstanding understanding.
 
-## How fragmentation became dangerous
+This is why the case is better understood as an **information-arrangement problem** than a simple information-loss problem.
 
-The danger does not arise from one phrase such as “Not clear.” It arises because later biology repeatedly crosses the partition while the documentary architecture remains stable.
-
-Procyclidine improves the integrated phenotype. Withdrawal destabilises gait, tension and feet together. The fifth-MTPJ site recurs mechanically. Primary care repeatedly reconnects the feet with tone and gait. Later severe pain persists despite high-dose pregabalin. OFF-related timing appears. Sinemet relieves the feet. Controlled-release Sinemet produces profound relief.
-
-Yet the record identifies local treatment updates rather than a global reconstruction of the 2017 partition.
-
-That is the safety problem:
-
-> **The biology updated. The document did not.**
-
-And:
-
-> **The body behaved integratively while the record behaved partitionally.**
-
-Later clinicians could therefore encounter fragments of a condition whose most important information existed in the relationships between those fragments.
+The record often retains the facts. The decisive issue is what status, relationship, destination and future relevance each fact is allowed to acquire.
 
 ## The controlling proposition
 
-The case does not require proof that the feet were definitely PRKN, definitely dystonia, definitely neuropathy, or definitely one mechanism. It does not require proof of private motive.
+The case does not require proof that Neurology was unreasonable to focus initially on severe young-onset Parkinsonism. It does not require proof that every foot lesion was neurological. It does not require proof that reconsideration mandated levodopa. It does not require proof of private motive.
 
 The narrower proposition is stronger:
 
-> **The patient identified before discharge that a material part of the presenting phenotype had not been neurologically worked through. Neurology did not reopen that question. The discharge synthesis then constructed and transmitted a partition in which the feet were treated as separate or possibly neuropathic, while the Protest that exposed the incompleteness of the phenotype did not travel. Later biological and mechanical evidence repeatedly crossed that boundary without an identified global reconstruction.**
+> **The GP referred an integrated problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs. Neurology understandably concentrated on the striking neurological syndrome and developed a sophisticated young-onset Parkinsonism/PRKN treatment architecture. After days of that work, the patient expressly restored the underweighted first paragraph of the referral by stating that the feet had not been properly dealt with and the work could not be complete. At that point the originating problem was squarely back in view. The later-finalised discharge synthesis contained all of the relevant elements but arranged them so that the neurological admission could be treated as complete while the painful feet remained separate, possibly neuropathic, “Not clear” and operationally Podiatry. The Protest that exposed the closure problem did not travel. Later information repeatedly crossed the resulting boundary without an identified global reconstruction of the founding directional join.**
 
 Shortest:
 
-> **Before the Protest: omission. After the Protest: decision. After the synthesis: durable partition.**
+> **The patient did not introduce a new problem at discharge. He restored the referrer’s original problem after days in which the record had overwhelmingly valued something else. The discharge synthesis then decided what that restored problem was allowed to mean.**
