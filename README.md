@@ -76,14 +76,15 @@ The analytical reservoir remains valuable as an evidential store, but this newer
 
 ## How to read the repository
 
-1. [`REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md`](REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md) — newest controlling refinement: referral architecture, asymmetric weighting, Protest as restoration, commitment pressure, and the synthesis as directional join.
-2. [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) — controlling formulation from incomplete phenotype to durable partition, read subject to the referral-return refinement.
-3. [`founding.md`](founding.md) — the case in plain language.
-4. [`PROSE_LAYER_INFORMATION_STATE.md`](PROSE_LAYER_INFORMATION_STATE.md) — the longitudinal prose layer.
-5. [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md) — the chronological information-state timeline.
-6. [`data/claims.json`](data/claims.json), [`data/knowledge-state.json`](data/knowledge-state.json), [`data/profiles.json`](data/profiles.json), [`data/timeline.json`](data/timeline.json), [`data/evidence-index.json`](data/evidence-index.json), [`data/aggravating-factors.json`](data/aggravating-factors.json) — machine-readable derived structure.
-7. [`SRC_COMPLETE_RECORD_FORENSIC.md`](SRC_COMPLETE_RECORD_FORENSIC.md) — canonical longitudinal primary-record transcription.
-8. [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — the full analytical reservoir, read subject to the controlling-version notes above.
+1. [`professional-fork.html`](professional-fork.html) — **The Professional Fork**, complete narrative edition following the decision hinge through the later evidential corridor and governance response.
+2. [`REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md`](REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md) — newest controlling refinement: referral architecture, asymmetric weighting, Protest as restoration, commitment pressure, and the synthesis as directional join.
+3. [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) — controlling formulation from incomplete phenotype to durable partition, read subject to the referral-return refinement.
+4. [`founding.md`](founding.md) — the case in plain language.
+5. [`PROSE_LAYER_INFORMATION_STATE.md`](PROSE_LAYER_INFORMATION_STATE.md) — the longitudinal prose layer.
+6. [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md) — the chronological information-state timeline.
+7. [`data/claims.json`](data/claims.json), [`data/knowledge-state.json`](data/knowledge-state.json), [`data/profiles.json`](data/profiles.json), [`data/timeline.json`](data/timeline.json), [`data/evidence-index.json`](data/evidence-index.json), [`data/aggravating-factors.json`](data/aggravating-factors.json) — machine-readable derived structure.
+8. [`SRC_COMPLETE_RECORD_FORENSIC.md`](SRC_COMPLETE_RECORD_FORENSIC.md) — canonical longitudinal primary-record transcription.
+9. [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — the full analytical reservoir, read subject to the controlling-version notes above.
 
 ## What the case does not require
 
