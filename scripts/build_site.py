@@ -16,6 +16,7 @@ shutil.copytree(DOCS, OUT)
 
 # The published site is governed from the repository root.
 shutil.copy2(ROOT / "index.html", OUT / "index.html")
+shutil.copy2(ROOT / "professional-fork.html", OUT / "professional-fork.html")
 if ASSETS.exists():
     shutil.copytree(ASSETS, OUT / "assets", dirs_exist_ok=True)
 
@@ -34,4 +35,4 @@ if core_css.exists():
 # Derived machine-readable evidence remains available to the presentation.
 shutil.copytree(DATA, OUT / "data")
 
-print(f"Built {OUT} from root index/assets + docs routes + data")
+print(f"Built {OUT} from root index/professional-fork/assets + docs routes + data")
