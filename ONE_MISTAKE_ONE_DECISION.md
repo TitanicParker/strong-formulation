@@ -44,17 +44,35 @@ It is:
 
 > **the decision to proceed to neurological closure rather than reopen the integrated problem the patient had just restored.**
 
-## 4. The synthesis makes that decision portable
+## 4. After the Protest, the founding synthesis necessarily acquires a defensive function
 
-The later-finalised discharge synthesis contains the relevant facts but allocates them directionally: Parkinsonism/PRKN/treatment strategy are extensively developed; the painful feet can be separate, perhaps neuropathic, “Not clear,” and operationally Podiatry.
+Before the Protest, a discharge synthesis could still be understood simply as the clinician's account of the admission.
 
-The patient’s limited phenomenological distinction is strengthened into **“markedly divorced.”**
+After the Protest, if the clinician nevertheless chose closure, the synthesis had an additional objective task:
+
+> **it had to make that closure professionally coherent despite the patient having just identified the originating problem as unfinished.**
+
+That does not require proof that the clinician consciously thought, "I must protect myself."
+
+The point is functional before it is motivational.
+
+The later-finalised synthesis explains and organises the medicine, but it also legitimises the decision to close. It contains the relevant facts yet allocates them directionally: Parkinsonism/PRKN/treatment strategy are extensively developed; the painful feet can be separate, perhaps neuropathic, “Not clear,” and operationally Podiatry.
+
+The patient's limited phenomenological distinction is strengthened into **“markedly divorced.”**
 
 The Protest does not travel.
 
 Thus:
 
-> **The synthesis turns the closure decision into the durable information state later clinicians inherit.**
+> **There was no fully neutral founding synthesis available after the Protest: once closure was chosen, the synthesis necessarily became part clinical explanation and part justification of the decision to close.**
+
+And:
+
+> **Its defensive character is observable from what it accomplishes; whether professional self-protection was consciously intended is a separate motive question.**
+
+The synthesis therefore does two things at once:
+
+> **it makes the closure decision portable, and it removes from that portable state the event that had made the closure professionally vulnerable.**
 
 ## 5. The omission
 
@@ -89,7 +107,29 @@ Their primary functions are:
 - to trace documentary and clinical consequences;
 - and to ask whether the omitted fork was ever historically reconstructed.
 
-## 7. What 2023 is—and is not
+The later documentary sequence is therefore important in its own right:
+
+> **founding synthesis → accumulated clinic letters → retrospective rebuttal relying on what “the letters show.”**
+
+That sequence does not prove circular reasoning automatically. It does create an evidential-genealogy question: how much of the later continuity independently retested the founding decision, and how much inherited the information architecture created by it?
+
+## 7. Professional protection as function, not assumed motive
+
+The repository may investigate whether the documentary arrangement had a professional-protective effect.
+
+The safe formulation is:
+
+> **The omission of the Protest allowed later continuity to be presented without the contemporaneous fact that completeness had been challenged before closure. That continuity could then be relied upon retrospectively as evidence that the historical management was coherent and adequate.**
+
+This supports analysis of objective professional protection or defensive function.
+
+It does **not**, without further evidence, establish deliberate concealment, dishonesty or a conscious self-protective motive.
+
+The strongest structural chain is:
+
+> **mistake → Protest exposes mistake → closure creates professional vulnerability → synthesis legitimises closure → omission removes the vulnerability from the portable account → later letters inherit the account → retrospective rebuttal relies on those letters → “no deficit in care.”**
+
+## 8. What 2023 is—and is not
 
 The 2023 pain/mobility/falls/psychological-safety episode may present a separate contemporaneous clinical question.
 
@@ -103,15 +143,15 @@ The repository therefore treats it separately:
 
 They may reveal similar information-arrangement behaviour, but they are not the same alleged breach and should not be fused.
 
-## 8. The shortest case
+## 9. The shortest case
 
-> **The mistake was an incomplete neurological construction of the problem the GP sent in. The patient identified that mistake before discharge. The clinician then had to decide whether to reopen it or close. He closed, using Podiatry as the destination. The final synthesis made that decision portable and omitted the Protest that had exposed the incompleteness. The later history is the consequence and test of that founding decision, not the centre of the liability theory.**
+> **The mistake was an incomplete neurological construction of the problem the GP sent in. The patient identified that mistake before discharge. The clinician then had to decide whether to reopen it or close. He closed, using Podiatry as the destination. From that point the founding synthesis could no longer be merely descriptive: it also had to make the closure professionally coherent. It made that decision portable and omitted the Protest that had exposed the incompleteness. The later clinic letters inherited the resulting information state, and the retrospective rebuttal later relied upon that accumulated continuity. The later history is the consequence and test of the founding decision, not the centre of the liability theory.**
 
 Or shorter still:
 
-> **One mistake. One Protest. One decision. One omission. Then the consequences.**
+> **One mistake. One Protest. One decision. One defensive synthesis. One omission. Then the consequences.**
 
-## 9. Discipline
+## 10. Discipline
 
 This simplification does not itself prove:
 
@@ -119,6 +159,7 @@ This simplification does not itself prove:
 - the correct foot mechanism;
 - that every later consequence was caused by the 2017 decision;
 - deliberate concealment;
+- conscious professional self-protection;
 - or that 2023 was negligent.
 
 Its purpose is structural: keep the central alleged 2017 error distinct from the later evidence used to understand its consequences and from any separate later safety question.
