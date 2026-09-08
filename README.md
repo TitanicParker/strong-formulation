@@ -6,119 +6,194 @@ A structured evidential reconstruction of a longitudinal neurological record.
 
 **[Read The Professional Fork — the 30-section narrative centre](professional-fork.html).**
 
-The governing simplification beneath it is:
+The repository now distinguishes between the **narrative centre** and the **breach architecture**.
 
-> **One mistake → the Protest identifies it → one decision → defensive synthesis → omission → consequences.**
+The narrative centre remains the story of how the integrated feet–gait–tone problem was constructed, allocated and carried forward.
 
-Read [`ONE_MISTAKE_ONE_DECISION.md`](ONE_MISTAKE_ONE_DECISION.md) for the shortest statement of the 2017 case and [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) for the expanded controlling formulation.
+The breach architecture recognises that one clinical history may contain several distinct alleged breaches at different information thresholds.
 
-The key documentary point is now explicit:
+Read:
 
-> **After the Protest, the founding synthesis was no longer merely descriptive. Once closure was chosen, it also had the objective function of making that closure professionally coherent despite the patient having just identified the originating problem as unfinished. Its defensive character is observable from what it accomplishes; whether professional self-protection was consciously intended is a separate motive question.**
+- [`ONE_MISTAKE_ONE_DECISION.md`](ONE_MISTAKE_ONE_DECISION.md) for the shortest statement of the founding 2017 narrative;
+- [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) for the expanded controlling formulation;
+- [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md) for the separate breach routes and the 2018 independent backstop.
 
-The resulting documentary genealogy is:
+The governing documentary simplification remains:
 
-> **founding synthesis → accumulated clinic letters → retrospective rebuttal relying on what “the letters show.”**
+> **Integrated referral → unresolved neurological-foot boundary → founding synthesis / allocation → later consequences.**
 
-And the strongest structural chain is:
+But this is **not** now to be read as one legally indivisible negligence allegation.
 
-> **mistake → Protest exposes mistake → closure creates professional vulnerability → synthesis legitimises closure → omission removes the vulnerability from the portable account → later letters inherit the account → retrospective rebuttal relies on those letters → “no deficit in care.”**
+The breach map is:
 
-This is a functional/evidential proposition. It does **not**, without further evidence, establish dishonesty, deliberate concealment or conscious self-protection.
+> **A. July 2017 initial assessment / formulation**  
+> **B. July 2017 decision after express notice, if the Protest is proved**  
+> **C. July 2017 discharge communication / continuity record**  
+> **D. July 2017 inter-specialty handoff / reintegration plan**  
+> **E. 2017–2018 failure to reopen after new treatment-state evidence**  
+> **F. later threshold-specific failure to update, if expert evidence supports one**  
+> **G. separate 2023 safety / reassessment question**
 
-The repository is deliberately hierarchical:
+The crucial independence point is:
 
-1. **2017 controlling case** — one alleged incompleteness, identified by the Protest while the decision was live, followed by a closure decision, a synthesis with an objective defensive function, and an omission that changed the portable decision history;
-2. **later evidential genealogy** — what the subsequent record did with information capable of testing that founding allocation, including how clinic-letter continuity was later used retrospectively;
-3. **2023 separate safety question** — a later pain–mobility–falls–psychological crisis that must be assessed on its own evidence and should not complicate the central 2017 theory.
+> **The Protest strengthens the 2017 case if proved, but it is not a prerequisite to every breach theory. April 2018 may provide an independent clinical backstop because the treating neurologist's own note records rapid treatment-state alteration of the focal outside-left-foot phenomenon.**
 
-### Sections 1–7 — The founding fork
+That means the defence may succeed on one route and still have to answer another.
 
-Use these when reading the opening movement of the essay:
+For example, a defence finding that July 2017 **“Not clear”** was initially reasonable would not by itself answer:
 
-- [`ONE_MISTAKE_ONE_DECISION.md`](ONE_MISTAKE_ONE_DECISION.md) — the controlling simplification.
-- [`founding.md`](founding.md) — the case in plain language.
-- [`REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md`](REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md) — referral architecture, asymmetric weighting, Protest as restoration, commitment pressure and the directional synthesis.
-- [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) — the expanded controlling formulation.
-- [`docs/moment.html`](docs/moment.html) — the Protest moment.
-- [`docs/knowledge-state.html`](docs/knowledge-state.html) — patient knowledge-state and documentary allocation.
-- [`docs/method.html`](docs/method.html) — evidential method and limits.
+> **Even if the July 2017 conclusion that the relationship between the foot problem and the neurological disorder was “Not clear” was initially within reasonable practice, once the treating neurologist recorded that withdrawal of procyclidine was followed by rapid return of the focal outside-left-foot phenomenon, did reasonable neurological practice require that original relationship to be reopened and investigated? If not, why not?**
 
-### Sections 8–12 — The evidential corridor
+That is now the repository's principal independent 2018 expert question.
 
-Use these for later observations that test the consequences and durability of the founding arrangement, not as substitutes for the central 2017 allegation:
+## The founding synthesis
 
-- [`docs/boundary-tests.html`](docs/boundary-tests.html) — procyclidine, fifth-MTPJ recurrence, OFF state and later dopaminergic response.
-- [`AUTHORIAL_CONTINUITY_AND_BOUNDARY_CROSSINGS.md`](AUTHORIAL_CONTINUITY_AND_BOUNDARY_CROSSINGS.md) — same-author evidential genealogy, independent versus dependent support, and response to later boundary crossings.
-- [`PARALLEL_STREAMS_REOPENING_AND_GLOBAL_RECONSTRUCTION.md`](PARALLEL_STREAMS_REOPENING_AND_GLOBAL_RECONSTRUCTION.md) — source-level refinement showing the pre-existing Podiatry pathway, parallel Neurology/Podiatry streams, genuine 2023 reopening and the narrower unresolved question of whether the founding genealogy was ever reconstructed.
-- [`DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md`](DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md) — source-level audit of information flow, branch testing, documentary inheritance and global reconstruction.
-- [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md) and [`docs/timeline.html`](docs/timeline.html) — chronology.
-- [`docs/contradictions.html`](docs/contradictions.html) — points where later evidence strains the inherited account.
-- [`docs/evidence.html`](docs/evidence.html) — claim-to-evidence presentation.
+The July 2017 communication is treated as the founding specialist synthesis because it does two things simultaneously:
 
-### Sections 13–16 — Harm and the separate 2023 safety question
+> **it constructs the Parkinsonian diagnosis, and it allocates the unresolved feet outside the core neurological formulation.**
 
-Use these for the 2023–2025 deterioration and contemporaneous safety analysis. This material is **not part of the shortest 2017 negligence theory**.
+The specialist communication carries unusual authority: prolonged admission, detailed neurological examination, extensive differential reasoning, Complex Case Meeting, senior neurological input, neurogenetic/PRKN reasoning, treatment strategy and a forward plan.
 
-- [`2023_CONVERGENCE_CRISIS_AND_SAFETY_INTEGRATION.md`](2023_CONVERGENCE_CRISIS_AND_SAFETY_INTEGRATION.md) — pain, mobility failure, observed stumbles, prior falls-risk knowledge, medication burden and psychological endurance.
-- [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md) — longitudinal sequence.
-- [`PROSE_LAYER_INFORMATION_STATE.md`](PROSE_LAYER_INFORMATION_STATE.md) — prose reconstruction of the information state.
-- [`docs/profiles.html`](docs/profiles.html) — focused analytical propositions.
-- [`docs/sources.html`](docs/sources.html) — source orientation.
+Inside that high-authority product, the feet are left:
 
-### Sections 17–24 — Reconstruction and institutional history
+> **“completely separate” / possible peripheral neuropathy / “Not clear” / Podiatry.**
 
-Use these for PRKN, pregabalin, Sinemet CR, complaint response, governance and documentary continuity:
-
-- [`docs/loop-2025.html`](docs/loop-2025.html) — the 2025 loop.
-- [`AUTHORIAL_CONTINUITY_AND_BOUNDARY_CROSSINGS.md`](AUTHORIAL_CONTINUITY_AND_BOUNDARY_CROSSINGS.md) — why documentary persistence is not automatically independent revalidation.
-- [`PARALLEL_STREAMS_REOPENING_AND_GLOBAL_RECONSTRUCTION.md`](PARALLEL_STREAMS_REOPENING_AND_GLOBAL_RECONSTRUCTION.md) — why the correct later question is no longer whether the feet were ever reconsidered, but whether the founding evidence was ever brought back together historically.
-- [`GDPR_LIVE_WAITING_STATE_2026-09-04.md`](GDPR_LIVE_WAITING_STATE_2026-09-04.md) — live information-governance track as at 4 September 2026.
-- [`EVIDENTIAL_ACCESS_AND_PROCEDURAL_OPACITY.md`](EVIDENTIAL_ACCESS_AND_PROCEDURAL_OPACITY.md) — corroboration, controller-side audit questions, procedural opacity and the evidential-access chain.
-- [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md) — chronology.
-- [`docs/evidence.html`](docs/evidence.html) — supporting evidence.
-
-### Sections 25–30 — Meaning, questions and the vow
-
-Use these when the essay turns from history to what the record now needs to answer:
-
-- [`docs/counsel.html`](docs/counsel.html) — counsel-facing questions.
-- [`docs/evidence.html`](docs/evidence.html) — audit the propositions.
-- [`docs/sources.html`](docs/sources.html) — return to the source material.
-
-## The controlling centre
-
-The shortest case is deliberately simple.
-
-> **The mistake:** the GP sent one integrated feet–gait–tone problem into Neurology. Severe Parkinsonism was identified and extensively developed, but the painful abnormal feet through which the referral began were not equivalently reconstructed after those neurological discoveries.
->
-> **The Protest:** before discharge the patient directly identified that incompleteness — the feet had not been properly dealt with and Neurology therefore could not be finished.
->
-> **The decision:** the answer was Podiatry. Source-level review now shows that Podiatry was already an active GP-origin pathway, while the surviving patient-facing corpus does not identify a distinct post-Protest neurological question or return mechanism added to that pathway.
->
-> **The defensive synthesis:** once closure was chosen, the later-finalised synthesis necessarily became part clinical explanation and part justification of the decision to close. It made that closure professionally coherent and portable.
->
-> **The omission:** the synthesis did not carry the Protest that had exposed the incompleteness and made the closure vulnerable.
->
-> **The consequences:** later clinicians inherited the resulting information state; clinic letters accumulated inside it; Podiatry and Neurology developed complementary mechanical and dynamic truths; later evidence repeatedly tested the durability of the founding allocation; and the retrospective rebuttal later relied upon what “the letters show.”
-
-Thus the governing 2017 allegation is not that Parkinson's was wrongly diagnosed, that every foot lesion was neurological, or that the exact mechanism was already obvious.
+The documentary question is therefore not simply whether uncertainty was permissible.
 
 It is:
 
-> **An incompletely constructed part of the referred neurological problem was expressly identified by the patient while the admission was still open; the clinician then chose closure rather than reopening; the resulting synthesis necessarily acquired an objective defensive function; and the portable account omitted the event that had challenged the adequacy of closure.**
+> **what work had actually been done to earn that uncertainty, and what authority did the finished communication confer upon it?**
 
-Everything after that should initially be read as **consequence, test, genealogy or separate later question**, not as part of the first sentence of the case.
+The repository preserves the proposition:
 
-The continuity question remains:
+> **“Not clear” had institutional provenance.**
 
-> **The issue was reopened. The founding genealogy was not yet shown to have been reconstructed.**
+The sophistication of the surrounding specialist reasoning could allow the least-developed proposition — the unresolved foot relationship — to inherit the authority of the much more extensively investigated propositions surrounding it.
 
-Separately, 2023 may present a second contemporaneous safety question. The neurological channel received an urgent pain crisis containing serious endurance language, reviewed major walking restriction and directly observed stumbles against a pre-existing falls-risk history. That question is preserved separately:
+If the Protest occurred as described, its significance is not merely that a patient complaint was omitted. It potentially bears on the **provenance of the uncertainty**: whether later readers understood “Not clear” as residual uncertainty after adequate specialist investigation rather than uncertainty whose adequacy had just been challenged before closure.
 
-> **Was the combined pain–mobility–falls–psychological safety state recognised and managed as one clinical object?**
+That remains a conditional factual/documentary proposition, not proof of concealment or motive.
 
-Do not fuse that issue into the central 2017 allegation.
+## Sections 1–7 — The founding fork
+
+Use these for the original July 2017 information state:
+
+- [`ONE_MISTAKE_ONE_DECISION.md`](ONE_MISTAKE_ONE_DECISION.md)
+- [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md)
+- [`REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md`](REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md)
+- [`docs/moment.html`](docs/moment.html)
+- [`docs/knowledge-state.html`](docs/knowledge-state.html)
+- [`docs/method.html`](docs/method.html)
+
+## Sections 8–12 — Breach routes and boundary crossings
+
+Use these to distinguish later evidence from the original narrative centre:
+
+- [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md) — the master breach-by-breach map.
+- [`docs/boundary-tests.html`](docs/boundary-tests.html) — procyclidine, fifth-MTPJ recurrence, later OFF state and dopaminergic response.
+- [`AUTHORIAL_CONTINUITY_AND_BOUNDARY_CROSSINGS.md`](AUTHORIAL_CONTINUITY_AND_BOUNDARY_CROSSINGS.md)
+- [`PARALLEL_STREAMS_REOPENING_AND_GLOBAL_RECONSTRUCTION.md`](PARALLEL_STREAMS_REOPENING_AND_GLOBAL_RECONSTRUCTION.md)
+- [`DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md`](DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md)
+- [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md)
+
+The most important refinement is that later treatment-state evidence is no longer treated only as consequence or corroborative pressure on the 2017 theory.
+
+It can create a **new expert decision point**.
+
+### October 2017 / April 2018 — the independent reopening question
+
+Professor Healy recorded dramatic motor improvement with low-dose procyclidine and rasagiline.
+
+During procyclidine interruption, contemporaneous evidence records:
+
+> **tension building + feet restless + walk falling apart.**
+
+Then the treating neurologist's April 2018 note records that the **first thing** to change, and change rapidly, was the return of the outside-left-foot phenomenon.
+
+That does not prove mechanism.
+
+It creates the question:
+
+> **What did reasonable neurological practice require once Neurology's own treatment-state evidence appeared to cross the boundary it had previously left “Not clear”?**
+
+Possible interpretations include altered loading, posture, dystonia/tone, gait, pain generation at an existing lesion, sensory processing or a mixed mechanism.
+
+The expert does not need to accept one mechanism before deciding whether reconsideration was required.
+
+## Mechanical target and mixed mechanism
+
+Podiatry later developed a stable focal mechanical object:
+
+- recurrent left fifth-MTPJ HD/callus;
+- repeated debridement/enucleation;
+- direct offloading;
+- clawed toes;
+- pronating foot type;
+- repeated insole and toe-prop management.
+
+That establishes real mechanical pathology.
+
+It does **not** establish that the mechanical loading was neurologically independent.
+
+The correct integrative question is:
+
+> **Was the structural lesion mechanically independent, neurologically influenced, or mixed?**
+
+Neurology accumulated dynamic treatment-state evidence while Podiatry accumulated focal mechanical evidence. Whether reasonable care required those streams to be brought together is an expert question.
+
+## Causation remains separate for every breach
+
+No alleged breach automatically carries all later harm.
+
+For each breach point, the expert must identify:
+
+- the earliest date reasonable practice required something different;
+- what information was then available;
+- what examination, formulation, handoff, treatment trial or follow-up should have occurred;
+- whether failure to do that fell below reasonable practice;
+- what probably would have happened if it had been done;
+- and which later harms, if any, would probably have been avoided or reduced.
+
+The repository presently tells the information-state story more strongly than it proves the damages counterfactual.
+
+## 2023 remains separate
+
+The 2023 pain–mobility–falls–psychological-safety episode remains a separate later question.
+
+It should not be used to prove the 2017 or 2018 allegations by analogy.
+
+The question remains:
+
+> **Was the combined pain–mobility–falls–psychological safety state recognised and managed as one contemporaneous risk object?**
+
+## Documentary genealogy
+
+The later documentary sequence remains:
+
+> **founding synthesis → accumulated clinic letters → retrospective rebuttal relying on what “the letters show.”**
+
+This does not prove circularity automatically.
+
+It creates a provenance question: which later propositions were independently generated, and which gained force through inherited continuity?
+
+## Evidential discipline
+
+The repository does not presently claim that:
+
+- the Protest is independently established;
+- July 2017 was necessarily negligent;
+- April 2018 was necessarily negligent;
+- Podiatry was inappropriate;
+- the fifth-MTPJ lesion was caused by dystonia;
+- peripheral neuropathy never existed;
+- later Neurology never reconsidered the feet;
+- levodopa should necessarily have been started in 2017;
+- conscious concealment, dishonesty or self-protective motive is proved;
+- or every later harm was caused by any one earlier decision.
+
+The controlling expert posture is:
+
+> **One clinical history. Several decision points. Several possible breaches. The Protest strengthens the 2017 case if proved; April 2018 supplies an independent clinical backstop; causation must be proved separately from each point.**
 
 ## Primary and analytical material
 
@@ -127,23 +202,11 @@ Do not fuse that issue into the central 2017 allegation.
 - [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — full analytical reservoir.
 - [`data/`](data/) — machine-readable derived structure.
 
-## What the case does not require
-
-It does not require proof that every structural foot abnormality had one neurological cause. It does not require proof that Neurology should have known the exact mechanism in July 2017. It does not require proof that reconsidering the feet required immediate levodopa. It does not require proof that the Parkinson's diagnosis was wrong. It does not require pretending that no later reconsideration occurred. It does not require proof that same authorship makes later letters worthless. It does not require proof of deliberate concealment, dishonesty or conscious professional self-protection. It does not require treating later death/endurance language as proof of a suicide plan. It does not require claiming that observed stumbles made a fall inevitable.
-
-The controlling simplification is structural, not rhetorical:
-
-> **One mistake. One Protest. One decision. One defensive synthesis. One omission. Then the consequences.**
-
 ## Separate evidential-access track
 
-The repository also distinguishes the underlying clinical/documentary case from the later problem of obtaining and testing potentially corroborative institutional information.
+The repository also distinguishes the clinical/documentary case from the later problem of obtaining and testing potentially corroborative institutional information.
 
-That track does **not** treat current non-production as proof of concealment, destruction, or non-existence. It asks what potentially corroborative sources were identifiable, who held the systems capable of locating them, what searches or decisions were actually made, and only after those steps what significance—if any—can properly arise from non-production.
-
-Its controlling procedural formulation is:
-
-> **Repeated failure to convert clearly articulated data-subject rights into clear, correctly characterised, timely and operationally effective controller decisions can produce cumulative procedural opacity and preserve material factual uncertainty.**
+That track does **not** treat current non-production as proof of concealment, destruction or non-existence.
 
 See [`EVIDENTIAL_ACCESS_AND_PROCEDURAL_OPACITY.md`](EVIDENTIAL_ACCESS_AND_PROCEDURAL_OPACITY.md).
 
