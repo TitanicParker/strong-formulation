@@ -4,30 +4,158 @@ A structured evidential reconstruction of a longitudinal neurological record.
 
 ## Start here
 
-**[Read The Professional Fork — the 30-section narrative centre](professional-fork.html).**
+The repository now has a **promoted pair**:
 
-The repository now distinguishes between the **narrative centre**, the **breach architecture**, and the **longitudinal synthesis problem**.
+1. [`CLINICAL_LOCK_IN_MASTER_NARRATIVE.md`](CLINICAL_LOCK_IN_MASTER_NARRATIVE.md) — the **primary clinical narrative**.
+2. [`EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md`](EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md) — the **expert-facing companion**, converting that narrative into discrete questions on standard of care, breach and causation.
 
-The narrative centre remains the story of how the integrated feet–gait–tone problem was constructed, allocated and carried forward.
+Public reading versions:
 
-The breach architecture recognises that one clinical history may contain several distinct alleged breaches at different information thresholds.
+- [`docs/clinical-lock-in.html`](docs/clinical-lock-in.html)
+- [`docs/expert-instruction.html`](docs/expert-instruction.html)
 
-The longitudinal synthesis layer asks a different question: whether later neurological, mechanical and treatment-state observations were repeatedly used for local purposes without producing equivalent global revision of the founding neurological–foot boundary.
+The 30-section [`professional-fork.html`](professional-fork.html) remains **beside** the new centre as a deeper documentary narrative. It is retained because it performs a different function — Protest, closure, founding synthesis, omission, professional-coherence function and documentary genealogy — but it is no longer the primary entry point.
 
-Read:
+## The new centre
 
-- [`ONE_MISTAKE_ONE_DECISION.md`](ONE_MISTAKE_ONE_DECISION.md) for the shortest statement of the founding 2017 narrative;
-- [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) for the expanded controlling formulation;
-- [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md) for the separate breach routes and the 2018 independent backstop;
-- [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) for the longitudinal question of local updating, global non-revision and possible formulation-dependent uncertainty.
+The case is no longer sensibly reduced to whether one man's foot pain was “Parkinsonian.”
 
-The governing documentary simplification remains:
+The leading question is:
 
-> **Integrated referral → unresolved neurological-foot boundary → founding synthesis / allocation → later consequences.**
+> **Why did evidence repeatedly cross the neurological-foot boundary without the boundary itself being revised?**
 
-But this is **not** now to be read as one legally indivisible negligence allegation.
+The clinical narrative asks whether an early neurological–foot boundary became embedded in the founding synthesis and subsequent care pathway, then remained insufficiently reconstructed when later evidence repeatedly crossed it.
 
-The breach map is:
+The safe systems formulation is:
+
+> **a founding synthesis creates a boundary → the boundary shapes the care pathway → later evidence is repeatedly used within that pathway without clearly being allowed to test and revise the boundary itself.**
+
+The repository calls this hypothesis **clinical lock-in**.
+
+That term does **not** itself prove negligence, confirmation bias, deliberate suppression or motive. It identifies a structure for independent expert testing.
+
+## The founding boundary
+
+The 2017 record contains:
+
+- a strikingly abnormal gait;
+- marked rigidity and bradykinesia;
+- a lower-limb appearance **“somewhat suggestive of a dystonic posture – NOT FOOT DROP”**;
+- an **“almost dystonically unusual”** walk in the DAT request;
+- suspected autosomal-recessive Parkinsonism;
+- later detailed PRKN/PARK2 reasoning;
+- painful abnormal feet, pes planus and hammertoes.
+
+Yet the painful feet were made compatible with:
+
+> **“completely separate” / possible peripheral neuropathy / “Not clear” / Podiatry.**
+
+The key distinction is:
+
+> **epistemically uncertain, operationally committed.**
+
+The claimant does not allege that uncertainty itself was negligent or that Podiatry was inappropriate. The expert question is whether the neurological–foot relationship had been adequately investigated, or placed within a process capable of resolving it, before that operational separation occurred.
+
+## The Protest
+
+The patient's account is that, before discharge, he said in substance:
+
+> **You have not dealt with my feet.**
+
+That remains a factual allegation requiring ordinary proof and corroboration.
+
+If proved, it creates a separate decision-after-notice issue and may alter the provenance of the founding communication: later readers received an authoritative specialist **“Not clear”** without the asserted contemporaneous fact that the adequacy of the underlying inquiry had just been challenged.
+
+The repository does not infer conscious concealment or dishonesty from that omission alone.
+
+## The 2018 independent backstop
+
+The later treatment-state evidence is not merely hindsight pressure on the 2017 theory.
+
+During procyclidine interruption, contemporaneous evidence records:
+
+> **tension building + feet restless + walk falling apart.**
+
+In April 2018 the treating neurologist himself recorded that the **first thing** changing, and changing rapidly, was the return of the outside-left-foot phenomenon, together with broader worsening and being more **“shifty”** and **“unrelaxed.”**
+
+That does not prove that a structural corn disappeared pharmacologically or that dystonia caused the focal lesion.
+
+It creates an independent expert question:
+
+> **Even if the July 2017 uncertainty was initially reasonable, did the 2018 dechallenge require the original foot/neurological relationship to be reopened? If not, why not?**
+
+This route barely depends on the Protest.
+
+## Mixed mechanism and ownership
+
+Podiatry repeatedly documented genuine focal pathology at the left fifth MTPJ, including HD/callus, clawed toes, repeated debridement/enucleation and mechanical offloading.
+
+Structural pathology does not automatically establish **structural independence**.
+
+The correct question is:
+
+> **Was the structural lesion mechanically independent, neurologically influenced, or mixed?**
+
+The repository's ownership formulation is:
+
+> **Neurology did not have to own every foot lesion. It may nevertheless have had to own the unresolved neurological relationship.**
+
+Whether reasonable practice required that ownership is an expert question.
+
+## The longitudinal pattern
+
+Later evidence repeatedly crossed the original boundary:
+
+- 2019 primary-care wording linked the feet with increased tone and abnormal Parkinsonian gait;
+- 2022 Neurology recorded that the claimant had bought a dog and was walking **2.5–3 hours per day**, while most mornings his feet took **20–25 minutes to “warm up”** and remained sore around the corns and calluses;
+- 2023 Neurology considered clawing, OFF dystonia, Parkinsonian non-motor pain fluctuation and later assessed pain plus shuffling as OFF-related;
+- 2024 pregabalin relieved pain while activity-dependent toe curling persisted;
+- 2025 Neurology recorded that once Sinemet **“hits his system”** the feet feel better from a pain perspective and that more Sinemet would probably produce additional relief, though with dyskinesia risk.
+
+The record-level pattern is described as:
+
+> **selective utilisation without integrative revision.**
+
+Or more compactly:
+
+> **local updating, global non-revision.**
+
+Read [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) for the full longitudinal analysis.
+
+## The expert-facing companion
+
+[`EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md`](EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md) asks the instructed neurologist to distinguish:
+
+1. reasonable diagnostic uncertainty;
+2. inadequate investigation producing apparent uncertainty;
+3. reasonable separation of structural and neurological pathology;
+4. premature or unsupported clinical partitioning;
+5. failure to revise that partition when later evidence emerged.
+
+It then asks separately about:
+
+- the original neurological task;
+- the foundation for **“Not clear”**;
+- Podiatry disposition and reintegration;
+- the Protest hypothetical;
+- the 2018 procyclidine dechallenge;
+- recurrent focal structural pathology;
+- later integration without historical reconstruction;
+- 2023 psychological distress and safeguarding;
+- discrete breach findings;
+- and breach-specific causation.
+
+The ultimate expert question is:
+
+> **Why did evidence repeatedly cross the neurological-foot boundary without the boundary itself being revised?**
+
+## Discrete breach architecture
+
+One clinical history may contain several separate alleged breaches.
+
+Read [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md).
+
+The map is:
 
 > **A. July 2017 initial assessment / formulation**  
 > **B. July 2017 decision after express notice, if the Protest is proved**  
@@ -37,243 +165,72 @@ The breach map is:
 > **F. later threshold-specific failure to update, if expert evidence supports one**  
 > **G. separate 2023 safety / reassessment question**
 
-The crucial independence point is:
+The Protest strengthens the 2017 case if proved, but it is not a prerequisite to every breach theory. April 2018 may provide an independent clinical backstop.
 
-> **The Protest strengthens the 2017 case if proved, but it is not a prerequisite to every breach theory. April 2018 may provide an independent clinical backstop because the treating neurologist's own note records rapid treatment-state alteration of the focal outside-left-foot phenomenon.**
-
-That means the defence may succeed on one route and still have to answer another.
-
-For example, a defence finding that July 2017 **“Not clear”** was initially reasonable would not by itself answer:
-
-> **Even if the July 2017 conclusion that the relationship between the foot problem and the neurological disorder was “Not clear” was initially within reasonable practice, once the treating neurologist recorded that withdrawal of procyclidine was followed by rapid return of the focal outside-left-foot phenomenon, did reasonable neurological practice require that original relationship to be reopened and investigated? If not, why not?**
-
-That is now the repository's principal independent 2018 expert question.
-
-## The founding synthesis
-
-The July 2017 communication is treated as the founding specialist synthesis because it does two things simultaneously:
-
-> **it constructs the Parkinsonian diagnosis, and it allocates the unresolved feet outside the core neurological formulation.**
-
-The specialist communication carries unusual authority: prolonged admission, detailed neurological examination, extensive differential reasoning, Complex Case Meeting, senior neurological input, neurogenetic/PRKN reasoning, treatment strategy and a forward plan.
-
-Inside that high-authority product, the feet are left:
-
-> **“completely separate” / possible peripheral neuropathy / “Not clear” / Podiatry.**
-
-The documentary question is therefore not simply whether uncertainty was permissible.
-
-It is:
-
-> **what work had actually been done to earn that uncertainty, and what authority did the finished communication confer upon it?**
-
-The repository preserves the proposition:
-
-> **“Not clear” had institutional provenance.**
-
-The sophistication of the surrounding specialist reasoning could allow the least-developed proposition — the unresolved foot relationship — to inherit the authority of the much more extensively investigated propositions surrounding it.
-
-If the Protest occurred as described, its significance is not merely that a patient complaint was omitted. It potentially bears on the **provenance of the uncertainty**: whether later readers understood “Not clear” as residual uncertainty after adequate specialist investigation rather than uncertainty whose adequacy had just been challenged before closure.
-
-That remains a conditional factual/documentary proposition, not proof of concealment or motive.
-
-## The longitudinal synthesis problem
-
-A further refinement is now explicit.
-
-The later evidence was not necessarily absent, ignored or disbelieved. Much of it was clinically used.
-
-The recurring audit question is whether it was used **locally** without being allowed to revise the **global** relationship between the movement disorder and the painful structural foot.
-
-Examples include:
-
-- dystonic lower-limb features used to characterise the phenotype;
-- procyclidine used therapeutically and its withdrawal recognised clinically;
-- Podiatry repeatedly treating the focal fifth-MTPJ mechanical lesion;
-- OFF-state reasoning used to explain pain and shuffling;
-- Stalevo used to treat an OFF-related state;
-- pregabalin altering pain without removing toe curling;
-- Sinemet responsiveness being acknowledged in the feet.
-
-The safe controlling formulation is:
-
-> **The record repeatedly generated observations capable of bearing on the neurological–mechanical relationship. Those observations were often clinically used. The expert question is whether they were adequately assembled into a revised integrated formulation when reasonable practice required it.**
-
-This pattern is described as:
-
-> **selective utilisation without integrative revision.**
-
-And, more compactly:
-
-> **local updating, global non-revision.**
-
-The repository does **not** treat that pattern as proof of confirmation bias, lock-in or negligence. Those remain expert-dependent interpretations.
-
-The systems hypothesis is narrower:
-
-> **Did later evidence cause the founding formulation to be reconsidered, or did the founding formulation principally govern how the later evidence was interpreted?**
-
-The repository also distinguishes unavoidable uncertainty from possible **formulation-dependent uncertainty**:
-
-> **the persistence of uncertainty may partly reflect the way relevant observations were compartmentalised, such that evidence capable of narrowing or restructuring the uncertainty was repeatedly used for narrower purposes without being assembled into a revised integrated model.**
-
-If an independent movement-disorders expert concludes that the later evidence should have required integrative revision, the stronger proposition becomes available:
-
-> **The uncertainty was not simply the unavoidable residue of difficult medicine; it may have been prolonged because the clinical formulation was not adequately updated by the evidence it generated.**
-
-## Sections 1–7 — The founding fork
-
-Use these for the original July 2017 information state:
-
-- [`ONE_MISTAKE_ONE_DECISION.md`](ONE_MISTAKE_ONE_DECISION.md)
-- [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md)
-- [`REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md`](REFERRAL_RETURN_AND_COMMITMENT_PRESSURE.md)
-- [`docs/moment.html`](docs/moment.html)
-- [`docs/knowledge-state.html`](docs/knowledge-state.html)
-- [`docs/method.html`](docs/method.html)
-
-## Sections 8–12 — Breach routes and boundary crossings
-
-Use these to distinguish later evidence from the original narrative centre:
-
-- [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md) — the master breach-by-breach map.
-- [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) — local utilisation, global revision, ownership and formulation-dependent uncertainty.
-- [`docs/boundary-tests.html`](docs/boundary-tests.html) — procyclidine, fifth-MTPJ recurrence, later OFF state and dopaminergic response.
-- [`AUTHORIAL_CONTINUITY_AND_BOUNDARY_CROSSINGS.md`](AUTHORIAL_CONTINUITY_AND_BOUNDARY_CROSSINGS.md)
-- [`PARALLEL_STREAMS_REOPENING_AND_GLOBAL_RECONSTRUCTION.md`](PARALLEL_STREAMS_REOPENING_AND_GLOBAL_RECONSTRUCTION.md)
-- [`DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md`](DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md)
-- [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md)
-
-The most important refinement is that later treatment-state evidence is no longer treated only as consequence or corroborative pressure on the 2017 theory.
-
-It can create a **new expert decision point**.
-
-### October 2017 / April 2018 — the independent reopening question
-
-Professor Healy recorded dramatic motor improvement with low-dose procyclidine and rasagiline.
-
-During procyclidine interruption, contemporaneous evidence records:
-
-> **tension building + feet restless + walk falling apart.**
-
-Then the treating neurologist's April 2018 note records that the **first thing** to change, and change rapidly, was the return of the outside-left-foot phenomenon.
-
-That does not prove mechanism.
-
-It creates the question:
-
-> **What did reasonable neurological practice require once Neurology's own treatment-state evidence appeared to cross the boundary it had previously left “Not clear”?**
-
-Possible interpretations include altered loading, posture, dystonia/tone, gait, pain generation at an existing lesion, sensory processing or a mixed mechanism.
-
-The expert does not need to accept one mechanism before deciding whether reconsideration was required.
-
-## Mechanical target and mixed mechanism
-
-Podiatry later developed a stable focal mechanical object:
-
-- recurrent left fifth-MTPJ HD/callus;
-- repeated debridement/enucleation;
-- direct offloading;
-- clawed toes;
-- pronating foot type;
-- repeated insole and toe-prop management.
-
-That establishes real mechanical pathology.
-
-It does **not** establish that the mechanical loading was neurologically independent.
-
-The correct integrative question is:
-
-> **Was the structural lesion mechanically independent, neurologically influenced, or mixed?**
-
-Neurology accumulated dynamic treatment-state evidence while Podiatry accumulated focal mechanical evidence. Whether reasonable care required those streams to be brought together is an expert question.
-
-The repository's ownership formulation is:
-
-> **Neurology did not have to own every foot lesion. It may nevertheless have had to own the unresolved neurological relationship.**
-
-Whether reasonable practice required that ownership is an expert question.
-
-## Patient knowledge-state
-
-The patient's and clinician's knowledge states may have moved in different directions.
-
-Neurological treatment produced marked motor improvement and was associated with improvement in the foot phenomenon about which the patient had complained.
-
-From the patient's perspective that could reasonably reinforce confidence in specialist care.
-
-Its potentially contrary significance — that a symptom allocated as possibly separate appeared to vary with neurological treatment state — required professional interpretation.
-
-Thus:
-
-> **The treatment reassured the patient while giving Neurology a reason to reconsider.**
-
-The sharper formulation remains conditional:
-
-> **The tablets could mask the alleged error from the patient while simultaneously generating evidence of it for the neurologist.**
-
-## Causation remains separate for every breach
+## Causation remains separate
 
 No alleged breach automatically carries all later harm.
 
 For each breach point, the expert must identify:
 
 - the earliest date reasonable practice required something different;
-- what information was then available;
-- what examination, formulation, handoff, treatment trial or follow-up should have occurred;
-- whether failure to do that fell below reasonable practice;
-- what probably would have happened if it had been done;
+- the information then available;
+- the expected examination, formulation, handoff, treatment trial or follow-up;
+- whether omission fell below reasonable practice;
+- what would probably have happened if competent care had occurred;
 - and which later harms, if any, would probably have been avoided or reduced.
 
-The repository presently tells the information-state story more strongly than it proves the damages counterfactual.
+The repository presently establishes the longitudinal clinical/documentary problem more strongly than it establishes ultimate liability or the damages counterfactual.
 
-## 2023 remains separate
+## 2023 remains a separate safety question
 
-The 2023 pain–mobility–falls–psychological-safety episode remains a separate later question.
+The later record contains severe pain, major walking restriction, high-dose pregabalin, prior falls-risk information, serious psychological-endurance language and directly observed stumbles, alongside genuine current-state neurological reconsideration.
 
-It should not be used to prove the 2017 or 2018 allegations by analogy.
-
-The question remains:
+The separate question remains:
 
 > **Was the combined pain–mobility–falls–psychological safety state recognised and managed as one contemporaneous risk object?**
 
-## Documentary genealogy
+Do not use 2023 to prove the 2017 or 2018 allegations by analogy.
 
-The later documentary sequence remains:
+## Deep documentary narrative
 
-> **founding synthesis → accumulated clinic letters → retrospective rebuttal relying on what “the letters show.”**
+[`professional-fork.html`](professional-fork.html) remains available as the 30-section documentary essay.
 
-This does not prove circularity automatically.
+It should now be read **after or beside** the primary clinical pair, not as the controlling first read.
 
-It creates a provenance question: which later propositions were independently generated, and which gained force through inherited continuity?
+Its particular value is in analysing:
+
+> **Protest → closure → founding synthesis → omission → documentary genealogy.**
+
+## Primary and analytical material
+
+- [`SRC_COMPLETE_RECORD_FORENSIC.md`](SRC_COMPLETE_RECORD_FORENSIC.md) — canonical longitudinal primary-record transcription.
+- [`CLINICAL_LOCK_IN_MASTER_NARRATIVE.md`](CLINICAL_LOCK_IN_MASTER_NARRATIVE.md) — primary clinical narrative.
+- [`EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md`](EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md) — expert-facing companion.
+- [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) — controlling evidential discipline.
+- [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md) — breach-by-breach structure.
+- [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) — longitudinal synthesis layer.
+- [`DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md`](DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md) — source-level investigation report.
+- [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — analytical reservoir.
 
 ## Evidential discipline
 
 The repository does not presently claim that:
 
-- the Protest is independently established;
-- July 2017 was necessarily negligent;
-- April 2018 was necessarily negligent;
+- the Protest is established;
+- July 2017 or April 2018 was necessarily negligent;
 - Podiatry was inappropriate;
+- every foot abnormality was neurological;
 - the fifth-MTPJ lesion was caused by dystonia;
 - peripheral neuropathy never existed;
 - later Neurology never reconsidered the feet;
-- levodopa should necessarily have been started in 2017;
-- selective utilisation proves conscious lock-in or confirmation bias;
-- conscious concealment, dishonesty or self-protective motive is proved;
+- Sinemet response proves the original pathology was Parkinsonian;
+- clinical lock-in, confirmation bias, concealment or motive is proved;
 - or every later harm was caused by any one earlier decision.
 
-The controlling expert posture is:
+The controlling posture is:
 
-> **One clinical history. Several decision points. Several possible breaches. The Protest strengthens the 2017 case if proved; April 2018 supplies an independent clinical backstop; later evidence raises a separate question of local utilisation versus global revision; causation must be proved separately from each point.**
-
-## Primary and analytical material
-
-- [`SRC_COMPLETE_RECORD_FORENSIC.md`](SRC_COMPLETE_RECORD_FORENSIC.md) — canonical longitudinal primary-record transcription.
-- [`DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md`](DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md) — current source-level investigation report.
-- [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — full analytical reservoir.
-- [`data/`](data/) — machine-readable derived structure.
+> **Clinical boundary identified. Repeated crossings documented. Revision is an expert question. Breach and causation remain to be proved.**
 
 ## Separate evidential-access track
 
