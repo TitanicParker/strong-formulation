@@ -4,16 +4,32 @@ A structured evidential reconstruction of a longitudinal neurological record.
 
 ## Start here
 
-The governing simplification is now:
+**[Read The Professional Fork — the 30-section narrative centre](professional-fork.html).**
 
-> **One mistake → the Protest identifies it → one decision → omission → consequences.**
+The governing simplification beneath it is:
 
-Read [`ONE_MISTAKE_ONE_DECISION.md`](ONE_MISTAKE_ONE_DECISION.md) first for the shortest statement of the 2017 case, then **[The Professional Fork](professional-fork.html)** for the full narrative.
+> **One mistake → the Protest identifies it → one decision → defensive synthesis → omission → consequences.**
+
+Read [`ONE_MISTAKE_ONE_DECISION.md`](ONE_MISTAKE_ONE_DECISION.md) for the shortest statement of the 2017 case and [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) for the expanded controlling formulation.
+
+The key documentary point is now explicit:
+
+> **After the Protest, the founding synthesis was no longer merely descriptive. Once closure was chosen, it also had the objective function of making that closure professionally coherent despite the patient having just identified the originating problem as unfinished. Its defensive character is observable from what it accomplishes; whether professional self-protection was consciously intended is a separate motive question.**
+
+The resulting documentary genealogy is:
+
+> **founding synthesis → accumulated clinic letters → retrospective rebuttal relying on what “the letters show.”**
+
+And the strongest structural chain is:
+
+> **mistake → Protest exposes mistake → closure creates professional vulnerability → synthesis legitimises closure → omission removes the vulnerability from the portable account → later letters inherit the account → retrospective rebuttal relies on those letters → “no deficit in care.”**
+
+This is a functional/evidential proposition. It does **not**, without further evidence, establish dishonesty, deliberate concealment or conscious self-protection.
 
 The repository is deliberately hierarchical:
 
-1. **2017 controlling case** — one alleged incompleteness, identified by the Protest while the decision was live, followed by a closure decision and an omission that changed the portable decision history;
-2. **later evidential genealogy** — what the subsequent record did with information capable of testing that founding allocation;
+1. **2017 controlling case** — one alleged incompleteness, identified by the Protest while the decision was live, followed by a closure decision, a synthesis with an objective defensive function, and an omission that changed the portable decision history;
+2. **later evidential genealogy** — what the subsequent record did with information capable of testing that founding allocation, including how clinic-letter continuity was later used retrospectively;
 3. **2023 separate safety question** — a later pain–mobility–falls–psychological crisis that must be assessed on its own evidence and should not complicate the central 2017 theory.
 
 ### Sections 1–7 — The founding fork
@@ -80,19 +96,19 @@ The shortest case is deliberately simple.
 >
 > **The decision:** the answer was Podiatry. Source-level review now shows that Podiatry was already an active GP-origin pathway, while the surviving patient-facing corpus does not identify a distinct post-Protest neurological question or return mechanism added to that pathway.
 >
-> **The omission:** the final synthesis made neurological closure portable but did not carry the Protest that had exposed the incompleteness.
+> **The defensive synthesis:** once closure was chosen, the later-finalised synthesis necessarily became part clinical explanation and part justification of the decision to close. It made that closure professionally coherent and portable.
 >
-> **The consequences:** later clinicians inherited the resulting information state; Podiatry and Neurology developed complementary mechanical and dynamic truths; later evidence repeatedly tested the durability of the founding allocation.
+> **The omission:** the synthesis did not carry the Protest that had exposed the incompleteness and made the closure vulnerable.
+>
+> **The consequences:** later clinicians inherited the resulting information state; clinic letters accumulated inside it; Podiatry and Neurology developed complementary mechanical and dynamic truths; later evidence repeatedly tested the durability of the founding allocation; and the retrospective rebuttal later relied upon what “the letters show.”
 
 Thus the governing 2017 allegation is not that Parkinson's was wrongly diagnosed, that every foot lesion was neurological, or that the exact mechanism was already obvious.
 
 It is:
 
-> **An incompletely constructed part of the referred neurological problem was expressly identified by the patient while the admission was still open; the clinician then chose closure rather than reopening; the portable synthesis recorded the closure architecture but omitted the event that had challenged its adequacy.**
+> **An incompletely constructed part of the referred neurological problem was expressly identified by the patient while the admission was still open; the clinician then chose closure rather than reopening; the resulting synthesis necessarily acquired an objective defensive function; and the portable account omitted the event that had challenged the adequacy of closure.**
 
 Everything after that should initially be read as **consequence, test, genealogy or separate later question**, not as part of the first sentence of the case.
-
-Later observations repeatedly crossed the founding allocation: neurological treatment changed feet/gait/tension; Podiatry repeatedly localised focal fifth-MTPJ loading; primary care later regenerated an integrated feet–tone–gait object; neuropathy remained conditional; later Neurology genuinely reopened the current problem and developed a mixed treatment-state-sensitive model. Those matters strengthen and test the consequences of the founding decision, but they do not need to make the 2017 allegation complicated.
 
 The continuity question remains:
 
@@ -113,11 +129,11 @@ Do not fuse that issue into the central 2017 allegation.
 
 ## What the case does not require
 
-It does not require proof that every structural foot abnormality had one neurological cause. It does not require proof that Neurology should have known the exact mechanism in July 2017. It does not require proof that reconsidering the feet required immediate levodopa. It does not require proof that the Parkinson's diagnosis was wrong. It does not require pretending that no later reconsideration occurred. It does not require proof that same authorship makes later letters worthless. It does not require proof of pride, embarrassment, vanity, deliberate concealment or any other private motive. It does not require treating later death/endurance language as proof of a suicide plan. It does not require claiming that observed stumbles made a fall inevitable.
+It does not require proof that every structural foot abnormality had one neurological cause. It does not require proof that Neurology should have known the exact mechanism in July 2017. It does not require proof that reconsidering the feet required immediate levodopa. It does not require proof that the Parkinson's diagnosis was wrong. It does not require pretending that no later reconsideration occurred. It does not require proof that same authorship makes later letters worthless. It does not require proof of deliberate concealment, dishonesty or conscious professional self-protection. It does not require treating later death/endurance language as proof of a suicide plan. It does not require claiming that observed stumbles made a fall inevitable.
 
 The controlling simplification is structural, not rhetorical:
 
-> **One mistake. One Protest. One decision. One omission. Then the consequences.**
+> **One mistake. One Protest. One decision. One defensive synthesis. One omission. Then the consequences.**
 
 ## Separate evidential-access track
 
