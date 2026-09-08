@@ -1,366 +1,278 @@
 # Crystal-Clear Centre
 
-## 1. Start with the GP referral as written
+## 1. The controlling simplification
 
-The patient entered Neurology with an integrated presentation: painful abnormal feet, abnormal gait, pathological lower-limb tone, toe-clawing, impaired movement initiation and deteriorating function.
+The central 2017 case is:
 
-The 29 June referral itself matters because it has a clear internal order. It begins with the concrete problem through which the patient arrived: bilateral foot issues, an unusual stiff/festinant gait, callouses and corns, and the observation that the feet were “not in a good state.” It then explains why the GP had become concerned that this was not merely a foot problem: impaired initiation, increased tone, toe-clawing, inability to relax, dexterity loss and failing function under an open neurological differential.
+> **One mistake → the Protest identifies it → one decision → omission → consequences.**
 
-The referral can therefore be read as:
+Or shorter:
 
-> **first paragraph: the presenting feet/gait problem;**
->
-> **remainder: the neurological signs that made the GP ask Neurology to explain the whole thing.**
+> **One mistake. One Protest. One decision. One omission. Then the consequences.**
 
-Neurology then discovered severe very-young-onset Parkinsonism, marked rigidity/bradykinesia, a footdrop-like lower-limb appearance expressly described as suggestive of dystonic posture, genuine structural foot abnormalities and a possible PRKN/PARK2 phenotype.
+Everything else in the repository should be read around that sequence rather than allowed to obscure it.
 
-The record shows that these neurological findings received enormous investigative and explanatory weight. The painful abnormal feet through which the referral began received comparatively limited direct examination and no identified equivalent post-discovery remapping before closure.
+---
 
-That asymmetry is observable without claiming to know whether the neurologist literally read, forgot or undervalued any particular sentence.
+## 2. The mistake
 
-> **The safer finding is asymmetric clinical weighting of the referral.**
+The GP did not refer two already-separated problems.
 
-## 2. Initial narrowing may be understandable
+The 29 June 2017 referral presents one integrated clinical object:
 
-A neurologist confronted with severe young-onset Parkinsonism, dystonic-looking gait, possible PRKN/PARK2 and major treatment implications may reasonably become absorbed by the neurological syndrome.
+> **painful abnormal feet + abnormal gait + pathological lower-limb tone + toe-clawing + impaired movement initiation + deteriorating function.**
 
-The case does not depend on condemning that initial focus.
+The referral begins with the concrete feet/gait problem and then explains why the GP believed Neurology was required to explain the whole presentation.
 
-The decisive point comes after days of specialist work.
+Neurology then identified something real and important: severe very-young-onset Parkinsonism, marked rigidity/bradykinesia, a lower-limb appearance suggestive of dystonic posture, genuine structural foot disease and possible PRKN/PARK2.
 
-## 3. The Protest restores paragraph one
+The Parkinsonian architecture was developed extensively.
 
-Shortly before discharge, the patient directly says in substance that the feet have not been properly dealt with and that the neurological work therefore cannot be complete.
+The painful abnormal feet through which the referral began were not equivalently reconstructed after those neurological discoveries.
 
-He is not introducing a new subject. He is not presenting a sophisticated diagnostic theory. He is not saying, “you have wrongly separated my feet from Parkinson’s disease.”
+The central alleged mistake is therefore **not** the Parkinson's diagnosis.
 
-He is restoring the original feet/gait problem at the top of the GP referral.
+It is:
 
-The NCT / bald-tyres analogy therefore functions as an inquiry-completeness objection:
+> **failure to complete the neurological construction of the presenting feet–gait–tone problem before closure.**
 
-> **You have done the neurological work, but the problem I arrived with remains insufficiently dealt with.**
+Whether that amounted to breach is an expert question.
+
+---
+
+## 3. The Protest identifies the mistake while the decision is still live
+
+Shortly before discharge, the patient says in substance:
+
+> **You have not properly dealt with my feet. You cannot be finished.**
+
+He does not need to know the mechanism.
+
+He does not say Parkinson's is wrong.
+
+He does not protest a separation already explained to him.
+
+He identifies a simpler problem:
+
+> **the neurological work is incomplete because the problem he arrived with has not been properly dealt with.**
 
 That is the hinge.
 
-> **Initial narrowing may be understandable. Once the patient restores the first paragraph before closure, the whole referral is squarely back in play.**
+> **Before the Protest, the problem can be described as incomplete construction. After the Protest, closure becomes a decision made with the incompleteness expressly raised.**
 
-The neurologist answers: **Podiatry**.
+---
 
-The source record now sharpens that answer. Podiatry had already been contemplated by the GP on 10 April 2017, and during the admission the GP telephoned Podiatry on 6 July and recorded that the case would be prioritised “as Parkinson’s.” The later Podiatry system records referral on 10 April, registration on 10 July and first treatment on 14 September 2017. The surviving referral form identifies Dr Aaron Brennan as referrer.
+## 4. The decision
 
-So the presently supportable proposition is not that the Protest created a brand-new Podiatry pathway. It is:
+The answer is:
 
-> **The post-Protest answer “Podiatry” appears to have intersected with an already-existing GP-origin pathway, without an identified separate Neurology handover carrying a defined feet–neurology question into that pathway.**
+> **Podiatry.**
 
-That is the more precise decision hinge.
+Source-level investigation now sharpens what that means.
 
-## 4. Why the timing matters: accumulated commitment
+Podiatry was already an active GP-origin pathway. It had been contemplated in April 2017; during the neurological admission the GP contacted Podiatry and recorded that the case would be prioritised **“as Parkinson's”**; the later Podiatry system records referral on 10 April, registration on 10 July and first treatment on 14 September.
 
-By the time the patient restores the first paragraph, the admission has already generated:
+The presently identified patient-facing corpus does not show a distinct post-Protest Neurology handover defining a new neurological question about tone, gait, dystonia, loading or the structural–dynamic relationship, nor a defined return mechanism.
 
-- severe very-young-onset Parkinsonism;
-- atypicality and possible PRKN/PARK2 reasoning;
-- a dystonic-looking lower-limb sign;
-- extensive neurological investigation;
-- senior neurological involvement;
-- a cautious non-levodopa treatment strategy tied to youth and dyskinesia risk;
-- days of specialist work;
-- a teaching environment in which the patient raises the incompleteness.
+Thus the decision is not best described as:
 
-The case had also begun to acquire forward administrative and diagnostic reality: Long Term Illness Scheme paperwork was signed and posted, the case had been discussed with neurological colleagues, and the DATscan later returned abnormal **“as was expected.”**
+> **Neurology referred the feet to Podiatry.**
 
-This does not prove pride, vanity or embarrassment.
+The sharper proposition is:
 
-It creates an objective setting of **professional-coherence / diagnostic commitment pressure**. Reopening the restored first paragraph would require the existing account to be expanded, qualified or partially reworked at the point when the admission was approaching closure.
+> **After the patient expressly restored the unfinished neurological problem, the clinician proceeded to closure by returning to an already-existing Podiatry destination rather than visibly reopening the integrated feet–gait–tone question.**
 
-That is a plausible explanatory mechanism to investigate, not a proved private motive.
+That is the decision requiring explanation.
 
-## 5. Reopening the feet did not require abandoning the Parkinsonism architecture
+---
 
-The patient’s objection did not force a binary choice between accepting Parkinsonism and accepting the feet.
+## 5. The synthesis makes the decision portable
 
-Neurology could have preserved the diagnosis, preserved possible PRKN/PARK2, and even preserved a cautious non-levodopa policy while still:
+The later-finalised discharge synthesis contains the major facts:
 
-- re-examining the painful feet after the neurological discoveries;
-- mapping structural versus dynamic toe/foot phenomena;
-- defining a neurological question for Podiatry;
-- preserving a return criterion tied to treatment-state change;
-- arranging multidisciplinary review;
-- or explicitly carrying the structural–dynamic relationship forward as an active neurological question.
-
-So the real problem raised by the Protest is narrower:
-
-> **Can the admission legitimately be treated as complete when the patient has just restored the originating foot problem and says it remains insufficiently worked through?**
-
-## 6. The discharge synthesis is not missing the join — it is the join
-
-The final synthesis contains the necessary ingredients:
-
-- severe very-young-onset Parkinsonism;
-- a lower-limb phenomenon suggestive of dystonic posture — “NOT FOOT DROP”;
-- painful structural feet, including pes planus/hammertoes/corns/callouses;
+- severe Parkinsonism;
+- the dystonic-looking lower-limb sign;
+- structural feet;
 - possible PRKN/PARK2;
 - possible peripheral neuropathy;
-- the patient’s historical distinction between foot pain and internal leg tension;
-- the forward neurological treatment strategy.
+- the patient's phenomenological distinction;
+- the treatment strategy.
 
-The forensic question is therefore not:
+The document therefore does not fail to contain the ingredients.
 
-> **Why did nobody put the pieces together?**
+In that sense:
 
-The synthesis puts them together.
+> **the synthesis is the founding join.**
 
-The question is:
+Its importance lies in the direction of the join.
 
-> **Why does the synthesis arrange them so that they point in this particular direction?**
+Parkinsonism / PRKN / treatment receive extensive explanatory development.
 
-The arrangement is visible:
+The painful feet are made compatible with:
 
-- Parkinsonism / PRKN / treatment strategy receive extensive explanatory development;
-- the painful structural feet are made compatible with a separate or peripheral-neuropathic route;
-- the relationship ends “Not clear”;
-- Podiatry becomes the operational destination;
-- the patient’s limited phenomenological distinction is strengthened into “in his own mind – markedly divorced”;
-- the patient’s contrary information state — that the feet remain unfinished — does not travel;
-- “Plan/Recommendations: As per above” makes the arrangement operational and portable.
+> **“completely separate” / possible peripheral neuropathy / “Not clear” / Podiatry.**
 
-Thus:
+The patient's limited distinction becomes:
 
-> **The synthesis does not lose the feet. It decides what explanatory pathway they are allowed to inhabit.**
+> **“markedly divorced.”**
 
-And more precisely:
+And the plan becomes:
 
-> **The discharge synthesis is the directional join that allows the neurological admission to be complete while the painful feet remain unresolved and operationally elsewhere.**
-
-## 7. The omission changes the decision history
-
-The final synthesis is unusually detailed and explicitly patient-facing. It preserves extensive material about questions, intelligence, insight, counselling, “firmer footing,” “good understanding,” a “clear plan,” and finally **“Plan/Recommendations: As per above.”**
-
-But the Protest — the event that restored the first paragraph and exposed the closure problem — does not enter the durable account.
-
-Its omission therefore removes more than disagreement. It removes the event that explains why the final arrangement required justification before it became portable.
-
-> **The patient restored the referrer’s original problem. The neurologist answered Podiatry. The discharge synthesis then arranged the known facts so that this answer could coexist with neurological closure.**
-
-The omission is therefore upstream of the later longitudinal continuity.
-
-> **An earlier contemporaneous challenge to completeness can come to look retrospectively like a later disagreement with settled history when the challenge is absent from the founding portable state.**
-
-## 8. The founding sequence
-
-The corrected sequence is:
-
-> **integrated GP referral → striking neurological discoveries → asymmetric clinical weighting → days of diagnostic/treatment commitment → patient restores paragraph one: “you cannot be finished” → answer returns to an already-existing Podiatry pathway → no identified new neurological handover question → discharge synthesis joins all elements directionally into a separate/peripheral-neuropathy/“Not clear” foot channel → Protest omitted → “As per above” makes the arrangement portable.**
-
-This supersedes any formulation that treats the pre-Protest state simply as an already-recognised “unresolved relationship,” or treats Podiatry as necessarily a pathway newly created by the Protest.
-
-## 9. The early later record contains parallel streams
-
-The 2017 plan contemplated a procyclidine test-stop. During withdrawal, the patient contemporaneously reported that his feet became restless, tension built and his walk fell apart.
-
-In April 2018 the treating neurologist documented that the **first thing** to change, and to change **rapidly**, during withdrawal was the **return** of the outside-left-foot corn phenomenon.
-
-This does not prove one exclusive mechanism. It shows that Neurology itself acquired treatment-state information capable of testing the founding arrangement.
-
-Podiatry, meanwhile, repeatedly developed a stable focal mechanical object at the left fifth MTPJ: debridement to pin-prick bleeding, direct offloading and repeated insole pressure redistribution through the 2017–2019 pathway.
-
-Thus two complementary streams existed:
-
-> **Podiatry knew where it was. Neurology knew it changed with neurological treatment.**
-
-The patient-facing corpus presently does not identify a document in which those two observations are expressly assembled into one reconstructive question.
-
-The available material therefore presently looks more like **parallel streams** than a documented Neurology → Podiatry investigation → report-back → neurological reintegration loop.
-
-## 10. The 2019 GP reintegration travelled through Podiatry in the surviving corpus
-
-The 2019 GP referral explicitly links feet issues to increased tone, abnormal gait and Parkinson’s disease, and records young-onset Parkinson’s with “clawing feet” and pain.
-
-But that source is preserved inside the Podiatry corpus, and the Podiatry system records a later attendance on 25 March 2019.
-
-Therefore the source presently supports:
-
-> **Primary care reconstructed the neurological-foot relationship, but the surviving documentary destination for that reconstruction was Podiatry.**
-
-Do not automatically say that Neurology was expressly re-referred this integrated 2019 formulation.
-
-This is a particularly clear example of integrated information existing within the health system without necessarily entering the neurological authorial channel capable of changing the founding model.
-
-## 11. Peripheral neuropathy remains an unclosed hypothesis
-
-The 2017 synthesis writes **“perhaps a secondary peripheral neuropathy”** and **“Not clear.”**
-
-In 2023 the treating neurologist says that an overnight onset is **“not in the nature of a peripheral neuropathy”** and explores Fabry disease and other possibilities. In 2024 the Fabry-related enzyme testing is recorded within normal ranges. In 2025 the language remains conditional: **“If there is a degree of peripheral neuropathy here…”**
+> **“As per above.”**
 
 Thus:
 
-> **The record demonstrates persistence of neuropathy as an explanatory possibility, not documentary conversion of that possibility into a securely established diagnosis.**
+> **The synthesis turns the closure decision into the durable information state later clinicians inherit.**
 
-## 12. A genuine reopening occurred in 2023
+---
 
-The repository must not manufacture an absence.
+## 6. The omission
 
-The 2023 Neurology consultation is a substantive reconsideration of the then-current feet/lower-limb problem. The clinician records bilateral foot symptoms and lower-limb cramping, raises Parkinsonian dystonia and considers OFF dystonia more likely than ON dystonia, analyses evening walking against levodopa state, interprets Stalevo as potentially helping both movement and pain, records a **“misalignment”** between clinician and patient, characterises the patient’s feet concerns as **“very reasonable and justifiable,”** reopens neuropathy/Fabry possibilities and seeks further investigation.
+The final portable account does not carry the Protest.
 
-So the correct question is no longer:
+That matters because the omitted event is not merely a disagreement.
 
-> **Was the foot issue ever reconsidered?**
+It is the event that says:
 
-It was.
+> **the process generating the discharge conclusion had just been challenged as incomplete before closure.**
 
-The sharper question is:
+Without the Protest, later readers see:
 
-> **What was the scope of the reconsideration?**
+> **specialist assessment → uncertainty → Podiatry → completed discharge.**
 
-The surviving 2023 record visibly reconstructs the **current-state differential**: current pain, clawing/cramping, evening deterioration, Lyrica effect, levodopa/Stalevo effect, OFF-state reasoning, neuropathy/Fabry possibilities and repeat DATscan.
+With the Protest, the decision history is:
 
-What it does not presently identify is an explicit reconstruction using the complete founding genealogy: the 2017 dystonic-looking sign, the Protest, the procyclidine withdrawal response, the April 2018 rapid outside-left-foot return, the serial fifth-MTPJ findings and the 2019 GP integrated referral.
+> **specialist assessment → patient says the originating problem remains unfinished → clinician chooses not to reopen → Podiatry / closure.**
 
-Thus:
+Those are materially different information states.
 
-> **There was genuine later reopening, but the patient-facing record presently shows current-state reconstruction more clearly than reconstruction of the founding foot–tone–gait decision history.**
+The omission therefore changes the apparent provenance and status of the uncertainty.
 
-## 13. 2023 is also a separate convergence-and-safety event
+> **The Protest was information about the adequacy of the process that generated the conclusion. Omitting it changed not only the content of the record but the apparent decision history behind the conclusion.**
 
-The 2023 episode should not be used only as retrospective evidence about 2017.
+---
 
-Falls risk was already part of the neurological information state. In 2017 the patient reported very bad balance and believed a fall was imminent. In 2019 the GP's concern that he might fall was expressly described by Neurology as understandable in the context of visible Parkinsonian gait disorder, and the neurologist wrote that the patient **might fall**.
+## 7. Then come the consequences
 
-Against that background, the **26 March 2023 urgent GP referral** described severe bilateral burning foot/lower-leg pain, at times **“causing death wish,”** said **“I am worried about him,”** and sought review before **“we get into trouble here.”** On 28 March the Parkinson's nurse told the consultant that despite **600 mg/day Lyrica**, the patient reported debilitating pain, **“no quality of life,”** and months of worsening symptoms.
+The later record matters, but it should not be allowed to make the first proposition complicated.
 
-The later clinic review does not show an unchanged acute psychological state: the clinician records a positive mood and says the patient looked medically well. But the same consultation records that in the preceding months he had **“ground to an absolute halt,”** had three bad bouts where he **“gave up,”** could not manage a fourth evening walk, and had clawing/cramping and major activity restriction.
+Its main functions are to show consequence, test durability and trace evidential genealogy.
 
-The gait examination itself was not negative:
+Later:
 
-> **“Superficially, the gait actually looks okay though I did see some stumbles.”**
+- neurological treatment changes feet, gait and tension together;
+- Neurology records rapid return of an outside-left-foot phenomenon during withdrawal;
+- Podiatry repeatedly identifies focal fifth-MTPJ loading and mechanically offloads it;
+- primary care regenerates an integrated feet–tone–gait–Parkinsonism formulation;
+- neuropathy remains conditional rather than becoming securely established;
+- later Neurology genuinely reopens the current problem;
+- the model becomes mixed and treatment-state sensitive;
+- Sinemet improves the feet/pain.
 
-The correct inference is not that a fall was inevitable or quantifiable from that examination. It is:
+None of those facts has to be front-loaded into the liability theory.
 
-> **Direct instability was observed during a brief gait assessment in a patient with an established gait disorder, prior falls-risk concerns and an active pain/mobility crisis.**
+They show that the founding allocation continued to matter and that later biology repeatedly supplied reasons to test it.
 
-The patient-facing recommendations contain extensive branch-specific reasoning about OFF state, levodopa, neuropathy/Fabry, Lyrica, alcohol, cannabis and repeat DATscan. They presently do **not identify** a specific falls-focused assessment, balance intervention, Parkinson's-specific physiotherapy referral, assistive-device assessment, explicit falls-safety plan or monitoring criterion tied to further stumbling/falling.
+The later documentary question is therefore:
 
-That is a record-audit finding, not yet a breach conclusion.
+> **The issue was reopened. Was the founding genealogy ever reconstructed?**
 
-The distinct 2023 expert question is:
+The patient-facing corpus presently does not identify a reconstruction assembling the original dystonic-looking sign, the Protest, procyclidine withdrawal, the April 2018 outside-left-foot return, recurrent fifth-MTPJ mechanics, the 2019 GP reintegration and later motor/pain response into one historical structural–dynamic analysis.
 
-> **Was the combined pain–mobility–falls–psychological safety state recognised and managed as one clinical object, and what response would ordinarily be expected after directly observed stumbles in that context?**
+That is an evidential-genealogy question, not the first sentence of the case.
 
-This is a second integration question in the case. It should not be collapsed into the 2017 founding-negligence theory.
+---
 
-## 14. By 2024–2025 the model becomes more internally differentiated and mixed
+## 8. Authorial continuity strengthens the consequence analysis
 
-The 2024 record distinguishes pain from motor foot phenomena: maximum-dose Lyrica substantially relieves the foot pain but does not relieve toe curling during standing or exertion.
+The clinician substantially responsible for the founding 2017 documentary state remained substantially present in the longitudinal neurological authorship and in 2025 relied expressly on what **“the letters show”** when explaining the historical management.
 
-By 2025 the neurological model is more integrated than a simple neurological-versus-foot binary. The record contains dyskinetic foot movements, persistent pain, improvement when Sinemet acts, acknowledgement that dystonia can be painful, a clinical view that this particular pain is not directly Parkinsonian, expectation that more Sinemet would nevertheless give further pain relief, and consideration of overnight slow-release Sinemet.
+This does not make later letters worthless.
 
-Descriptively the later model is closer to:
+It means:
 
-> **possible local/non-Parkinsonian pain source + Parkinsonian treatment state materially modulates pain experience + separate motor phenomena involving the feet coexist.**
+> **same-author continuity strongly proves persistence; it is not automatically repeated independent replication of the founding inquiry.**
 
-Whether that model is medically correct remains expert-dependent.
+And:
 
-Documentarily, however, it is materially more integrated than the strongest form of **“completely separate.”**
+> **independence of source is not independence of proposition.**
 
-The March 2025 sequence also sharpens the later safety thread. On **10 March 2025** Neurology records severe morning foot pain, the first 150 steps as **“torture,”** and that saying **“I won’t live with it”** allowed the patient to put words on the situation. On **18 March 2025**, in a separate GP-facing briefing, the patient writes of fear of falling and the realisation that if he fell he **“may not want to get back up,”** while also describing worn-down psychological endurance and reaching the point of not being able to push forward.
+DATscan, Professor Healy, Podiatry, GP observations and treatment responses are genuine independent inputs, but they independently validate only the propositions they actually tested.
 
-Do not convert those phrases into automatic proof of suicidal intent or attribute the 18 March GP briefing to Neurology without separate evidence of receipt.
+---
 
-Their safe longitudinal significance is:
+## 9. 2023 is separate
 
-> **pain, mobility, falling and psychological endurance repeatedly become connected in the patient's documented experience.**
+The repository has also identified a later contemporaneous safety question.
 
-## 15. The continuity problem is partly authorial, not merely documentary
+That issue should remain separate from the central 2017 allegation.
 
-The same clinician who occupied the central clinical and authorial positions in the founding 2017 discharge record remained a recurring longitudinal neurological author.
+By 2023 the neurological channel had received:
 
-The record also contains genuine independent inputs: DATscan, Professor Healy, Podiatry, GP observations and treatment responses.
+> **severe pain + major walking restriction + high-dose pregabalin + OFF/dystonic possibilities + prior falls-risk information + serious psychological-endurance language.**
 
-But **independence of source is not the same as independence of proposition**.
+The later clinic review directly observed:
 
-A DATscan can independently strengthen the Parkinsonian direction without independently proving that the feet were adequately integrated. Professor Healy can independently support a PARK II / Parkinsonian formulation without independently validating the July Protest/foot question if that question was not the subject of his review. Podiatry can independently establish focal mechanical truth without resolving the whole neurological relationship.
+> **stumbles.**
 
-Thus the longitudinal record is best understood as a **partly endogenous evidential system**: real external evidence enters, but much of its later meaning is received and carried forward within a neurological framework substantially continuous with the clinician who helped create the starting state.
+The patient-facing recommendations contain extensive branch-specific reasoning but presently no identified falls-focused response or explicit whole-risk integration of pain, mobility, instability and psychological endurance.
 
-## 16. The 2025 historical response reconstructs history selectively
+That creates a separate expert question:
 
-In the March 2025 response to Quality and Patient Safety, the same neurologist states:
+> **Was the combined pain–mobility–falls–psychological safety state recognised and managed as one clinical object?**
 
-> **“As the letters show, we have had a clear understanding for quite some time that Sinemet does help his pain.”**
+Do not use 2023 to complicate the 2017 theory.
 
-He then returns expressly to the 2017 account with:
+Do not use the 2017 theory to predetermine the answer to the 2023 safety question.
 
-> **“In 2017 very openly and very explicitly…”**
+---
 
-and relies upon the historical treatment-language and later letters to explain the pathway.
+## 10. The hierarchy of the case
 
-This is genuine historical reconstruction.
+The repository should now be read in this order:
 
-But its visible centre is principally:
+### First — liability centre
 
-> **Why was levodopa used cautiously?**
+> **Incomplete neurological construction → Protest identifies it → decision to close rather than visibly reopen → Protest omitted from portable synthesis.**
 
-The response does not visibly assemble, in the same historical analysis, the founding foot allocation, the Protest, the procyclidine-withdrawal foot response, the April 2018 rapid outside-left-foot return, the serial fifth-MTPJ mechanical findings and the 2019 GP integrated referral.
+### Second — consequences and genealogy
 
-Thus:
+> **Later mechanical and neurological evidence tests the durability of the founding allocation; later reopening occurs; historical global reconstruction is not yet identified.**
 
-> **The 2025 response reconstructs the genealogy of the levodopa-deferral strategy more clearly than it reconstructs the genealogy of the founding feet–tone–gait question.**
+### Third — separate later safety issue
 
-That is the more exact evidential genealogy problem.
+> **2023 may independently raise a pain–mobility–falls–psychological integration question.**
 
-## 17. What would count as global reconstruction
+That hierarchy prevents analytical richness from obscuring the simple alleged wrong.
 
-The correct question is no longer whether the feet were ever reconsidered.
+---
 
-A global historical reconstruction would need reasoning substantially equivalent to:
+## 11. What the case does not require
 
-> **In 2017 the painful feet were considered possibly separate or neuropathic. Since then treatment withdrawal altered feet/gait/tension; Neurology documented rapid return of an outside-left-foot phenomenon; Podiatry repeatedly identified focal fifth-MTPJ loading; primary care reintegrated feet/tone/gait/Parkinsonism; neuropathy remained conditional; later toe-curling and lower-limb phenomena showed treatment-state features; and the feet/pain improved with Sinemet. What does this cumulative history now mean for the original structural–dynamic relationship?**
+The central 2017 case does not require proof that:
 
-The answer could still be a mixed model in which structural pathology remains primary and Parkinsonism modulates pain.
+- Parkinson's was wrongly diagnosed;
+- every structural foot lesion was neurological;
+- the exact mechanism was obvious in July 2017;
+- levodopa had to be started then;
+- all later clinicians failed to reconsider the feet;
+- every later observation independently confirms the patient's theory;
+- same authorship makes the later record worthless;
+- pride, embarrassment, concealment or bad faith is proved;
+- 2023 was negligent;
+- later death/endurance language proves a continuous suicidal state;
+- observed stumbles made a fall inevitable.
 
-What matters is whether the founding evidence was actually brought back together and retested.
+Those are separate propositions.
 
-Do not infer from the absence of a single reconstruction letter that nobody ever thought about the issue privately.
+The central case is narrower.
 
-Use instead:
+---
 
-> **The patient-facing corpus presently contains genuine later reopening, but it does not yet identify a reconstruction that assembles the founding evidential genealogy into one retrospective structural–dynamic analysis.**
+## 12. Final formulation
 
-## 18. The record’s behaviour
+> **The GP referred an integrated feet–gait–tone problem. Neurology identified and extensively developed severe young-onset Parkinsonism but did not equivalently complete the neurological construction of the painful abnormal feet through which the referral began. Before discharge, the patient directly identified that incompleteness. The clinician then had to choose whether to reopen the integrated problem or proceed to closure. The answer returned to an already-existing Podiatry pathway without an identified new neurological handover question or return mechanism. The later-finalised synthesis made that closure architecture portable and omitted the Protest that had exposed its incompleteness. The later history is principally the consequence and evidential test of that founding decision.**
 
-The longitudinal record can now be investigated as a system:
+Shortest:
 
-1. integrated information enters;
-2. one pathway is amplified;
-3. other material is retained but comparatively underdeveloped;
-4. relationships are assigned among the retained facts;
-5. uncertainty receives an operational destination;
-6. the narrative arrangement becomes the plan;
-7. mechanical and neurological information develop in parallel streams;
-8. later Neurology genuinely reopens the current problem;
-9. in 2023 the current presentation also becomes a distinct pain–mobility–safety convergence problem;
-10. the clinical model becomes more mixed and treatment-state sensitive;
-11. the founding evidential genealogy is not yet shown to have been globally reconstructed;
-12. later continuity becomes available as evidence of longstanding understanding.
-
-This is why the case is better described as an **information-arrangement and evidential-genealogy problem** than a simple missing-information problem.
-
-## 19. Controlling proposition
-
-The case does not require proof that the neurologist literally failed to read the referral, that every foot symptom was definitely PRKN or dystonia, that levodopa had to be started in July 2017, that the Parkinson’s diagnosis was wrong, that the 2023 reopening was superficial, that same authorship makes later letters worthless, that observed stumbles made a fall inevitable, that the 2023–2025 death/endurance language proves a continuous suicidal state, or that any private motive is established.
-
-The narrower proposition is stronger:
-
-> **The GP referred an integrated problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs. Neurology understandably concentrated on the striking neurological syndrome and developed a sophisticated young-onset Parkinsonism/PRKN treatment architecture. After days of that work, the patient expressly restored the underweighted first paragraph of the referral by stating that the feet had not been properly dealt with and the work could not be complete. The answer returned to an already-existing Podiatry pathway, but the patient-facing corpus presently identifies no separate neurological handover question that transformed that pathway into an integrative investigation. The later-finalised discharge synthesis arranged the known elements so that the neurological admission could be treated as complete while the painful feet remained separate, possibly neuropathic, “Not clear” and operationally Podiatry. The Protest did not travel. Thereafter Neurology and Podiatry developed complementary dynamic and mechanical truths in parallel. Neurology genuinely reopened the problem in 2023 and by 2025 had a more mixed treatment-state-sensitive model, but the patient-facing corpus does not yet identify a historical reconstruction assembling the founding 2017 sign, treatment-state foot response, recurrent fifth-MTPJ mechanics, 2019 GP reintegration and later motor/pain response into one structural–dynamic analysis. Separately, the 2023 episode itself contains a second unresolved integration question: the treating service received a severe pain and functional crisis, directly observed stumbles against a known gait-risk history, and documented extensive branch-specific reasoning without an identified whole-risk reconstruction of pain, mobility, falls and psychological endurance.**
-
-The shortest centre remains:
-
-> **The patient did not discover a new problem at discharge. He restored the referrer’s original problem after days in which the record had overwhelmingly valued something else. The discharge synthesis then had to decide what that restored problem was allowed to mean.**
-
-The refined continuity question is:
-
-> **The issue was reopened. The founding genealogy was not yet shown to have been reconstructed.**
-
-And the 2023 safety question is:
-
-> **The gait examination found instability inside an active pain and mobility crisis. What did the record do with that finding?**
+> **One mistake. One Protest. One decision. One omission. Then the consequences.**
