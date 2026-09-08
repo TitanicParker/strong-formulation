@@ -19,21 +19,21 @@
   },
   {
     "id":"C003",
-    "statement":"Before closure the patient directly said, in substance, that the feet had not been properly dealt with and the neurological work could not therefore be complete; the Protest restored the underweighted first paragraph of the GP referral rather than introducing a new problem or contesting a separation the patient already understood.",
-    "type":"fact-and-interpretive-discipline",
+    "statement":"The patient's account is that, before closure, he said in substance that the feet had not been properly dealt with and the neurological work could not therefore be complete; the Protest restored the underweighted first paragraph of the GP referral rather than introducing a new problem or contesting a separation the patient already understood.",
+    "type":"patient-evidence-and-interpretive-analysis",
     "evidence":["E008"],
     "profiles":["P07","P08","P37"],
     "dependencies":["C002"],
-    "challenges":[]
+    "challenges":["The occurrence, wording and surrounding circumstances of the interaction remain open to ordinary evidential testing and corroboration."]
   },
   {
     "id":"C004",
-    "statement":"The neurologist answered Podiatry; the record identifies no neurological reopening and no defined neurological handover carrying the restored feet–neurology question into Podiatry. Initial narrowing may have been understandable; after the Protest the originating problem was expressly back in view before closure.",
+    "statement":"On the patient's account, the neurologist answered Podiatry; the record identifies no neurological reopening and no defined neurological handover carrying the restored feet–neurology question into Podiatry. Initial narrowing may have been understandable; if the Protest occurred as described, the originating problem was expressly back in view before closure.",
     "type":"record-audit-inference",
     "evidence":["E008","E005"],
     "profiles":["P07","P08","P22"],
     "dependencies":["C003"],
-    "challenges":["Podiatry could appropriately treat structural manifestations; the issue is what Neurology did once the originating referral problem was expressly restored to view."]
+    "challenges":["Podiatry could appropriately treat structural manifestations; the issue is what Neurology did if the originating referral problem was expressly restored to view before closure."]
   },
   {
     "id":"C005",
@@ -46,7 +46,7 @@
   },
   {
     "id":"C006",
-    "statement":"The founding synthesis strengthens patient-derived separation by recording that he had 'in his own mind - markedly divorced' leg tension from foot pain/corns/callouses, while the Protest showing that he had restored the originating foot problem as unfinished is absent from the portable account.",
+    "statement":"The founding synthesis strengthens patient-derived separation by recording that he had 'in his own mind - markedly divorced' leg tension from foot pain/corns/callouses, while the Protest account showing that he had restored the originating foot problem as unfinished is absent from the portable account.",
     "type":"documentary-analysis",
     "evidence":["E005","E008"],
     "profiles":["P20","P38"],
@@ -55,7 +55,7 @@
   },
   {
     "id":"C007",
-    "statement":"The final portable synthesis preserves the selected management architecture and compatible patient knowledge-state while omitting the event that explains why the original referral problem had to be reconsidered before closure.",
+    "statement":"If the Protest occurred as described, the final portable synthesis preserves the selected management architecture and compatible patient knowledge-state while omitting the event that explains why the original referral problem had to be reconsidered before closure.",
     "type":"record-audit-inference",
     "evidence":["E005","E006","E007","E008"],
     "profiles":["P06","P07","P10","P20","P38"],
@@ -100,7 +100,7 @@
   },
   {
     "id":"C012",
-    "statement":"By the time of the Protest, substantial diagnostic, hierarchical and therapeutic commitment had accumulated around the young-onset Parkinsonism/PRKN formulation, creating an objective professional-coherence or commitment-pressure context when the patient restored the underweighted part of the referral.",
+    "statement":"By the time of the alleged Protest, substantial diagnostic, hierarchical and therapeutic commitment had accumulated around the young-onset Parkinsonism/PRKN formulation, creating an objective professional-coherence or commitment-pressure context if the patient then restored the underweighted part of the referral.",
     "type":"contextual-inference",
     "evidence":["E004","E005","E008"],
     "profiles":["P02","P03","P07","P27"],
