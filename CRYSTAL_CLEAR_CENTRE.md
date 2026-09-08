@@ -2,27 +2,33 @@
 
 ## 1. The controlling simplification
 
-The central 2017 case is:
+The central 2017 case remains:
 
 > **One mistake → the Protest identifies it → one decision → omission → consequences.**
 
-Or shorter:
+But the evidential disciplines around that sequence now need to be explicit.
 
-> **One mistake. One Protest. One decision. One omission. Then the consequences.**
+The repository presently makes a stronger case for a **documentary and clinical fault-line** than for ultimate negligence.
 
-Everything else in the repository should be read around that sequence rather than allowed to obscure it.
+Three questions remain separate:
+
+> **Fact:** did the Protest occur substantially as described?
+>
+> **Breach:** if so, what further neurological reassessment, integration or handover would reasonable practice have required?
+>
+> **Causation:** if reasonable care required something different, what would probably have changed and which later harms would probably have been avoided?
+
+Everything else should be read around that structure rather than allowed to obscure it.
 
 ---
 
-## 2. The mistake
+## 2. The alleged mistake
 
 The GP did not refer two already-separated problems.
 
 The 29 June 2017 referral presents one integrated clinical object:
 
 > **painful abnormal feet + abnormal gait + pathological lower-limb tone + toe-clawing + impaired movement initiation + deteriorating function.**
-
-The referral begins with the concrete feet/gait problem and then explains why the GP believed Neurology was required to explain the whole presentation.
 
 Neurology then identified something real and important: severe very-young-onset Parkinsonism, marked rigidity/bradykinesia, a lower-limb appearance suggestive of dystonic posture, genuine structural foot disease and possible PRKN/PARK2.
 
@@ -40,9 +46,9 @@ Whether that amounted to breach is an expert question.
 
 ---
 
-## 3. The Protest identifies the mistake while the decision is still live
+## 3. The Protest as the factual hinge
 
-Shortly before discharge, the patient says in substance:
+The patient's account is that, shortly before discharge, he said in substance:
 
 > **You have not properly dealt with my feet. You cannot be finished.**
 
@@ -50,43 +56,35 @@ He does not need to know the mechanism.
 
 He does not say Parkinson's is wrong.
 
-He does not protest a separation already explained to him.
+He says the originating problem remains unfinished.
 
-He identifies a simpler problem:
+If the Protest occurred as described, that is the hinge:
 
-> **the neurological work is incomplete because the problem he arrived with has not been properly dealt with.**
+> **Before the Protest, the issue is incomplete construction. After the Protest, closure becomes a decision made with the incompleteness expressly raised.**
 
-That is the hinge.
-
-> **Before the Protest, the problem can be described as incomplete construction. After the Protest, closure becomes a decision made with the incompleteness expressly raised.**
+Its occurrence and surrounding circumstances remain open to ordinary evidential testing and corroboration.
 
 ---
 
 ## 4. The decision
 
-The answer is:
+The answer recorded in the patient's account is:
 
 > **Podiatry.**
 
-Source-level investigation now sharpens what that means.
-
-Podiatry was already an active GP-origin pathway. It had been contemplated in April 2017; during the neurological admission the GP contacted Podiatry and recorded that the case would be prioritised **“as Parkinson's”**; the later Podiatry system records referral on 10 April, registration on 10 July and first treatment on 14 September.
+Source-level investigation shows Podiatry was already an active GP-origin pathway. It had been contemplated in April 2017; during the neurological admission the GP contacted Podiatry and recorded that the case would be prioritised **“as Parkinson's”**; the later Podiatry system records referral on 10 April, registration on 10 July and first treatment on 14 September.
 
 The presently identified patient-facing corpus does not show a distinct post-Protest Neurology handover defining a new neurological question about tone, gait, dystonia, loading or the structural–dynamic relationship, nor a defined return mechanism.
 
-Thus the decision is not best described as:
+Thus, if the Protest occurred as described, the sharper proposition is:
 
-> **Neurology referred the feet to Podiatry.**
+> **the pathway closed by returning to an already-existing Podiatry destination rather than visibly reopening the integrated feet–gait–tone question.**
 
-The sharper proposition is:
-
-> **After the patient expressly restored the unfinished neurological problem, the clinician proceeded to closure by returning to an already-existing Podiatry destination rather than visibly reopening the integrated feet–gait–tone question.**
-
-That is the decision requiring explanation.
+Whether reasonable neurological practice required something more is the breach question.
 
 ---
 
-## 5. After the Protest, the synthesis is no longer merely descriptive
+## 5. The synthesis: description plus objective professional-coherence function
 
 The later-finalised discharge synthesis contains the major facts:
 
@@ -120,25 +118,21 @@ And the plan becomes:
 
 > **“As per above.”**
 
-Before the Protest, such a synthesis could still be understood simply as the clinician's account of the admission.
+If the Protest occurred and closure was nevertheless chosen, the synthesis also had an objective professional-coherence function:
 
-After the Protest, once closure was chosen, the document had an additional objective function:
+> **it explained why diagnosis, disposition and treatment remained coherent despite the patient's asserted challenge to completeness.**
 
-> **it had to make that closure professionally coherent despite the patient having just identified the originating problem as unfinished.**
+That is not inherently suspicious. Professional documentation ordinarily has an explanatory and justificatory function.
 
-That is why the repository now treats the founding synthesis as having a **defensive function** after the Protest.
+The important question is narrower:
 
-This is a functional proposition, not a mind-reading proposition.
+> **did the portable synthesis make the closure intelligible while omitting a material challenge to the adequacy of the process that produced it?**
 
-> **There was no fully neutral founding synthesis available after the Protest: once closure was chosen, the synthesis necessarily became part clinical explanation and part justification of the decision to close.**
+Thus the cautious formulation is:
 
-And:
+> **If the Protest occurred as described, the founding synthesis was not merely descriptive; it also made the decision to close intelligible, professionally coherent and portable.**
 
-> **Its defensive character is observable from what it accomplishes; whether professional self-protection was consciously intended is a separate motive question.**
-
-Thus:
-
-> **The synthesis turns the closure decision into the durable information state later clinicians inherit, while the event that made closure professionally vulnerable does not travel.**
+Whether that had a defensive or professional-protective effect is an evidential inference. Conscious self-protection, dishonesty or concealment remain unproved motive propositions.
 
 ---
 
@@ -146,7 +140,7 @@ Thus:
 
 The final portable account does not carry the Protest.
 
-That matters because the omitted event is not merely a disagreement.
+If the event occurred as described, the omission matters because it is not merely a disagreement.
 
 It is the event that says:
 
@@ -156,15 +150,13 @@ Without the Protest, later readers see:
 
 > **specialist assessment → uncertainty → Podiatry → completed discharge.**
 
-With the Protest, the decision history is:
+With the Protest, the decision history becomes:
 
-> **specialist assessment → patient says the originating problem remains unfinished → clinician chooses not to reopen → Podiatry / closure.**
+> **specialist assessment → patient says the originating problem remains unfinished → decision not to visibly reopen → Podiatry / closure.**
 
 Those are materially different information states.
 
-The omission therefore changes the apparent provenance and status of the uncertainty.
-
-> **The Protest was information about the adequacy of the process that generated the conclusion. Omitting it changed not only the content of the record but the apparent decision history behind the conclusion.**
+Whether a reasonable discharge summary should have recorded that challenge is a separate documentation/standard question.
 
 ---
 
@@ -195,7 +187,7 @@ The later documentary question is therefore:
 
 The patient-facing corpus presently does not identify a reconstruction assembling the original dystonic-looking sign, the Protest, procyclidine withdrawal, the April 2018 outside-left-foot return, recurrent fifth-MTPJ mechanics, the 2019 GP reintegration and later motor/pain response into one historical structural–dynamic analysis.
 
-That is an evidential-genealogy question, not the first sentence of the case.
+That is an evidential-genealogy question, not itself proof of negligence.
 
 ---
 
@@ -219,23 +211,55 @@ The documentary genealogy can therefore be stated plainly:
 
 > **founding synthesis → accumulated clinic letters → retrospective rebuttal relying on what “the letters show.”**
 
-The evidential question is not whether the rebuttal is long or inclusive. It is whether the longitudinal material it invokes actually retested the founding decision, or partly inherited the information architecture created by it.
+The evidential question is whether the longitudinal material actually retested the founding decision, or partly inherited the information architecture created by it.
 
-The omission of the Protest matters because it allows longitudinal continuity to develop without carrying the contemporaneous fact that completeness had been challenged before closure.
+If the Protest occurred as described, its omission could allow continuity to develop without carrying the contemporaneous fact that completeness had been challenged before closure.
 
-That continuity can then have an objective professional-protective effect when later relied upon as evidence that the historical management was coherent and adequate.
+That continuity could then have an objective professional-protective effect when later relied upon as evidence that the historical management was coherent and adequate.
 
-The strongest structural chain is:
-
-> **mistake → Protest exposes mistake → closure creates professional vulnerability → synthesis legitimises closure → omission removes the vulnerability from the portable account → later letters inherit the account → retrospective rebuttal relies on those letters → “no deficit in care.”**
-
-This supports analysis of **defensive/professional-protective function**.
-
-It does not, without further evidence, establish deliberate concealment, dishonesty or conscious self-protection.
+This does not establish circularity automatically. It creates a provenance question.
 
 ---
 
-## 9. 2023 is separate
+## 9. The strongest defence must remain visible
+
+The repository should not obscure the defence case.
+
+A competent defence can fairly say:
+
+- severe young-onset Parkinsonism legitimately commanded substantial neurological attention;
+- the structural foot disease was real and independently documented;
+- Podiatry was already active and clinically appropriate for the mechanical pathology;
+- the founding synthesis did not dogmatically declare the feet non-neurological but preserved uncertainty through possible neuropathy and **“Not clear”**;
+- treatment caution in very-young-onset Parkinsonism was genuine rather than retrospectively invented;
+- later evidence supports mixed mechanisms rather than one simple retrospective explanation;
+- later Neurology genuinely reconsidered the current problem;
+- and neither later dopaminergic response nor documentary asymmetry alone proves what reasonable care required in July 2017.
+
+The case becomes materially stronger for the claimant only if expert evidence converts the documentary fault-line into a standard-of-care failure.
+
+---
+
+## 10. Causation is the major unresolved bridge
+
+Even if the Protest is accepted and breach is established, causation remains separate.
+
+The controlling counterfactual question is:
+
+> **What would probably have happened differently if reasonable care had required further neurological reconstruction or a defined integrated handover in July 2017?**
+
+The repository must then ask:
+
+- what would probably have been discovered;
+- what management would probably have changed;
+- when that change would probably have occurred;
+- and which later pain, disability, functional loss or psychiatric injury would probably have been avoided or reduced.
+
+The current repository tells the information-state story more convincingly than it presently proves that counterfactual.
+
+---
+
+## 11. 2023 is separate
 
 The repository has also identified a later contemporaneous safety question.
 
@@ -255,59 +279,40 @@ That creates a separate expert question:
 
 > **Was the combined pain–mobility–falls–psychological safety state recognised and managed as one clinical object?**
 
-Do not use 2023 to complicate the 2017 theory.
+The improved mood/pain state at the later consultation and the extensive reassessment are important defence facts.
 
-Do not use the 2017 theory to predetermine the answer to the 2023 safety question.
+Do not use 2023 to complicate the 2017 theory.
 
 ---
 
-## 10. The hierarchy of the case
+## 12. The hierarchy of the case
 
-The repository should now be read in this order:
+### First — factual and documentary centre
 
-### First — liability centre
+> **Integrated referral → alleged incompleteness → asserted Protest → documented closure → omission visible in the portable account.**
 
-> **Incomplete neurological construction → Protest identifies it → decision to close rather than visibly reopen → defensive synthesis → Protest omitted from portable synthesis.**
+### Second — expert breach question
 
-### Second — consequences and genealogy
+> **If the Protest occurred as described, what further neurological reassessment, integration or handover would reasonable practice have required?**
+
+### Third — causation
+
+> **If reasonable care required something different, what would probably have changed and which later harms would probably have been avoided?**
+
+### Fourth — consequences and genealogy
 
 > **Later mechanical and neurological evidence tests the durability of the founding allocation; later clinic letters accumulate; retrospective rebuttal relies on that continuity; historical global reconstruction is not yet identified.**
 
-### Third — separate later safety issue
+### Fifth — separate later safety issue
 
 > **2023 may independently raise a pain–mobility–falls–psychological integration question.**
 
-That hierarchy prevents analytical richness from obscuring the simple alleged wrong.
-
 ---
 
-## 11. What the case does not require
+## 13. Final formulation
 
-The central 2017 case does not require proof that:
-
-- Parkinson's was wrongly diagnosed;
-- every structural foot lesion was neurological;
-- the exact mechanism was obvious in July 2017;
-- levodopa had to be started then;
-- all later clinicians failed to reconsider the feet;
-- every later observation independently confirms the patient's theory;
-- same authorship makes the later record worthless;
-- pride, embarrassment, concealment or bad faith is proved;
-- conscious professional self-protection is proved;
-- 2023 was negligent;
-- later death/endurance language proves a continuous suicidal state;
-- observed stumbles made a fall inevitable.
-
-Those are separate propositions.
-
-The central case is narrower.
-
----
-
-## 12. Final formulation
-
-> **The GP referred an integrated feet–gait–tone problem. Neurology identified and extensively developed severe young-onset Parkinsonism but did not equivalently complete the neurological construction of the painful abnormal feet through which the referral began. Before discharge, the patient directly identified that incompleteness. The clinician then had to choose whether to reopen the integrated problem or proceed to closure. The answer returned to an already-existing Podiatry pathway without an identified new neurological handover question or return mechanism. Once closure was chosen, the later-finalised synthesis was no longer merely descriptive: it also had the objective function of making that closure professionally coherent. It made the closure architecture portable and omitted the Protest that had exposed its incompleteness. The later clinic letters accumulated inside that information state, and the retrospective rebuttal later relied upon what those letters showed. The later history is principally the consequence and evidential test of that founding decision.**
+> **The GP referred an integrated feet–gait–tone problem. Neurology identified and extensively developed severe young-onset Parkinsonism but did not equivalently complete the neurological construction of the painful abnormal feet through which the referral began. The patient's account is that, before discharge, he directly identified that incompleteness. The pathway nevertheless closed through an already-existing Podiatry route without an identified new neurological handover question or return mechanism. If the Protest occurred as described, the later-finalised synthesis did more than describe the medicine: it also made that closure intelligible and portable while not preserving the challenge to completeness. Later clinic letters accumulated inside the resulting information state, and retrospective rebuttal later relied upon what those letters showed. The repository therefore establishes a credible documentary and clinical fault-line. What remains to be proved is whether reasonable neurological care required something different and, if so, what difference that would probably have made.**
 
 Shortest:
 
-> **One mistake. One Protest. One decision. One defensive synthesis. One omission. Then the consequences.**
+> **Fault-line identified. Protest asserted. Closure documented. Omission visible. Breach and causation still to be proved.**
