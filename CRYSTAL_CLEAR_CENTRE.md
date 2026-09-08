@@ -86,7 +86,7 @@ That is the decision requiring explanation.
 
 ---
 
-## 5. The synthesis makes the decision portable
+## 5. After the Protest, the synthesis is no longer merely descriptive
 
 The later-finalised discharge synthesis contains the major facts:
 
@@ -120,9 +120,25 @@ And the plan becomes:
 
 > **“As per above.”**
 
+Before the Protest, such a synthesis could still be understood simply as the clinician's account of the admission.
+
+After the Protest, once closure was chosen, the document had an additional objective function:
+
+> **it had to make that closure professionally coherent despite the patient having just identified the originating problem as unfinished.**
+
+That is why the repository now treats the founding synthesis as having a **defensive function** after the Protest.
+
+This is a functional proposition, not a mind-reading proposition.
+
+> **There was no fully neutral founding synthesis available after the Protest: once closure was chosen, the synthesis necessarily became part clinical explanation and part justification of the decision to close.**
+
+And:
+
+> **Its defensive character is observable from what it accomplishes; whether professional self-protection was consciously intended is a separate motive question.**
+
 Thus:
 
-> **The synthesis turns the closure decision into the durable information state later clinicians inherit.**
+> **The synthesis turns the closure decision into the durable information state later clinicians inherit, while the event that made closure professionally vulnerable does not travel.**
 
 ---
 
@@ -183,7 +199,7 @@ That is an evidential-genealogy question, not the first sentence of the case.
 
 ---
 
-## 8. Authorial continuity strengthens the consequence analysis
+## 8. Founding synthesis → clinic letters → retrospective rebuttal
 
 The clinician substantially responsible for the founding 2017 documentary state remained substantially present in the longitudinal neurological authorship and in 2025 relied expressly on what **“the letters show”** when explaining the historical management.
 
@@ -198,6 +214,24 @@ And:
 > **independence of source is not independence of proposition.**
 
 DATscan, Professor Healy, Podiatry, GP observations and treatment responses are genuine independent inputs, but they independently validate only the propositions they actually tested.
+
+The documentary genealogy can therefore be stated plainly:
+
+> **founding synthesis → accumulated clinic letters → retrospective rebuttal relying on what “the letters show.”**
+
+The evidential question is not whether the rebuttal is long or inclusive. It is whether the longitudinal material it invokes actually retested the founding decision, or partly inherited the information architecture created by it.
+
+The omission of the Protest matters because it allows longitudinal continuity to develop without carrying the contemporaneous fact that completeness had been challenged before closure.
+
+That continuity can then have an objective professional-protective effect when later relied upon as evidence that the historical management was coherent and adequate.
+
+The strongest structural chain is:
+
+> **mistake → Protest exposes mistake → closure creates professional vulnerability → synthesis legitimises closure → omission removes the vulnerability from the portable account → later letters inherit the account → retrospective rebuttal relies on those letters → “no deficit in care.”**
+
+This supports analysis of **defensive/professional-protective function**.
+
+It does not, without further evidence, establish deliberate concealment, dishonesty or conscious self-protection.
 
 ---
 
@@ -233,11 +267,11 @@ The repository should now be read in this order:
 
 ### First — liability centre
 
-> **Incomplete neurological construction → Protest identifies it → decision to close rather than visibly reopen → Protest omitted from portable synthesis.**
+> **Incomplete neurological construction → Protest identifies it → decision to close rather than visibly reopen → defensive synthesis → Protest omitted from portable synthesis.**
 
 ### Second — consequences and genealogy
 
-> **Later mechanical and neurological evidence tests the durability of the founding allocation; later reopening occurs; historical global reconstruction is not yet identified.**
+> **Later mechanical and neurological evidence tests the durability of the founding allocation; later clinic letters accumulate; retrospective rebuttal relies on that continuity; historical global reconstruction is not yet identified.**
 
 ### Third — separate later safety issue
 
@@ -259,6 +293,7 @@ The central 2017 case does not require proof that:
 - every later observation independently confirms the patient's theory;
 - same authorship makes the later record worthless;
 - pride, embarrassment, concealment or bad faith is proved;
+- conscious professional self-protection is proved;
 - 2023 was negligent;
 - later death/endurance language proves a continuous suicidal state;
 - observed stumbles made a fall inevitable.
@@ -271,8 +306,8 @@ The central case is narrower.
 
 ## 12. Final formulation
 
-> **The GP referred an integrated feet–gait–tone problem. Neurology identified and extensively developed severe young-onset Parkinsonism but did not equivalently complete the neurological construction of the painful abnormal feet through which the referral began. Before discharge, the patient directly identified that incompleteness. The clinician then had to choose whether to reopen the integrated problem or proceed to closure. The answer returned to an already-existing Podiatry pathway without an identified new neurological handover question or return mechanism. The later-finalised synthesis made that closure architecture portable and omitted the Protest that had exposed its incompleteness. The later history is principally the consequence and evidential test of that founding decision.**
+> **The GP referred an integrated feet–gait–tone problem. Neurology identified and extensively developed severe young-onset Parkinsonism but did not equivalently complete the neurological construction of the painful abnormal feet through which the referral began. Before discharge, the patient directly identified that incompleteness. The clinician then had to choose whether to reopen the integrated problem or proceed to closure. The answer returned to an already-existing Podiatry pathway without an identified new neurological handover question or return mechanism. Once closure was chosen, the later-finalised synthesis was no longer merely descriptive: it also had the objective function of making that closure professionally coherent. It made the closure architecture portable and omitted the Protest that had exposed its incompleteness. The later clinic letters accumulated inside that information state, and the retrospective rebuttal later relied upon what those letters showed. The later history is principally the consequence and evidential test of that founding decision.**
 
 Shortest:
 
-> **One mistake. One Protest. One decision. One omission. Then the consequences.**
+> **One mistake. One Protest. One decision. One defensive synthesis. One omission. Then the consequences.**
