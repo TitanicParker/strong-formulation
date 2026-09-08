@@ -220,7 +220,35 @@ Thus:
 
 > **There was genuine later reopening, but the patient-facing record presently shows current-state reconstruction more clearly than reconstruction of the founding foot–tone–gait decision history.**
 
-## 13. By 2024–2025 the model becomes more internally differentiated and mixed
+## 13. 2023 is also a separate convergence-and-safety event
+
+The 2023 episode should not be used only as retrospective evidence about 2017.
+
+Falls risk was already part of the neurological information state. In 2017 the patient reported very bad balance and believed a fall was imminent. In 2019 the GP's concern that he might fall was expressly described by Neurology as understandable in the context of visible Parkinsonian gait disorder, and the neurologist wrote that the patient **might fall**.
+
+Against that background, the **26 March 2023 urgent GP referral** described severe bilateral burning foot/lower-leg pain, at times **“causing death wish,”** said **“I am worried about him,”** and sought review before **“we get into trouble here.”** On 28 March the Parkinson's nurse told the consultant that despite **600 mg/day Lyrica**, the patient reported debilitating pain, **“no quality of life,”** and months of worsening symptoms.
+
+The later clinic review does not show an unchanged acute psychological state: the clinician records a positive mood and says the patient looked medically well. But the same consultation records that in the preceding months he had **“ground to an absolute halt,”** had three bad bouts where he **“gave up,”** could not manage a fourth evening walk, and had clawing/cramping and major activity restriction.
+
+The gait examination itself was not negative:
+
+> **“Superficially, the gait actually looks okay though I did see some stumbles.”**
+
+The correct inference is not that a fall was inevitable or quantifiable from that examination. It is:
+
+> **Direct instability was observed during a brief gait assessment in a patient with an established gait disorder, prior falls-risk concerns and an active pain/mobility crisis.**
+
+The patient-facing recommendations contain extensive branch-specific reasoning about OFF state, levodopa, neuropathy/Fabry, Lyrica, alcohol, cannabis and repeat DATscan. They presently do **not identify** a specific falls-focused assessment, balance intervention, Parkinson's-specific physiotherapy referral, assistive-device assessment, explicit falls-safety plan or monitoring criterion tied to further stumbling/falling.
+
+That is a record-audit finding, not yet a breach conclusion.
+
+The distinct 2023 expert question is:
+
+> **Was the combined pain–mobility–falls–psychological safety state recognised and managed as one clinical object, and what response would ordinarily be expected after directly observed stumbles in that context?**
+
+This is a second integration question in the case. It should not be collapsed into the 2017 founding-negligence theory.
+
+## 14. By 2024–2025 the model becomes more internally differentiated and mixed
 
 The 2024 record distinguishes pain from motor foot phenomena: maximum-dose Lyrica substantially relieves the foot pain but does not relieve toe curling during standing or exertion.
 
@@ -234,7 +262,15 @@ Whether that model is medically correct remains expert-dependent.
 
 Documentarily, however, it is materially more integrated than the strongest form of **“completely separate.”**
 
-## 14. The continuity problem is partly authorial, not merely documentary
+The March 2025 sequence also sharpens the later safety thread. On **10 March 2025** Neurology records severe morning foot pain, the first 150 steps as **“torture,”** and that saying **“I won’t live with it”** allowed the patient to put words on the situation. On **18 March 2025**, in a separate GP-facing briefing, the patient writes of fear of falling and the realisation that if he fell he **“may not want to get back up,”** while also describing worn-down psychological endurance and reaching the point of not being able to push forward.
+
+Do not convert those phrases into automatic proof of suicidal intent or attribute the 18 March GP briefing to Neurology without separate evidence of receipt.
+
+Their safe longitudinal significance is:
+
+> **pain, mobility, falling and psychological endurance repeatedly become connected in the patient's documented experience.**
+
+## 15. The continuity problem is partly authorial, not merely documentary
 
 The same clinician who occupied the central clinical and authorial positions in the founding 2017 discharge record remained a recurring longitudinal neurological author.
 
@@ -246,7 +282,7 @@ A DATscan can independently strengthen the Parkinsonian direction without indepe
 
 Thus the longitudinal record is best understood as a **partly endogenous evidential system**: real external evidence enters, but much of its later meaning is received and carried forward within a neurological framework substantially continuous with the clinician who helped create the starting state.
 
-## 15. The 2025 historical response reconstructs history selectively
+## 16. The 2025 historical response reconstructs history selectively
 
 In the March 2025 response to Quality and Patient Safety, the same neurologist states:
 
@@ -272,7 +308,7 @@ Thus:
 
 That is the more exact evidential genealogy problem.
 
-## 16. What would count as global reconstruction
+## 17. What would count as global reconstruction
 
 The correct question is no longer whether the feet were ever reconsidered.
 
@@ -290,7 +326,7 @@ Use instead:
 
 > **The patient-facing corpus presently contains genuine later reopening, but it does not yet identify a reconstruction that assembles the founding evidential genealogy into one retrospective structural–dynamic analysis.**
 
-## 17. The record’s behaviour
+## 18. The record’s behaviour
 
 The longitudinal record can now be investigated as a system:
 
@@ -302,24 +338,29 @@ The longitudinal record can now be investigated as a system:
 6. the narrative arrangement becomes the plan;
 7. mechanical and neurological information develop in parallel streams;
 8. later Neurology genuinely reopens the current problem;
-9. the clinical model becomes more mixed and treatment-state sensitive;
-10. the founding evidential genealogy is not yet shown to have been globally reconstructed;
-11. later continuity becomes available as evidence of longstanding understanding.
+9. in 2023 the current presentation also becomes a distinct pain–mobility–safety convergence problem;
+10. the clinical model becomes more mixed and treatment-state sensitive;
+11. the founding evidential genealogy is not yet shown to have been globally reconstructed;
+12. later continuity becomes available as evidence of longstanding understanding.
 
 This is why the case is better described as an **information-arrangement and evidential-genealogy problem** than a simple missing-information problem.
 
-## 18. Controlling proposition
+## 19. Controlling proposition
 
-The case does not require proof that the neurologist literally failed to read the referral, that every foot symptom was definitely PRKN or dystonia, that levodopa had to be started in July 2017, that the Parkinson’s diagnosis was wrong, that the 2023 reopening was superficial, that same authorship makes later letters worthless, or that any private motive is established.
+The case does not require proof that the neurologist literally failed to read the referral, that every foot symptom was definitely PRKN or dystonia, that levodopa had to be started in July 2017, that the Parkinson’s diagnosis was wrong, that the 2023 reopening was superficial, that same authorship makes later letters worthless, that observed stumbles made a fall inevitable, that the 2023–2025 death/endurance language proves a continuous suicidal state, or that any private motive is established.
 
 The narrower proposition is stronger:
 
-> **The GP referred an integrated problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs. Neurology understandably concentrated on the striking neurological syndrome and developed a sophisticated young-onset Parkinsonism/PRKN treatment architecture. After days of that work, the patient expressly restored the underweighted first paragraph of the referral by stating that the feet had not been properly dealt with and the work could not be complete. The answer returned to an already-existing Podiatry pathway, but the patient-facing corpus presently identifies no separate neurological handover question that transformed that pathway into an integrative investigation. The later-finalised discharge synthesis arranged the known elements so that the neurological admission could be treated as complete while the painful feet remained separate, possibly neuropathic, “Not clear” and operationally Podiatry. The Protest did not travel. Thereafter Neurology and Podiatry developed complementary dynamic and mechanical truths in parallel. Neurology genuinely reopened the problem in 2023 and by 2025 had a more mixed treatment-state-sensitive model, but the patient-facing corpus does not yet identify a historical reconstruction assembling the founding 2017 sign, treatment-state foot response, recurrent fifth-MTPJ mechanics, 2019 GP reintegration and later motor/pain response into one structural–dynamic analysis.**
+> **The GP referred an integrated problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs. Neurology understandably concentrated on the striking neurological syndrome and developed a sophisticated young-onset Parkinsonism/PRKN treatment architecture. After days of that work, the patient expressly restored the underweighted first paragraph of the referral by stating that the feet had not been properly dealt with and the work could not be complete. The answer returned to an already-existing Podiatry pathway, but the patient-facing corpus presently identifies no separate neurological handover question that transformed that pathway into an integrative investigation. The later-finalised discharge synthesis arranged the known elements so that the neurological admission could be treated as complete while the painful feet remained separate, possibly neuropathic, “Not clear” and operationally Podiatry. The Protest did not travel. Thereafter Neurology and Podiatry developed complementary dynamic and mechanical truths in parallel. Neurology genuinely reopened the problem in 2023 and by 2025 had a more mixed treatment-state-sensitive model, but the patient-facing corpus does not yet identify a historical reconstruction assembling the founding 2017 sign, treatment-state foot response, recurrent fifth-MTPJ mechanics, 2019 GP reintegration and later motor/pain response into one structural–dynamic analysis. Separately, the 2023 episode itself contains a second unresolved integration question: the treating service received a severe pain and functional crisis, directly observed stumbles against a known gait-risk history, and documented extensive branch-specific reasoning without an identified whole-risk reconstruction of pain, mobility, falls and psychological endurance.**
 
 The shortest centre remains:
 
 > **The patient did not discover a new problem at discharge. He restored the referrer’s original problem after days in which the record had overwhelmingly valued something else. The discharge synthesis then had to decide what that restored problem was allowed to mean.**
 
-And the refined continuity question is:
+The refined continuity question is:
 
 > **The issue was reopened. The founding genealogy was not yet shown to have been reconstructed.**
+
+And the 2023 safety question is:
+
+> **The gait examination found instability inside an active pain and mobility crisis. What did the record do with that finding?**
