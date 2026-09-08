@@ -61,9 +61,11 @@ By the time the patient restores the first paragraph, the admission has already 
 - days of specialist work;
 - a teaching environment in which the patient raises the incompleteness.
 
+The case had also begun to acquire forward administrative and diagnostic reality: Long Term Illness Scheme paperwork was signed and posted, the case had been discussed with neurological colleagues, and the DATscan later returned abnormal **“as was expected.”**
+
 This does not prove pride, vanity or embarrassment.
 
-It does create an objective setting of **professional-coherence / commitment pressure**. Reopening the restored first paragraph would require acknowledging that an elementary part of the referring problem remained insufficiently worked through despite substantial specialist work elsewhere.
+It creates an objective setting of **professional-coherence / diagnostic commitment pressure**. Reopening the restored first paragraph would require the existing account to be expanded, qualified or partially reworked at the point when the admission was approaching closure.
 
 That is a plausible explanatory mechanism to investigate, not a proved private motive.
 
@@ -134,6 +136,10 @@ Its omission therefore removes more than disagreement. It removes the event that
 
 > **The patient restored the referrer’s original problem. The neurologist answered Podiatry. The discharge synthesis then arranged the known facts so that this answer could coexist with neurological closure.**
 
+The omission is therefore upstream of the later longitudinal continuity.
+
+> **An earlier contemporaneous challenge to completeness can come to look retrospectively like a later disagreement with settled history when the challenge is absent from the founding portable state.**
+
 ## 8. The founding sequence
 
 The corrected sequence is:
@@ -142,15 +148,19 @@ The corrected sequence is:
 
 This supersedes any formulation that treats the pre-Protest state simply as an already-recognised “unresolved relationship” or treats the synthesis as evidence that the relevant elements were never joined.
 
-## 9. April 2018 and later boundary crossings
+## 9. Later boundary crossings are evidence capable of testing the founding arrangement
 
-The 2017 plan contemplated a procyclidine test-stop. During withdrawal, the patient contemporaneously reported that his feet became restless and his walk fell apart.
+The 2017 plan contemplated a procyclidine test-stop. During withdrawal, the patient contemporaneously reported that his feet became restless, tension built and his walk fell apart.
 
 In April 2018 the treating neurologist documented that the **first thing** to change, and to change **rapidly**, during withdrawal was the **return** of the outside-left-foot corn phenomenon.
 
 This does not prove one exclusive mechanism. It shows that Neurology itself acquired treatment-state information capable of testing the founding arrangement.
 
-Podiatry separately documented a recurrent left fifth-MTPJ lesion and repeatedly offloaded the exact site mechanically. Later primary-care and Movement Disorders material again connected feet, tone, gait, OFF-state symptoms and dopaminergic response.
+Podiatry separately documented a recurrent left fifth-MTPJ lesion and repeatedly offloaded the exact site mechanically. Primary care later reconstructed an integrated feet–tone–gait–Parkinsonism object. Peripheral neuropathy remained conditional. Later Neurology recognised OFF-state lower-limb phenomena while foot symptoms remained active, and by 2025 the same longitudinal channel expressly accepted that the feet/pain improved when Sinemet acted and that Sinemet CR produced profound relief.
+
+The safe distinction is:
+
+> **Later evidence establishes coupling to neurological treatment state; it does not by itself establish one exclusive cause.**
 
 The problem is therefore not simply that nobody ever possessed both kinds of information.
 
@@ -158,7 +168,65 @@ The more exact later question is:
 
 > **Where was the founding relationship assigned by the discharge synthesis globally reconstructed when later mechanical and neurological information repeatedly crossed it?**
 
-## 10. The record’s behaviour
+## 10. The continuity problem is partly authorial, not merely documentary
+
+The same clinician who occupied the central clinical and authorial positions in the founding 2017 discharge record remained a recurring longitudinal neurological author.
+
+The record also contains genuine independent inputs: DATscan, Professor Healy, Podiatry, GP observations and treatment responses.
+
+But **independence of source is not the same as independence of proposition**.
+
+A DATscan can independently strengthen the Parkinsonian direction without independently proving that the feet were adequately integrated. Professor Healy can independently support a PARK II / Parkinsonian formulation without independently validating the July Protest/foot question if that question was not the subject of his review. Podiatry can independently establish focal mechanical truth without resolving the whole neurological relationship.
+
+Thus the longitudinal record is best understood as a **partly endogenous evidential system**: real external evidence enters, but much of its later meaning is received and carried forward within a neurological framework substantially continuous with the clinician who helped create the starting state.
+
+## 11. The 2025 reliance makes the genealogy concrete
+
+In the March 2025 response to Quality and Patient Safety, the same neurologist states:
+
+> **“As the letters show, we have had a clear understanding for quite some time that Sinemet does help his pain.”**
+
+He then returns expressly to the 2017 account with:
+
+> **“In 2017 very openly and very explicitly…”**
+
+and relies upon the historical treatment-language and later letters to explain the pathway.
+
+That is not improper merely because a clinician relies upon contemporaneous records.
+
+Its significance is evidential:
+
+> **The founding author did not merely create the starting state. He remained substantially inside the continuity that later became part of the evidence used to explain the starting state.**
+
+Therefore separate:
+
+- **clinical continuity** — genuinely new observations over time;
+- **authorial continuity** — substantially continuous authorship and interpretation;
+- **evidential continuity** — later use of the accumulated letters as evidence of longstanding understanding.
+
+These are not interchangeable.
+
+> **Same-author continuity strongly proves persistence. It is not automatically repeated independent replication of the founding inquiry.**
+
+## 12. What would count as global reconstruction
+
+A global reconstruction need not use that label.
+
+But it would need reasoning substantially equivalent to:
+
+> **In 2017 the painful feet were considered possibly separate or neuropathic. Since then treatment withdrawal has changed feet/gait/tension; Neurology has documented rapid return of an outside-left-foot phenomenon; Podiatry has repeatedly identified focal fifth-MTPJ loading; primary care has reintegrated feet/tone/gait/Parkinsonism; neuropathy remains conditional; later lower-limb phenomena have shown OFF-state features; and the feet/pain improve with Sinemet. What does this cumulative evidence now mean for the original structural–dynamic relationship?**
+
+The answer could still be a mixed model in which structural pathology remains primary and Parkinsonism modulates pain.
+
+What matters is whether the founding allocation was expressly retested against the accumulated evidence.
+
+Do not infer from the absence of a single reconstruction letter that nobody ever thought about the issue privately.
+
+Use instead:
+
+> **Where retrospective reliance is placed upon documentary continuity itself, the absence of an identifiable documented reconstruction limits how strongly that continuity can be treated as evidence of repeated critical revalidation of the founding feet–neurology allocation.**
+
+## 13. The record’s behaviour
 
 The longitudinal record can now be investigated as a system:
 
@@ -169,21 +237,26 @@ The longitudinal record can now be investigated as a system:
 5. uncertainty receives an operational destination;
 6. the narrative arrangement becomes the plan;
 7. later boundary-crossing information is absorbed locally;
-8. the founding arrangement remains stable;
-9. later continuity becomes available as evidence of longstanding understanding.
+8. much of that crossing returns to substantially the same neurological authorship;
+9. the founding arrangement remains stable or evolves without an identified global reconstruction;
+10. later continuity becomes available as evidence of longstanding understanding.
 
-This is why the case is better described as an **information-arrangement problem** than a simple missing-information problem.
+This is why the case is better described as an **information-arrangement and evidential-genealogy problem** than a simple missing-information problem.
 
 The record does not generally delete difficult facts. It contains them, gives them status, assigns them a destination and constrains what they are allowed to mean.
 
-## 11. Controlling proposition
+## 14. Controlling proposition
 
-The case does not require proof that the neurologist literally failed to read the referral, that every foot symptom was definitely PRKN or dystonia, that levodopa had to be started in July 2017, or that any private motive is established.
+The case does not require proof that the neurologist literally failed to read the referral, that every foot symptom was definitely PRKN or dystonia, that levodopa had to be started in July 2017, that the Parkinson’s diagnosis was wrong, that same authorship makes later letters worthless, or that any private motive is established.
 
 The narrower proposition is stronger:
 
-> **The GP referred an integrated problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs. Neurology understandably concentrated on the striking neurological syndrome and developed a sophisticated young-onset Parkinsonism/PRKN treatment architecture. After days of that work, the patient expressly restored the underweighted first paragraph of the referral by stating that the feet had not been properly dealt with and the work could not be complete. At that point the originating problem was squarely back in view. The later-finalised discharge synthesis contained all of the relevant elements but arranged them so that the neurological admission could be treated as complete while the painful feet remained separate, possibly neuropathic, “Not clear” and operationally Podiatry. The Protest that exposed the closure problem did not travel. Later information repeatedly crossed the resulting boundary without an identified global reconstruction.**
+> **The GP referred an integrated problem beginning with painful abnormal feet and gait and escalating into pathological neurological signs. Neurology understandably concentrated on the striking neurological syndrome and developed a sophisticated young-onset Parkinsonism/PRKN treatment architecture. After days of that work, the patient expressly restored the underweighted first paragraph of the referral by stating that the feet had not been properly dealt with and the work could not be complete. At that point the originating problem was squarely back in view. The later-finalised discharge synthesis contained all of the relevant elements but arranged them so that the neurological admission could be treated as complete while the painful feet remained separate, possibly neuropathic, “Not clear” and operationally Podiatry. The Protest that exposed the closure problem did not travel. Later evidence repeatedly crossed the resulting boundary. Much of that evidence returned to substantially the same neurological authorship, and in 2025 the same founding clinician expressly relied upon the accumulated letter-history when explaining the historical management. Documentary continuity therefore strongly proves persistence of the framework; it independently proves the completeness of the founding inquiry only to the extent that later evidence can be shown genuinely to have retested that particular question.**
 
 The shortest centre is:
 
 > **The patient did not discover a new problem at discharge. He restored the referrer’s original problem after days in which the record had overwhelmingly valued something else. The discharge synthesis then had to decide what that restored problem was allowed to mean.**
+
+And the controlling continuity question is:
+
+> **The question is not whether the record stayed consistent. It is whether the disputed founding question was ever independently reopened inside that consistency.**
