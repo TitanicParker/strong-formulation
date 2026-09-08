@@ -42,7 +42,8 @@ Use these for the 2023–2025 deterioration, psychological consequences and prof
 Use these for PRKN, pregabalin, Sinemet CR, complaint response, governance and documentary continuity:
 
 - [`docs/loop-2025.html`](docs/loop-2025.html) — the 2025 loop.
-- [`GDPR_LIVE_WAITING_STATE_2026-09-04.md`](GDPR_LIVE_WAITING_STATE_2026-09-04.md) — live information-governance track.
+- [`GDPR_LIVE_WAITING_STATE_2026-09-04.md`](GDPR_LIVE_WAITING_STATE_2026-09-04.md) — live information-governance track as at 4 September 2026.
+- [`EVIDENTIAL_ACCESS_AND_PROCEDURAL_OPACITY.md`](EVIDENTIAL_ACCESS_AND_PROCEDURAL_OPACITY.md) — corroboration, controller-side audit questions, procedural opacity and the evidential-access chain.
 - [`TIMELINE_INFORMATION_STATE.md`](TIMELINE_INFORMATION_STATE.md) — chronology.
 - [`docs/evidence.html`](docs/evidence.html) — supporting evidence.
 
@@ -81,6 +82,18 @@ The short form remains:
 It does not require proof that every structural foot abnormality had one neurological cause. It does not require proof that Neurology should have known the exact mechanism in July 2017. It does not require proof that reconsidering the feet required immediate levodopa. It does not require proof of pride, embarrassment, vanity, deliberate concealment or any other private motive.
 
 The narrower proposition is stronger: the record shows that the neurological component of the referral received overwhelmingly greater clinical elaboration; after days of that work, the patient expressly restored the originating foot problem before closure; the final synthesis then arranged all known elements into a structure that permitted neurological closure while the painful feet remained “Not clear” and operationally elsewhere.
+
+## Separate evidential-access track
+
+The repository also now distinguishes the underlying clinical/documentary case from the later problem of obtaining and testing potentially corroborative institutional information.
+
+That track does **not** treat current non-production as proof of concealment, destruction, or non-existence. It asks what potentially corroborative sources were identifiable, who held the systems capable of locating them, what searches or decisions were actually made, and only after those steps what significance—if any—can properly arise from non-production.
+
+Its controlling procedural formulation is:
+
+> **Repeated failure to convert clearly articulated data-subject rights into clear, correctly characterised, timely and operationally effective controller decisions can produce cumulative procedural opacity and preserve material factual uncertainty.**
+
+See [`EVIDENTIAL_ACCESS_AND_PROCEDURAL_OPACITY.md`](EVIDENTIAL_ACCESS_AND_PROCEDURAL_OPACITY.md).
 
 ## Status
 
