@@ -2,48 +2,35 @@
 
 **Status:** CONTROLLING METHODOLOGICAL RULE — 9 September 2026
 
-This rule is mandatory for future analysis of the case.
+This rule is mandatory for future analysis of the case and is subject to the temporal firewall in [`TEMPORAL_FIREWALL_AND_DRIFT_AUDIT_2026_09_09.md`](TEMPORAL_FIREWALL_AND_DRIFT_AUDIT_2026_09_09.md).
 
-The patient-specific clinical record must not be read as though it was produced in an intellectual or institutional vacuum.
+The patient-specific clinical record must not be read as though it was produced in an intellectual or institutional vacuum. Equally, later departmental sophistication must never be projected backwards into an earlier patient information state merely because it appears in the final discharge product.
 
 Every material proposition should be tested simultaneously against three layers:
 
-> **1. the patient-specific record;**
+> **1. the patient-specific record at the relevant date;**
 >
-> **2. the contemporaneous knowledge, expertise and capability of the department that produced it, especially where that knowledge demonstrably entered the patient's own case;**
+> **2. the knowledge, expertise and capability demonstrably available to the department at that date, distinguishing capability from proof that it entered this patient's case;**
 >
 > **3. the later clinical, complaint and governance uses of the resulting record.**
 
 Shortest form:
 
-> **Record + department + later reliance must always be read together.**
+> **Record + department + later reliance must always be read together — but never backwards in time.**
 
-This is contextual triangulation, not guilt by institutional reputation. Departmental expertise cannot prove that an individual clinician performed undocumented work, cannot prove breach, and cannot replace independent expert evidence on reasonable practice. Its proper function is to identify what conceptual resources were actually available, what of those resources entered the case, and how that affects explanations based on novelty, complexity or lack of available understanding.
+This is contextual triangulation, not guilt by institutional reputation. Departmental expertise cannot prove that an individual clinician performed undocumented work, cannot prove breach, and cannot replace independent expert evidence on reasonable practice. Its proper function is to identify what conceptual resources were available, when they can be shown to have entered the case, and how that affects explanations based on novelty, complexity or lack of available understanding.
 
 ---
 
 ## 1. Why this rule is necessary
 
-The July 2017 synthesis is unusually sophisticated. It contains or invokes:
+The final July 2017 discharge synthesis is unusually sophisticated. It contains or invokes severe very-young-onset Parkinsonism, recessive inheritance reasoning, PRKN/PARK2, genetic counselling and future genomic testing, treatment strategy, colleague/senior neurological input, Complex Case Meeting context and a Galway departmental Parkinson-genetics article with Professor Timothy Counihan expressly enclosed in the discharge packet.
 
-- severe very-young-onset Parkinsonism;
-- recessive inheritance reasoning;
-- PRKN/PARK2;
-- genetic counselling and future genomic testing;
-- treatment strategy shaped by age and long-term dopaminergic complications;
-- colleague / senior neurological input;
-- Complex Case Meeting context;
-- and a Galway departmental Parkinson-genetics article with Professor Timothy Counihan expressly enclosed in the discharge packet.
+The patient-specific bedside record also contains a **“strikingly abnormal”** gait, a lower-limb appearance **“somewhat suggestive of a dystonic posture – NOT FOOT DROP”**, an **“almost dystonically unusual”** walk, painful structurally abnormal feet, and a neurological–foot relationship ultimately left **“Not clear”** and operationally capable of separate management.
 
-The same patient-specific record also contains:
+The crucial temporal qualification is:
 
-- a **“strikingly abnormal”** gait;
-- a lower-limb appearance **“somewhat suggestive of a dystonic posture – NOT FOOT DROP”**;
-- an **“almost dystonically unusual”** walk;
-- painful structurally abnormal feet;
-- and a neurological–foot relationship left **“Not clear”** and operationally capable of separate management.
-
-These facts cannot sensibly be analysed without asking what kind of department generated that synthesis and what knowledge it was actually using.
+> **The final packet proves that sophisticated departmental knowledge entered the discharge information state. It does not, by itself, prove when each element entered, who supplied it, or that the completed PRKN-rich synthesis existed before the Protest or before patient departure.**
 
 ---
 
@@ -57,43 +44,47 @@ It does not establish:
 
 It asks:
 
-> **Given the sophistication this service demonstrably possessed and deployed, what explains the difference between the resolution of the Parkinsonian/genetic construction and the resolution of the disputed lower-limb/foot relationship?**
+> **Given the sophistication this service demonstrably possessed, and the sophistication eventually deployed in the final synthesis, what explains the difference between the resolution of the Parkinsonian/genetic construction and the documented resolution of the disputed lower-limb/foot relationship?**
 
-The key distinction is:
+The key distinctions are:
 
-> **available sophistication is not proof of adequate application.**
+> **available sophistication is not proof of adequate application;**
 
-Equally:
+> **final-document sophistication is not proof of its timing before the patient left;**
+
+and:
 
 > **available sophistication makes a generic claim of conceptual unavailability less persuasive.**
 
 ---
 
-## 3. Departmental knowledge actually entered the case
-
-This is stronger than external academic context.
+## 3. Departmental knowledge entered the discharge state — timing remains to be reconstructed
 
 The July 2017 discharge material states:
 
 > **“Another article on the genetics of Parkinsons written a couple of years ago from the Department here with Prof Counihan is enclosed within.”**
 
-Thus departmental academic knowledge was not merely somewhere in the university environment. It was selected into the patient's own discharge information state.
+Thus departmental academic knowledge was not merely somewhere in the university environment. It was selected into the patient's own **final discharge information state**.
 
-The relevant audit question becomes:
+That is stronger than external academic context, but it must not be overstated.
 
-> **What happened when that knowledge entered the case?**
+It does **not** establish that the article, its phenotypic implications, Professor Counihan's input or the completed PRKN/PARK2 reasoning were present before the Protest.
 
-Did it merely enrich the retrospective synthesis?
+The relevant audit questions become:
 
-Or did it return to the patient as phenotype-directed examination of the dystonic-looking lower limb, foot posture, loading, toe behaviour, painful structural abnormalities and their relation to gait?
+> **When did that knowledge enter the case? Who supplied it? What clinical work did it generate?**
 
-The expected clinical loop is:
+And, most importantly:
+
+> **Did any sophisticated formulation developed during or around the discharge process return to the patient as phenotype-directed examination while he was still available?**
+
+The expected clinical loop, where clinically required, would be:
 
 > **observe → formulate → consult expertise → return to patient → test → revise.**
 
 The repository must continue asking:
 
-> **Did the loop close?**
+> **Did the loop close, and was there still an opportunity for it to close before departure?**
 
 ---
 
@@ -101,7 +92,7 @@ The repository must continue asking:
 
 ### The GP referral
 
-The referral becomes even more important under this rule. It supplied an integrated clinical object before specialist categories existed:
+The referral supplied an integrated clinical object before specialist categories existed:
 
 > **painful abnormal feet + abnormal gait + abnormal tone / movement concern.**
 
@@ -111,45 +102,53 @@ The department did not inherit “Parkinson's plus unrelated feet.” It inherit
 
 The bedside record demonstrates that the motor disorder, abnormal gait and dystonic-looking lower limb were visible.
 
-The department context means the question is not whether dystonia was an obscure concept. The record itself uses dystonic language, while the surrounding department was engaged in movement-disorders, dystonia, gait and genetic-Parkinsonism work.
+The surrounding departmental context shows that dystonia and genetic Parkinsonism were not concepts outside the institution's intellectual reach. But capability evidence must remain separate from proof that any named expert or paper had entered this patient's bedside assessment at that time.
 
 ### The synthesis–examination differential
 
-This becomes one of the strongest internal comparators.
+This remains one of the strongest internal comparators, provided its chronology is kept straight.
 
-The service was capable of constructing a sophisticated PRKN/PARK2 hypothesis and of placing departmental genetics literature into the discharge packet.
+The **final service product** was capable of constructing a sophisticated PRKN/PARK2 hypothesis and placing departmental genetics literature into the discharge packet.
 
-The surviving bedside record does not clearly demonstrate an equivalently sophisticated interrogation of the disputed foot relationship.
+The surviving bedside record does not clearly demonstrate an equivalently sophisticated interrogation of the disputed foot relationship while the patient was available for examination.
 
 Thus:
 
-> **the synthesis may have outrun the examination.**
+> **the final synthesis may have outrun the documented examination.**
 
 And more precisely:
 
 > **synthetic completeness may have exceeded evidential completeness.**
 
-### The closure moment
+The unresolved investigative question is when that synthetic completeness arose.
 
-The closure moment becomes more institutionally specific.
+### The closure sequence
 
-It was not simply uncertainty in a difficult case.
+The repository should no longer compress this into a single undifferentiated “closure moment.”
 
-It may have been:
+The safer sequence is:
 
-> **a sophisticated service reaching professional completion while one clinically adjacent relationship remained unresolved at a materially lower level of interrogation.**
+> **bedside clinical work → Protest, if proved → professional decision to discharge → patient departure → completion/finalisation of the authoritative portable synthesis, with exact timing of particular elements to be proved.**
 
-This remains an expert question, not a proved breach.
+The potential problem is therefore not simply uncertainty in a difficult case. It may have been professional closure while one clinically adjacent relationship remained insufficiently examined, followed by a final document substantially more sophisticated than the surviving bedside foot inquiry.
+
+This remains an expert and evidential question, not a proved breach.
 
 ### The Protest
 
-If the Protest occurred as described, its significance increases.
+If the Protest occurred as described, its significance must be kept at the information state in which it occurred.
 
-The patient was not offering a rival diagnosis. He was identifying the part of the presenting phenotype that remained outside an otherwise sophisticated specialist construction.
+The patient was not offering a rival diagnosis. He was not objecting to PRKN/PARK2 reasoning, the final **“Not clear”** wording or an “otherwise sophisticated specialist construction” he had not seen.
 
-Thus the asserted Protest can be understood as:
+His asserted complaint was simpler:
 
-> **Your frame has not accounted for this part of me.**
+> **after the inpatient work he had experienced, the longstanding disabling feet had not been dealt with.**
+
+The later analytical translation **“Your frame has not accounted for this part of me”** may describe what the Protest came to mean in retrospect, but it must never be represented as the patient's contemporaneous object of objection.
+
+The controlling formulation is:
+
+> **The Protest challenged the clinical work actually experienced before discharge; it did not challenge a later synthesis the patient had not yet seen.**
 
 ### Podiatry
 
@@ -157,7 +156,7 @@ The department context does not make Podiatry inappropriate.
 
 It makes the missing **integrative question** more visible.
 
-Neurology had the movement-state and phenotype information. Podiatry developed increasingly precise mechanical information. The question is who owned the relationship between them.
+Neurology had movement-state and phenotype information. Podiatry developed increasingly precise mechanical information. The question is who owned the relationship between them.
 
 Thus:
 
@@ -167,23 +166,29 @@ And:
 
 > **Who owned the arrows?**
 
-### The 2018 dechallenge
+### The post-discharge 2017/2018 dechallenge
 
-The department comparator strengthens the reopening question.
+This evidence belongs after discharge and must never be allowed to alter the Protest information state.
 
-A service capable of sophisticated movement-disorder reasoning later recorded rapid return of the focal outside-left-foot phenomenon during manipulation of neurological treatment.
+By September 2017 there was substantial neurological treatment response. During the October 2017 procyclidine interruption, contemporaneous material recorded tension, restless feet and deterioration of walking. In April 2018 the treating neurologist recorded that the first rapidly changing feature during that earlier withdrawal was return of the outside-left-foot phenomenon.
 
 That still does not prove mechanism.
 
-But the expert question becomes particularly concrete:
+It creates a separate reopening question:
 
-> **In this neurological phenotype, and within a service possessing movement-disorders expertise, did that treatment-state crossing require the founding neurological–foot relationship to be reopened?**
+> **Did the post-discharge treatment-state crossing require the founding neurological–foot relationship to be reopened?**
+
+The Protest and the dechallenge therefore perform different evidential jobs:
+
+> **Protest = challenge to completeness before closure.**
+>
+> **Dechallenge = later biological challenge to the durability of the exported boundary.**
 
 ### The Healy second opinion
 
-Healy's 2017 opinion that the patient probably had PARK II becomes part of the same knowledge environment rather than a detached external event.
+Healy's September 2017 opinion that the patient probably had PARK II is a **post-discharge** event. It must not be used to populate the pre-Protest bedside information state.
 
-The later record preserved PARK2/PRKN as what Monaghan and Healy suspected to be the cause.
+It does, however, become part of the subsequent diagnostic environment. The later record preserved PARK2/PRKN as what Monaghan and Healy suspected to be the cause.
 
 This makes the later categorical iPD position a transition requiring reconstruction:
 
@@ -195,7 +200,7 @@ Later evidence repeatedly connects components that the founding architecture had
 
 > **motor state ↔ gait ↔ loading ↔ structural lesion ↔ pain ↔ treatment state.**
 
-The department rule prevents those observations being read merely as isolated later facts. They must also be compared with the original capability to understand and integrate those relationships.
+The department rule prevents those observations being read merely as isolated later facts. It does not permit them to be projected backwards as facts known in July 2017.
 
 ### 2023 current-state reopening
 
@@ -203,13 +208,11 @@ The later service genuinely reconsidered dystonia, OFF state, pain modulation, g
 
 That should be credited.
 
-But it also demonstrates that these concepts were clinically usable within Neurology. The historical question remains whether current-state reconsideration ever became reconstruction of the original integrated object.
+The historical question remains whether current-state reconsideration ever became reconstruction of the original integrated object.
 
 ### 25 March 2025 complaint response
 
-This response becomes a crucial retrospective institutional vantage point.
-
-It states:
+The response states:
 
 > **“Whatever the underlying cause for the peripheral neuropathic pain symptomatologies that [the patient] has, it is our belief and understanding that [the patient] has idiopathic Parkinson's disease.”**
 
@@ -219,12 +222,7 @@ and:
 
 It also invokes Professor Healy as an early validating Parkinson's expert while not carrying forward the specific 2017 content of his opinion: **probably PARK II**.
 
-Thus the response must be read simultaneously as:
-
-- a clinical explanation;
-- a claim of longstanding knowledge;
-- a use of longitudinal documentary continuity;
-- and an example of diagnostic continuity being preserved at a broader level of abstraction.
+Thus the response must be read simultaneously as a clinical explanation, a claim of longstanding knowledge, a use of longitudinal documentary continuity, and an example of diagnostic continuity being preserved at a broader level of abstraction.
 
 The correct question is:
 
@@ -242,15 +240,11 @@ The later audit question is:
 
 > **Did review independently reconstruct the underlying clinical work, or did the authority and longitudinal coherence of the institutional product contribute to its own validation?**
 
-This connects directly to documentary resilience and recursive validation.
-
 ### 2026 genetic clarification
 
 Later genetic evidence does not retrospectively prove what reasonable practice required in 2017.
 
-Its proper role is different.
-
-It can illuminate the historical specificity of the PRKN/PARK2 hypothesis and test later claims of stable diagnostic continuity, but breach must still be judged using the information and standards available at each earlier threshold.
+Its proper role is to illuminate the historical specificity of the PRKN/PARK2 hypothesis and test later claims of stable diagnostic continuity. Breach must still be judged using the information and standards available at each earlier threshold.
 
 ---
 
@@ -258,23 +252,13 @@ It can illuminate the historical specificity of the PRKN/PARK2 hypothesis and te
 
 The case remains complex.
 
-But **complexity** can no longer function as a free-standing explanation.
+But **complexity** cannot function as a free-standing explanation.
 
-The proper comparison is internal:
+The proper comparison is internal and temporal:
 
-> **What was the service sophisticated enough to infer, and what was it sophisticated enough to test?**
+> **What was the service sophisticated enough eventually to infer, what had it actually tested while the patient was available, and when did the additional sophistication enter?**
 
-If the service could:
-
-- recognise an unusually young Parkinsonian syndrome;
-- identify dystonic-looking movement;
-- reason toward recessive Parkinsonism;
-- entertain PRKN/PARK2;
-- consult colleagues;
-- provide departmental genetics literature;
-- and construct a long-term treatment/genetic strategy,
-
-then the unresolved foot relationship cannot simply be dismissed as something lying beyond the available conceptual horizon.
+If the final service product could recognise an unusually young Parkinsonian syndrome, invoke dystonic movement, reason toward recessive Parkinsonism, entertain PRKN/PARK2, consult colleagues, provide departmental genetics literature and construct a long-term treatment/genetic strategy, then the unresolved foot relationship cannot simply be dismissed as lying beyond the department's conceptual horizon.
 
 The expert must instead ask whether the remaining uncertainty was:
 
@@ -288,15 +272,15 @@ or
 
 ## 6. What this does to the left-foot formulation
 
-The human centre becomes more exact.
+The human centre remains:
 
 > **My left foot was caught outside a very strong frame.**
 
-The department context tells us why the frame was strong.
+But the chronology now matters to what that sentence means.
 
-It was not merely the confidence of one clinician. It was supported by a university neurological environment, colleague input, complex-case reasoning, neurogenetic sophistication, specialist literature and later expert consultation.
+It is a **retrospective description of the documentary and longitudinal result**, not a claim that the patient perceived a fully formed sophisticated frame at the moment of Protest.
 
-That institutional strength is precisely why the boundary matters.
+The department context tells us why the eventual frame was strong: a university neurological environment, colleague input, complex-case reasoning, neurogenetic sophistication, specialist literature and later expert consultation.
 
 The question is not:
 
@@ -304,7 +288,7 @@ The question is not:
 
 It is:
 
-> **How did a service capable of this level of neurological construction leave the painful foot attached to a dystonic-looking lower limb outside the construction before the relationship had been adequately resolved?**
+> **How did a service capable of this level of neurological construction produce a final frame in which the painful foot attached to a dystonic-looking lower limb remained outside the integrated neurological account without the surviving record demonstrating equivalent bedside interrogation?**
 
 Subject to expert evidence, that is the clinically striking disparity.
 
@@ -312,17 +296,15 @@ Subject to expert evidence, that is the clinically striking disparity.
 
 ## 7. What this does to institutional parallax
 
-The same founding moment can now be viewed through an even richer set of institutional positions:
+The sequence should now be represented temporally rather than as one compressed founding instant:
 
-> **GP integrated referral → bedside neurological object → departmental/academic synthesis → professional discharge → Podiatry allocation → inherited longitudinal formulation → complaint rebuttal → institutional review → governance reliance.**
+> **GP integrated referral → inpatient bedside neurological object → Protest, if proved → professional discharge / patient departure → departmental/academic synthesis becomes final portable state → Podiatry allocation → inherited longitudinal formulation → complaint rebuttal → institutional review → governance reliance.**
 
-The department is therefore not merely one vantage point among many.
-
-It is the **transformative middle** between the raw referred problem and the authoritative record inherited downstream.
+The exact placement of Complex Case Meeting, particular consultations and individual synthesis elements inside the discharge interval remains an evidential target.
 
 Thus:
 
-> **The body arrived as an integrated problem. The department transformed it into an authoritative set of categories. Later institutions inherited those categories.**
+> **The body arrived as an integrated problem. The department ultimately transformed it into an authoritative set of categories. Later institutions inherited those categories.**
 
 The forensic question is whether the transformation preserved the clinically important relationships among them.
 
@@ -340,7 +322,7 @@ That creates the danger—without proving that it occurred—that:
 
 The repository must therefore keep asking:
 
-> **What clinical work earned each proposition?**
+> **What clinical work earned each proposition, and when was that work done?**
 
 and later:
 
@@ -354,11 +336,14 @@ This triangulation strengthens the questions. It does not answer them automatica
 
 The following remain matters for evidence and expert opinion:
 
-- who attended the July 2017 Complex Case Meeting;
-- who generated the detailed PRKN/PARK2 reasoning;
-- what exactly Professor Counihan was asked and advised in 2017;
+- when the Complex Case Meeting occurred relative to the Protest and patient departure;
+- who attended it;
+- when and by whom the detailed PRKN/PARK2 reasoning was generated;
+- what exactly Professor Counihan was asked and advised in 2017, and when;
+- when the departmental genetics article was selected for the packet;
 - whether a movement-disorders specialist examined the patient during the admission;
 - whether the feet were dynamically examined in stance/gait with the specific neurological relationship in mind;
+- whether any post-bedside specialist insight returned to the patient before departure;
 - whether Podiatry findings were returned to and integrated by Neurology;
 - what evidence caused the later shift from suspected PARK II/PRKN to categorical iPD;
 - whether the 2018 dechallenge crossed a reasonable-practice reopening threshold;
@@ -374,11 +359,15 @@ Every future analysis should ask:
 
 > **What did the raw patient-specific record show at this point?**
 
-> **What did the department demonstrably know or have the capability to understand at this point?**
+> **What did the patient know at this point?**
 
-> **Did that departmental knowledge actually enter this patient's case?**
+> **What did the treating clinician demonstrably know at this point?**
 
-> **If it entered the synthesis, did it return to the patient as examination or testing?**
+> **What did the department have the capability to understand at this point?**
+
+> **When did departmental knowledge actually enter this patient's case?**
+
+> **If it entered the synthesis, did it return to the patient as examination or testing before departure?**
 
 > **What clinical work earned the proposition eventually recorded?**
 
@@ -402,15 +391,15 @@ Every future analysis should ask:
 
 ## 11. Controlling formulation
 
-> **This case must be reconstructed simultaneously from the patient-specific record, the contemporaneous capability and knowledge environment of the Galway Neurology department, and the later institutional uses of the record that department produced. The department context does not prove breach, but it supplies an internal capability comparator: the same service that constructed a sophisticated very-young-onset Parkinsonian/PRKN phenotype, invoked dystonic movement, consulted specialist expertise and enclosed its own Parkinson-genetics literature left the painful neurological–foot relationship “Not clear” and operationally separated. Later treatment-state, mechanical and movement-state evidence repeatedly crossed that boundary, while the longitudinal record and later rebuttal preserved a broad claim of Parkinsonian continuity. The expert question is therefore not simply what was knowable in 2017. It is what this department demonstrably knew, what of that knowledge entered this patient's case, what clinical work was performed with it, what remained outside the frame, and whether later evidence or later institutional review ever adequately reconstructed the relationship that had been left unresolved.**
+> **This case must be reconstructed simultaneously from the patient-specific record, the contemporaneous capability and knowledge environment of the Galway Neurology department, and the later institutional uses of the record that department produced, while keeping those information states temporally separate. The department context does not prove breach. The final discharge product does establish an internal capability comparator: it displays sophisticated very-young-onset Parkinsonian/PRKN reasoning, invokes dystonic movement and incorporates departmental genetics knowledge, while the surviving bedside record does not clearly demonstrate equivalent interrogation of the painful neurological–foot relationship. The exact timing by which that sophistication entered the case remains to be reconstructed. The Protest, if proved, challenged the clinical work the patient had actually experienced before discharge; later treatment-state evidence independently challenged the durability of the exported boundary. The expert question is therefore what was known at each threshold, what clinical work was performed with it, what remained outside the frame, and whether later evidence or later institutional review ever adequately reconstructed the relationship that had been left unresolved.**
 
 Shortest forms:
 
-> **Record + department + later reliance.**
+> **Record + department + later reliance — never backwards in time.**
 
-> **What did this department know, what entered the case, and what remained outside the frame?**
+> **What was known when, what entered the case when, and what remained outside the frame?**
 
-> **The body arrived as an integrated problem. The department transformed it into categories. The question is whether the relationships survived the transformation.**
+> **The body arrived as an integrated problem. The department ultimately transformed it into categories. The question is whether the relationships survived the transformation.**
 
 ---
 
@@ -420,10 +409,13 @@ This methodology does **not** permit:
 
 - imputing one academic's knowledge automatically to another clinician;
 - assuming attendance at meetings or bedside examination without evidence;
+- assuming the final synthesis existed in completed form before the Protest;
+- assuming departmental literature in the final packet had already influenced bedside care;
+- projecting September/October 2017 treatment response backwards into July;
 - treating publication as proof of breach;
 - using later genetic confirmation to rewrite the 2017 standard of care;
 - treating structural foot pathology as unreal;
 - treating dopaminergic response as proof of one mechanism;
 - or inferring conspiracy, cover-up or deliberate suppression from institutional continuity.
 
-Its purpose is narrower and stronger: **to ensure that the record is always interpreted in the real clinical and institutional environment that produced it, while preserving the distinction between capability, actual patient-specific work, expert standard, and later institutional reliance.**
+Its purpose is narrower and stronger: **to ensure that the record is interpreted in the real clinical and institutional environment that produced it while preserving chronology, and preserving the distinction between capability, actual patient-specific work, expert standard and later institutional reliance.**
