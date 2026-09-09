@@ -12,6 +12,14 @@ FORENSIC = ROOT / "SRC_COMPLETE_RECORD_FORENSIC.md"
 DATA = ROOT / "data"
 DOCS = ROOT / "docs"
 
+# build_site.py flattens docs/*.html into _site/ and copies these root files
+# beside them. Link validation therefore needs to model the published site
+# layout rather than only the repository source-tree layout.
+PUBLISHED_ROOT_FILES = {
+    "index.html": ROOT / "index.html",
+    "professional-fork.html": ROOT / "professional-fork.html",
+}
+
 errors: list[str] = []
 
 
@@ -120,9 +128,19 @@ for html in DOCS.glob("*.html"):
         target = link.split("#", 1)[0].split("?", 1)[0]
         if not target:
             continue
+
+        # docs/*.html files are copied directly to _site/, so their relative
+        # links are resolved from the published site root. First validate
+        # source-local docs targets, then explicitly mapped published-root
+        # files, then data/assets that build_site.py also places at site root.
         candidate = (html.parent / target).resolve()
         if target.startswith("data/"):
             candidate = (DATA / target.removeprefix("data/")).resolve()
+        elif target.startswith("assets/"):
+            candidate = (ROOT / target).resolve()
+        elif target in PUBLISHED_ROOT_FILES:
+            candidate = PUBLISHED_ROOT_FILES[target].resolve()
+
         if not candidate.exists():
             fail(f"{html.relative_to(ROOT)}: unresolved internal link {link}")
 
