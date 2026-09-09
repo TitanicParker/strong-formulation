@@ -64,6 +64,34 @@ The question is therefore not only what the synthesis knew, but **what clinical 
 
 The claimant does not allege that uncertainty itself was negligent or that Podiatry was inappropriate. The expert question is whether the neurological–foot relationship had been adequately investigated, or placed within a process capable of resolving it, before that operational separation occurred.
 
+## Institutional parallax of the closure moment
+
+A new systems layer now treats the founding closure moment from several institutional vantage points.
+
+Read [`INSTITUTIONAL_PARALLAX_OF_THE_CLOSURE_MOMENT.md`](INSTITUTIONAL_PARALLAX_OF_THE_CLOSURE_MOMENT.md).
+
+The same unresolved clinical relationship can acquire different meanings as it passes through different functions:
+
+> **clinical incompleteness at the bedside → professional completion at discharge → documentary finality in the record → pathway allocation downstream → inherited assumption in later care → evidential object in review → governance object in later institutional reliance.**
+
+The repository calls this **institutional parallax**:
+
+> **the change in apparent meaning of one clinical moment when viewed through different institutional functions, even though the underlying unresolved phenotype has not itself changed.**
+
+This does not imply conspiracy or coordinated intent. Different institutional actors may behave locally within their proper functions while preserving or translating the consequences of an earlier partition.
+
+The central systems question is:
+
+> **How did one unresolved neurological–foot relationship change meaning as it passed from bedside care to discharge, Podiatry, longitudinal Neurology, complaint review and governance, and at which of those transitions—if any—was the founding relationship independently reconstructed rather than inherited?**
+
+The shortest form is:
+
+> **One unresolved clinical moment became several forms of institutional completion.**
+
+The human centre is:
+
+> **The body remained unresolved while the institution progressively resolved the record.**
+
 ## The Protest
 
 The patient's account is that, before discharge, he said in substance:
@@ -255,6 +283,8 @@ Its particular value is in analysing:
 - [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) — controlling evidential discipline.
 - [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md) — breach-by-breach structure.
 - [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) — longitudinal synthesis layer.
+- [`COMPLEXITY_AND_SYNTHESIS_EXAMINATION_DIFFERENTIAL.md`](COMPLEXITY_AND_SYNTHESIS_EXAMINATION_DIFFERENTIAL.md) — internal comparator between final phenotype sophistication and bedside testing of the partitioned feature.
+- [`INSTITUTIONAL_PARALLAX_OF_THE_CLOSURE_MOMENT.md`](INSTITUTIONAL_PARALLAX_OF_THE_CLOSURE_MOMENT.md) — how one unresolved clinical moment acquires different meanings across institutional functions.
 - [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md) — documentary resilience, recursive validation and governance reliance.
 - [`DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md`](DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md) — source-level investigation report.
 - [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — analytical reservoir.
@@ -279,7 +309,7 @@ The repository does not presently claim that:
 
 The controlling posture is:
 
-> **Clinical boundary identified. Repeated crossings documented. Documentary resilience and reliance documented. Revision, breach and causation remain questions for independent scrutiny.**
+> **Clinical boundary identified. Repeated crossings documented. Institutional transformations, documentary resilience and later reliance documented. Revision, breach and causation remain questions for independent scrutiny.**
 
 ## Separate evidential-access track
 
