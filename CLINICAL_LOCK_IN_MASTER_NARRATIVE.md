@@ -9,23 +9,25 @@ This sits **beside** *The Professional Fork*. It does not replace or invalidate 
 
 The shorter expert maps remain controlling for evidential discipline: [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md), [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md), [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md) and [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md).
 
+The chronology rule in [`TEMPORAL_FIREWALL_AND_DRIFT_AUDIT_2026_09_09.md`](TEMPORAL_FIREWALL_AND_DRIFT_AUDIT_2026_09_09.md) is mandatory: **the final synthesis must not be projected backwards into the Protest, and post-discharge treatment evidence must not be projected backwards into the admission.**
+
 ---
 
 This case can no longer sensibly be reduced to a disagreement about whether one man's foot pain was **“Parkinsonian.”**
 
 That formulation is too small for the record.
 
-The real issue is whether a sophisticated neurological service created an insufficiently grounded boundary inside a disease process it was already treating, embedded that boundary in an authoritative founding synthesis, and then failed adequately to dismantle it when its own observations, its own treatments and the patient's subsequent course repeatedly crossed that boundary.
+The real issue is whether an early neurological–foot boundary became embedded in an authoritative founding synthesis and later resisted adequate revision as new clinical evidence accumulated.
 
-In July 2017, this was not an ordinary presentation. A 39-year-old man arrived after an extraordinarily long prodrome in a visibly severe neurological state. His gait was described as **“strikingly abnormal.”** His lower limb gave an appearance **“somewhat suggestive of a dystonic posture – NOT FOOT DROP.”** He was grossly rigid and bradykinetic. His feet were abnormal.
+The July admission itself should not be retrospectively dramatised merely because of what the later record became. From 3 July until the pre-discharge Protest, the safer reconstruction is an ordinary inpatient admission involving an unusual and very-young neurological presentation. A 39-year-old man was being investigated for severe Parkinsonism. His gait was described as **“strikingly abnormal.”** His lower limb gave an appearance **“somewhat suggestive of a dystonic posture – NOT FOOT DROP.”** He was grossly rigid and bradykinetic. His feet were abnormal.
 
-The service did not overlook the neurological significance of the gait. It expressly told Nuclear Medicine that his walk was **“almost dystonically unusual”** immediately before stating that it suspected an autosomal-recessive Parkinsonism.
+The service recognised neurological significance in the gait. The DAT request described the walk as **“almost dystonically unusual”** and suspected an autosomal-recessive Parkinsonian disorder.
 
-Nor was recessive Parkinsonism a passing thought. The eventual synthesis carefully developed the clinical indicators favouring PRKN/PARK2: very young onset, akinetic rigidity, absence of dominant family history, marked symmetry and exceptional cognition.
+The eventual discharge synthesis then developed a much more elaborate neurological and neurogenetic account, including serious PRKN/PARK2 reasoning. The exact timing, authorship and sequence by which each element of that sophisticated final synthesis entered the case must be reconstructed from source material; the repository does **not** assume that the completed PRKN-rich formulation existed before the Protest or before the patient left.
 
-But something important happens inside that synthesis.
+What the surviving record does permit is an internal comparison.
 
-The document is theoretically more sophisticated than the surviving bedside record clearly demonstrates was actually tested phenotypically. It entertains PRKN/PARK2 at a relatively high level of specificity, yet the contemporaneous record does not clearly show a correspondingly deliberate PRKN-oriented examination of dystonia, lower-limb posture, toe posture, painful structural feet, loading and their relationship to gait.
+The final document is theoretically more sophisticated than the documented bedside examination clearly demonstrates was actually tested phenotypically. It entertains PRKN/PARK2 at a relatively high level of specificity, yet the contemporaneous record does not clearly show a correspondingly deliberate movement-disorders examination of dystonia, lower-limb posture, toe posture, painful structural feet, loading and their relationship to gait.
 
 That distinction matters:
 
@@ -35,19 +37,19 @@ Or, more compactly:
 
 > **The synthesis may have outrun the examination.**
 
-That is not itself proof that the underlying examination was inadequate. It creates a direct expert and documentary question: **what clinical work actually earned the sophistication of the final formulation?**
+That is not itself proof that the underlying examination was inadequate. It creates a direct expert and documentary question: **what clinical work actually earned the sophistication of the final formulation, and when did that formulation acquire its final sophistication?**
 
 The dystonic lower-limb feature does not visibly become part of a neurological reconstruction of the painful foot problem.
 
-And the painful feet go elsewhere.
+And the painful feet ultimately go elsewhere in the final synthesis.
 
 They may be **“completely separate.”** They may represent peripheral neuropathy. The relationship is **“Not clear.”**
 
-That is the founding boundary.
+That becomes the founding documentary boundary.
 
 The problem is not that medicine tolerated uncertainty. Medicine must tolerate uncertainty.
 
-The problem is that the document was **epistemically uncertain but operationally committed**.
+The problem to be tested is that the final document was **epistemically uncertain but operationally committed**.
 
 The feet were treated as sufficiently separate from the neurological disorder to be routed toward Podiatry, without a clearly documented neurological question asking whether dystonia, rigidity, abnormal gait, posture or pathological loading was producing or aggravating the painful structural foot problem, and without an identified return mechanism by which Podiatry findings would resolve Neurology's **“Not clear.”**
 
@@ -61,45 +63,45 @@ The patient's account is that, immediately before discharge, he said in substanc
 
 That account remains subject to ordinary factual proof and corroboration.
 
-If proved, it is profoundly important. Not because the patient had solved the mechanism. He had not. He was identifying the missing clinical work.
+If proved, it is profoundly important. Not because the patient had solved the mechanism, and not because he was reacting to the later discharge synthesis. He had not seen that synthesis. He was reacting to the clinical work he had actually experienced during the admission and to the simple fact, from his perspective, that the longstanding disabling foot problem had not received meaningful neurological / movement-disorders attention.
 
-After approximately eight days in a hospital full of neurological expertise, the patient pointed to the part of his own phenotype that the specialist synthesis had failed to integrate.
+Thus the contemporaneous Protest must be understood at its own information state:
 
-If reasonable neurological practice required that challenge to trigger reconsideration, the allegation becomes a decision-after-notice breach: the inadequacy had been expressly raised while the decision was still live, yet the pathway nevertheless closed.
+> **after an ordinary inpatient admission, the patient says the feet have not been dealt with while the decision to discharge is still live.**
 
-The final communication then matters because it presents the admission as unusually extensive. It records that the prolonged stay allowed the team to **“get a lot done,”** to **“explore a lot of questions,”** and to obtain a **“firmer footing going forward,”** while also carrying Complex Case Meeting, senior neurological and neurogenetic reasoning.
+The Protest changes nothing about the character of the preceding admission. It potentially changes everything about the adequacy and meaning of the decision to close without returning to the unresolved feet.
 
-Without the Protest, the receiving GP sees:
+If reasonable neurological practice required that challenge to trigger reconsideration, the allegation becomes a decision-after-notice breach: the asserted incompleteness had been raised while the patient remained available, yet closure nevertheless proceeded.
 
-> **extensive specialist assessment → collective neurological consideration → “Not clear” → Podiatry.**
+The final communication becomes a separate, later evidential object. It presents the admission as unusually extensive, saying the prolonged stay allowed the team to **“get a lot done,”** to **“explore a lot of questions,”** and to obtain a **“firmer footing going forward,”** while carrying Complex Case Meeting, senior neurological and neurogenetic reasoning.
 
-If the Protest occurred, the fuller decision history is:
+The repository must not assume that all of that sophistication was already present at the Protest. The safe comparison is temporal:
 
-> **extensive specialist assessment → patient says the central foot problem has not been dealt with → closure maintained → “Not clear” → Podiatry.**
+> **bedside work experienced by the patient → Protest that the feet have not been dealt with → patient departure / closure → sophisticated final synthesis becomes the portable specialist account.**
 
-Those are materially different information states.
+The documentary allegation is therefore not that the patient objected to the synthesis. It is that, if the Protest occurred, the later portable account did not preserve the asserted fact that the patient had challenged the adequacy of the foot inquiry before closure.
 
-The documentary allegation is therefore not merely that a patient complaint was omitted. It is that, if the Protest occurred, omission of the challenge could allow **challenged incompleteness to travel downstream as apparently considered specialist uncertainty**.
+That could allow **challenged bedside incompleteness to travel downstream as apparently considered specialist uncertainty**.
 
 No conclusion of dishonesty, concealment or conscious self-protection follows automatically from that documentary function.
 
-## Treatment reassures the patient and challenges the formulation
+## Post-discharge treatment reassures the patient and challenges the formulation
 
-Then something happened which could hardly have been more reassuring to the patient.
+The next evidential stage is **post-discharge**. It must not be imported into the July admission.
 
-Neurological treatment worked.
+In September 2017, neurological treatment with procyclidine/rasagiline was associated with marked improvement in motor state and improvement in the foot phenomenon about which the patient had complained.
 
-He experienced marked motor improvement together with improvement in the foot phenomenon about which he had complained. From his perspective, the natural conclusion was that the neurological treatment was helping the problem that had brought him into care.
+From his perspective, that success was reassuring. The natural conclusion was that neurological treatment was helping the problem that had brought him into care.
 
-That success reduced, rather than increased, his reason to question the specialist formulation.
+That success reduced, rather than increased, his reason to question the specialist pathway.
 
-Professionally, the same event potentially carried the opposite significance.
+Professionally, the same post-discharge event potentially carried a different significance.
 
-A symptom placed outside the neurological formulation appeared to vary with neurological treatment state.
+A symptom that the final synthesis had allowed to sit outside the neurological formulation appeared to vary with neurological treatment state.
 
 Thus:
 
-> **The treatment reassured the patient while giving Neurology a reason to reconsider.**
+> **The later treatment reassured the patient while giving Neurology a reason to reconsider.**
 
 Or, more sharply but still conditionally:
 
@@ -107,11 +109,11 @@ Or, more sharply but still conditionally:
 
 Its mechanism was not for the patient to diagnose. Whether the change reflected dystonia, altered tone, gait, loading, pain processing or a mixed mechanism was a professional neurological question.
 
-## The dechallenge
+## The post-discharge dechallenge
 
-When procyclidine was withdrawn, the contemporaneous patient account recorded increasing tension, restless feet and deterioration of his walk.
+During the October 2017 procyclidine interruption, the contemporaneous patient account recorded increasing tension, restless feet and deterioration of his walk.
 
-More importantly, the treating neurologist later recorded that during the withdrawal the **first thing** changing, and changing **rapidly**, was the return on the foot of the **“outside left corn”** phenomenon. The patient became more **“shifty”** and **“unrelaxed.”** The same clinical period records foot cramps, altered gait, marked relief from neurological tension when treated and benefit from toe supports.
+More importantly, in April 2018 the treating neurologist recorded retrospectively that during the earlier withdrawal the **first thing** changing, and changing **rapidly**, was the return on the foot of the **“outside left corn”** phenomenon. The patient became more **“shifty”** and **“unrelaxed.”** The same clinical period records foot cramps, altered gait, marked relief from neurological tension when treated and benefit from toe supports.
 
 The claimant does not need that observation to prove that a keratotic corn physically disappeared under procyclidine and regenerated when the drug was stopped.
 
@@ -207,7 +209,7 @@ That explanation may be defensible in isolation.
 
 But it must be judged longitudinally against the already-existing sequence:
 
-> **dystonic-looking lower limb → recessive Parkinsonism / PRKN reasoning → procyclidine dechallenge involving the focal foot → recurrent fifth-MTPJ loading pathology and clawing → GP feet/tone/gait integration → OFF-related pain/shuffling → activity-dependent toe curling → Sinemet-responsive foot pain.**
+> **dystonic-looking lower limb → recessive Parkinsonism / PRKN reasoning in the final synthesis → post-discharge procyclidine dechallenge involving the focal foot → recurrent fifth-MTPJ loading pathology and clawing → GP feet/tone/gait integration → OFF-related pain/shuffling → activity-dependent toe curling → Sinemet-responsive foot pain.**
 
 The question is why these observations repeatedly acquired enough clinical significance to influence treatment, describe phenotype or explain symptoms without clearly producing an equivalent global revision of the original neurological–foot relationship.
 
@@ -313,7 +315,7 @@ The ultimate question is therefore not:
 
 It is:
 
-> **How did a service sophisticated enough to recognise dystonia, recessive Parkinsonism and PRKN fail, if the expert evidence so finds, to take adequate ownership of the disabling feet through which that same abnormal movement was being lived?**
+> **How did a service capable of sophisticated neurological and later PRKN-oriented construction fail, if the expert evidence so finds, to take adequate ownership of the disabling feet through which that abnormal movement was being lived?**
 
 That is the clinical question.
 
