@@ -308,6 +308,18 @@ Thus:
 
 > **“There was later reconsideration” does not by itself answer “Was the founding relationship reconstructed?”**
 
+Read [`INTEGRATIVE_OWNERSHIP_AND_OBJECT_PRESERVATION.md`](INTEGRATIVE_OWNERSHIP_AND_OBJECT_PRESERVATION.md) for the deeper object-preservation question:
+
+> **Can every later category be locally correct while the original integrated clinical object nevertheless disappears?**
+
+That layer distinguishes ownership of the individual components from ownership of the relationships between them, and asks the practical systems question:
+
+> **Who owned the arrows?**
+
+It also adds a second audit test alongside the missing-transition test used below:
+
+> **Where is the reconstruction?**
+
 ---
 
 ## 13. Diagnostic continuity — continuity of what?
@@ -449,6 +461,8 @@ A more precise formulation is:
 
 > **The record can remain globally coherent while material propositions underneath it change.**
 
+The object-preservation layer adds a further mechanism: local categories can remain coherent while the relationship among them loses a clear owner. See [`INTEGRATIVE_OWNERSHIP_AND_OBJECT_PRESERVATION.md`](INTEGRATIVE_OWNERSHIP_AND_OBJECT_PRESERVATION.md).
+
 ---
 
 ## 18. What this layer is designed to achieve
@@ -490,6 +504,10 @@ The strongest methodological formulation is:
 > **What did it actually change?**
 
 > **Where is the documented transition from one diagnostic or clinical state to the next?**
+
+> **Where is the reconstruction of the original integrated clinical object?**
+
+> **Who owned the arrows between motor state, gait, loading, structural pathology, pain and treatment state?**
 
 > **Was later reconsideration current-state management, historical reconstruction, or both?**
 
