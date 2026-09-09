@@ -261,6 +261,46 @@ The expert/audit question beneath that proposition remains:
 
 ---
 
+## 13. Why partition + continuity + resilience + reliance matters
+
+The present formulation is stronger than a claim about one imperfect discharge letter because the alleged problem is now longitudinal and structural:
+
+> **partition → documentary resilience → longitudinal continuity → later reliance.**
+
+If the neurological–foot phenotype was inadequately partitioned in 2017, downstream continuity cannot automatically validate the founding partition. Later clinicians and reviewers were not necessarily encountering the patient from first principles; they were receiving an inherited specialist information state shaped by the founding synthesis.
+
+Accordingly:
+
+> **Consistency downstream cannot by itself establish that the founding classification upstream was sound, because the downstream record may partly be a product of that classification.**
+
+The importance of resilience is that later evidence did not simply fail to appear. Evidence repeatedly crossed the original neurological–foot boundary and was often clinically used. The problem to be tested is whether those observations were allowed to revise the organising model itself.
+
+That is the clinical meaning of:
+
+> **local updating, global non-revision.**
+
+Reliance then changes the forensic significance again. Once the inherited record is used to support prospective documentary sufficiency, a later conclusion of **“no deficit in care,”** and ultimately a January 2026 position that there is no governance risk in **“continued reliance on the completed processes,”** the founding synthesis has become more than a discharge communication. It has become part of the institution's evidential infrastructure.
+
+The central forensic distinction is therefore:
+
+> **Was the continuing authority of the record earned by repeated independent re-examination of the founding proposition, or was the founding proposition repeatedly strengthened because later processes inherited and relied upon the record in which it had already been embedded?**
+
+The PRKN/PARK2 asymmetry makes that question especially important. If the discharge synthesis displayed a sophisticated PRKN/PARK2 hypothesis without the surviving record demonstrating an equivalently sophisticated PRKN-oriented phenotypic examination, the later chain can be stated conditionally as:
+
+> **A synthesis may have outrun the examination; the synthesis then structured the longitudinal record; the continuity of that record later helped validate the synthesis; and governance ultimately endorsed continued reliance on the completed processes.**
+
+This is the present strong formulation:
+
+> **The case concerns not merely whether the neurological–foot phenotype was prematurely partitioned in 2017, but whether that partition acquired increasing authority because it was embedded in a sophisticated founding synthesis, inherited through longitudinal care, repeatedly accommodated rather than reconstructed when later evidence crossed the boundary, and ultimately relied upon by complaint and governance processes as evidence of the adequacy of the clinical pathway itself.**
+
+Shortest form:
+
+> **The alleged error did not merely persist in the record. The record may have made the error resilient.**
+
+That proposition remains conditional on expert evidence. If the founding partition was clinically reasonable and remained reasonable at later information thresholds, continuity and reliance are not themselves wrongful. But if the partition was inadequately grounded, or if later evidence should reasonably have broken it, then continuity, resilience and reliance explain how the original formulation could acquire institutional durability beyond the evidential work that initially supported it.
+
+---
+
 ## Evidential discipline
 
 This file does **not** establish that:
