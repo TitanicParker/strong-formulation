@@ -4,12 +4,13 @@ A structured evidential reconstruction of a longitudinal neurological record.
 
 ## Start here
 
-The repository now has a **promoted pair**:
+The repository now has a **three-layer promoted centre**:
 
 1. [`CLINICAL_LOCK_IN_MASTER_NARRATIVE.md`](CLINICAL_LOCK_IN_MASTER_NARRATIVE.md) — the **primary clinical narrative**.
-2. [`EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md`](EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md) — the **expert-facing companion**, converting that narrative into discrete questions on standard of care, breach and causation.
+2. [`JOIN_THE_DOTS_LONGITUDINAL_RECONSTRUCTION.md`](JOIN_THE_DOTS_LONGITUDINAL_RECONSTRUCTION.md) — the **information-state reconstruction layer**, showing what was known, what remained unresolved, what changed, and which clinically material transitions remain undocumented or require explanation.
+3. [`EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md`](EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md) — the **expert-facing companion**, converting the narrative and reconstruction into discrete questions on standard of care, breach and causation.
 
-Public reading versions:
+Public reading versions presently include:
 
 - [`docs/clinical-lock-in.html`](docs/clinical-lock-in.html)
 - [`docs/expert-instruction.html`](docs/expert-instruction.html)
@@ -33,6 +34,42 @@ The safe systems formulation is:
 The repository calls this hypothesis **clinical lock-in**.
 
 That term does **not** itself prove negligence, confirmation bias, deliberate suppression or motive. It identifies a structure for independent expert testing.
+
+## Join the dots: reconstruct before concluding
+
+The repository now contains a formal reconstruction layer: [`JOIN_THE_DOTS_LONGITUDINAL_RECONSTRUCTION.md`](JOIN_THE_DOTS_LONGITUDINAL_RECONSTRUCTION.md).
+
+Its purpose is to stop asking the reader to perform the longitudinal synthesis unaided.
+
+At each clinically material threshold it asks only:
+
+> **What was now known?**
+
+> **What remained unresolved?**
+
+> **What happened to the unresolved proposition next?**
+
+No individual observation is asked to prove more than it proves. In particular, treatment-state observations are not treated as proof that dystonia caused a structural foot lesion. The narrower question is whether new information became sufficient to require reconsideration of a relationship already left unresolved.
+
+The reconstruction also introduces a **missing-transition test**. Where a competing explanation requires a clinically material change, the repository asks where that change is documented. Examples include:
+
+> **PRKN/PARK2 seriously suspected → [documented exclusion or revised reasoning?] → categorical iPD**
+
+> **unresolved neurological–foot relationship → [integrative handoff/reassessment?] → continuing separate management streams**
+
+> **2018 treatment-state crossing → [formal reopening?] → later continuation of inherited architecture**
+
+A missing transition does not prove wrongdoing. It creates a precise evidential question: **what event, reasoning or document fills the bracket?**
+
+The reconstruction layer therefore compares explanatory models rather than assuming one. The controlling test is:
+
+> **Which model explains the documented sequence with fewer unsupported or undocumented transitions?**
+
+The strongest methodological formulation is:
+
+> **Do not ask any one document to prove the case. Ask what happens when the documents are allowed to speak to one another in sequence.**
+
+This makes **clinical lock-in** a possible conclusion from the reconstruction rather than a premise the reader is required to accept.
 
 ## The founding boundary
 
@@ -66,7 +103,7 @@ The claimant does not allege that uncertainty itself was negligent or that Podia
 
 ## Institutional parallax of the closure moment
 
-A new systems layer now treats the founding closure moment from several institutional vantage points.
+A systems layer treats the founding closure moment from several institutional vantage points.
 
 Read [`INSTITUTIONAL_PARALLAX_OF_THE_CLOSURE_MOMENT.md`](INSTITUTIONAL_PARALLAX_OF_THE_CLOSURE_MOMENT.md).
 
@@ -156,11 +193,39 @@ Or more compactly:
 
 > **local updating, global non-revision.**
 
-Read [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) for the full longitudinal analysis.
+Read [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) for the full longitudinal analysis, and [`JOIN_THE_DOTS_LONGITUDINAL_RECONSTRUCTION.md`](JOIN_THE_DOTS_LONGITUDINAL_RECONSTRUCTION.md) for the information-state reconstruction that tests whether this pattern is actually demonstrated.
+
+## Diagnostic specificity and continuity
+
+A new documentary issue requires continuity itself to be disaggregated.
+
+Read [`HEALY_DIAGNOSTIC_SPECIFICITY_AND_CONSTRUCTED_CONTINUITY.md`](HEALY_DIAGNOSTIC_SPECIFICITY_AND_CONSTRUCTED_CONTINUITY.md).
+
+The record moves through specific aetiological states: recessive PRKN/PARK2 reasoning, Professor Daniel Healy's 2017 opinion that the patient probably had PARK II, later Monaghan wording that PARK2/PRKN was what **“we/Prof Healy suspect is the cause,”** and later use of iPD as the operative baseline. In the 25 March 2025 complaint response, the condition is stated categorically to be idiopathic Parkinson's disease while Healy is invoked as an early validating Parkinson's expert and the response says, **“In essence we have known that [the patient] has Parkinson's.”**
+
+The specific PARK II content of Healy's opinion is not carried forward in that retrospective continuity account.
+
+The shortest formulation is:
+
+> **Healy's authority survived; Healy's proposition did not.**
+
+This does not prove that the diagnostic evolution was illegitimate. It creates the transition question:
+
+> **What evidence or reasoning moved the formulation from suspected/probable PARK II/PRKN to categorical idiopathic Parkinson's disease, and where is that transition documented?**
+
+The broader controlling question is:
+
+> **Continuity of what?**
+
+There may be genuine continuity of Parkinsonian care without stable continuity of the specific aetiological formulation.
+
+Thus:
+
+> **continuity of care is not continuity of formulation; continuity of wording is not continuity of evidential content.**
 
 ## Documentary resilience, continuity and reliance
 
-A separate layer now tracks what happened to the **authority of the discharge synthesis itself**.
+A separate layer tracks what happened to the **authority of the discharge synthesis itself**.
 
 Read [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md).
 
@@ -189,6 +254,8 @@ That means a proposition may gain increasing institutional authority because lat
 This is not automatic circularity. The audit question is:
 
 > **Did later review independently go beneath the founding synthesis and test whether the medicine actually done matched the medicine the synthesis made it appear had been done?**
+
+The join-the-dots layer adds a further discipline: apparent continuity should not be treated as proof of an unchanged formulation until the propositions underneath that continuity have themselves been reconstructed.
 
 The shortest formulation is:
 
@@ -268,7 +335,7 @@ Do not use 2023 to prove the 2017 or 2018 allegations by analogy.
 
 [`professional-fork.html`](professional-fork.html) remains available as the 30-section documentary essay.
 
-It should now be read **after or beside** the primary clinical pair, not as the controlling first read.
+It should now be read **after or beside** the primary clinical pair and reconstruction layer, not as the controlling first read.
 
 Its particular value is in analysing:
 
@@ -279,12 +346,14 @@ Its particular value is in analysing:
 - [`SRC_COMPLETE_RECORD_FORENSIC.md`](SRC_COMPLETE_RECORD_FORENSIC.md) — canonical longitudinal primary-record transcription.
 - [`SRC_QPS_2026_01_26_GOVERNANCE_RESPONSE.md`](SRC_QPS_2026_01_26_GOVERNANCE_RESPONSE.md) — primary January 2026 QPS governance response excerpt.
 - [`CLINICAL_LOCK_IN_MASTER_NARRATIVE.md`](CLINICAL_LOCK_IN_MASTER_NARRATIVE.md) — primary clinical narrative.
+- [`JOIN_THE_DOTS_LONGITUDINAL_RECONSTRUCTION.md`](JOIN_THE_DOTS_LONGITUDINAL_RECONSTRUCTION.md) — information-state reconstruction, missing-transition test and explanatory-model comparison.
 - [`EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md`](EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md) — expert-facing companion.
 - [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) — controlling evidential discipline.
 - [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md) — breach-by-breach structure.
 - [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) — longitudinal synthesis layer.
 - [`COMPLEXITY_AND_SYNTHESIS_EXAMINATION_DIFFERENTIAL.md`](COMPLEXITY_AND_SYNTHESIS_EXAMINATION_DIFFERENTIAL.md) — internal comparator between final phenotype sophistication and bedside testing of the partitioned feature.
 - [`INSTITUTIONAL_PARALLAX_OF_THE_CLOSURE_MOMENT.md`](INSTITUTIONAL_PARALLAX_OF_THE_CLOSURE_MOMENT.md) — how one unresolved clinical moment acquires different meanings across institutional functions.
+- [`HEALY_DIAGNOSTIC_SPECIFICITY_AND_CONSTRUCTED_CONTINUITY.md`](HEALY_DIAGNOSTIC_SPECIFICITY_AND_CONSTRUCTED_CONTINUITY.md) — PARK II/PRKN specificity, later categorical iPD and the question **“continuity of what?”**
 - [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md) — documentary resilience, recursive validation and governance reliance.
 - [`DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md`](DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md) — source-level investigation report.
 - [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — analytical reservoir.
@@ -301,15 +370,20 @@ The repository does not presently claim that:
 - peripheral neuropathy never existed;
 - later Neurology never reconsidered the feet;
 - Sinemet response proves the original pathology was Parkinsonian;
+- PRKN/PARK2 was genetically confirmed in 2017;
+- idiopathic Parkinson's disease was medically impossible;
+- the later diagnostic transition was deliberate;
+- Professor Healy was consciously misrepresented;
 - clinical lock-in, confirmation bias, concealment or motive is proved;
 - the discharge synthesis was intentionally engineered to mislead;
 - the 2025 SIMT or January 2026 QPS conclusions were necessarily wrong;
 - documentary continuity automatically proves circular reasoning;
+- a missing transition proves wrongdoing;
 - or every later harm was caused by any one earlier decision.
 
 The controlling posture is:
 
-> **Clinical boundary identified. Repeated crossings documented. Institutional transformations, documentary resilience and later reliance documented. Revision, breach and causation remain questions for independent scrutiny.**
+> **Reconstruct the information states first. Identify the boundary, the crossings, the transitions and the missing transitions. Then ask whether the resulting sequence is better explained by ordinary longitudinal complexity or by a founding partition that became resilient. Breach and causation remain questions for independent scrutiny.**
 
 ## Separate evidential-access track
 
