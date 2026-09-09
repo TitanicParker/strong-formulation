@@ -1,13 +1,13 @@
 # Clinical Lock-In — Primary Clinical Narrative
 
-**Status:** PRIMARY CLINICAL NARRATIVE — 8 September 2026
+**Status:** PRIMARY CLINICAL NARRATIVE — 9 September 2026
 
 This sits **beside** *The Professional Fork*. It does not replace or invalidate that essay. The two texts perform different jobs:
 
 - **Clinical Lock-In** is the primary longitudinal clinical narrative: how an early neurological–foot boundary may have shaped later care and resisted revision as new evidence accumulated.
 - **The Professional Fork** remains the deep documentary narrative: the Protest, closure, founding synthesis, omission, professional-coherence function and later documentary genealogy.
 
-The shorter expert maps remain controlling for evidential discipline: [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md), [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) and [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md).
+The shorter expert maps remain controlling for evidential discipline: [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md), [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md), [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md) and [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md).
 
 ---
 
@@ -24,6 +24,18 @@ The service did not overlook the neurological significance of the gait. It expre
 Nor was recessive Parkinsonism a passing thought. The eventual synthesis carefully developed the clinical indicators favouring PRKN/PARK2: very young onset, akinetic rigidity, absence of dominant family history, marked symmetry and exceptional cognition.
 
 But something important happens inside that synthesis.
+
+The document is theoretically more sophisticated than the surviving bedside record clearly demonstrates was actually tested phenotypically. It entertains PRKN/PARK2 at a relatively high level of specificity, yet the contemporaneous record does not clearly show a correspondingly deliberate PRKN-oriented examination of dystonia, lower-limb posture, toe posture, painful structural feet, loading and their relationship to gait.
+
+That distinction matters:
+
+> **The synthesis may know more theoretically than the documented examination shows was actually tested phenotypically.**
+
+Or, more compactly:
+
+> **The synthesis may have outrun the examination.**
+
+That is not itself proof that the underlying examination was inadequate. It creates a direct expert and documentary question: **what clinical work actually earned the sophistication of the final formulation?**
 
 The dystonic lower-limb feature does not visibly become part of a neurological reconstruction of the painful foot problem.
 
@@ -224,6 +236,52 @@ The strongest expert proposition would be:
 If an independent movement-disorders expert reaches that conclusion, the issue is no longer merely whether the feet were once reasonably uncertain. It becomes whether the persistence of uncertainty was partly **formulation-dependent**.
 
 The record repeatedly generated observations capable of bearing on the neurological–mechanical relationship. Those observations were often clinically used. The expert question is whether they were adequately assembled into a revised integrated formulation when reasonable practice required it.
+
+## Documentary resilience, continuity and reliance
+
+The same founding synthesis also has a second life outside direct clinical reasoning.
+
+It becomes documentary infrastructure.
+
+A later reader can see the sophisticated reasoning displayed in the discharge document. But that creates a distinction that must remain explicit:
+
+> **visible reasoning is not the same as demonstrated clinical work.**
+
+The question is whether the underlying examination and investigation actually justified the sophistication and apparent completeness conveyed by the synthesis.
+
+Once finalised, the synthesis becomes the portable specialist information state inherited by later clinicians and reviewers. Continuity then accumulates around it.
+
+The repository now treats three later stages as a distinct documentary/governance sequence:
+
+> **prospective confidence that a reviewer will “see the reasoning” → retrospective institutional conclusion of “no deficit in care” → 26 January 2026 QPS conclusion that later information did not require reopening and that continued reliance on the completed processes created no identified current governance risk.**
+
+The January 2026 QPS response is preserved separately as a primary source in [`SRC_QPS_2026_01_26_GOVERNANCE_RESPONSE.md`](SRC_QPS_2026_01_26_GOVERNANCE_RESPONSE.md).
+
+The significance of that response is not that it proves the original clinical case or proves governance error.
+
+It proves **continuity of institutional reliance**.
+
+When later information was expressly offered as a reason to reconsider the inherited position, QPS affirmed the validity of the completed processes, stated that reopening was unnecessary, and expressly accepted **“continued reliance on the completed processes.”**
+
+That creates a separate systems question:
+
+> **Did later review independently go beneath the founding synthesis and test whether the medicine actually done matched the medicine the synthesis made it appear had been done, or did documentary continuity itself become evidence of adequacy?**
+
+The repository calls this potential structure **documentary recursive validation**.
+
+It must not be treated as automatic circularity. The audit task is source-specific: identify what each later reviewer independently tested and what was inherited from the existing record.
+
+The discharge synthesis should therefore now be understood in three dimensions:
+
+> **Resilience:** it retained explanatory authority despite later cross-boundary evidence.  
+> **Continuity:** later clinical and documentary records accumulated inside the information architecture it helped establish.  
+> **Reliance:** later complaint and governance processes treated the inherited record and completed processes as sufficiently authoritative to support “no deficit in care” and later continued reliance without reopening.
+
+The shortest formulation is:
+
+> **The discharge synthesis did not merely survive. It became increasingly authoritative because later care, review and governance repeatedly relied upon the world it had created.**
+
+The full analysis is in [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md).
 
 ## The patient remained inside the system he trusted
 
