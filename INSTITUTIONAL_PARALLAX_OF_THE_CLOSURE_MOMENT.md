@@ -1,36 +1,38 @@
-# Institutional Parallax of the Closure Moment
+# Institutional Parallax Across the Closure Sequence
 
 **Status:** CONTROLLING SYSTEMS / DOCUMENTARY ANALYSIS — 9 September 2026
 
-This file preserves the proposition that the same July 2017 closure moment can be understood differently from different institutional positions without changing the underlying unresolved clinical fact.
+This file preserves the proposition that one unresolved July 2017 clinical relationship acquired different meanings as it passed through successive institutional states.
 
-It is not a claim of conspiracy, coordinated intent, bad faith or shared subjective motive. It is an analysis of how one unresolved clinical relationship may acquire different meanings as it passes through different institutional functions.
+The earlier shorthand **“closure moment”** is retained only as a conceptual label. Chronologically, the relevant events must not be collapsed into one instant. The controlling sequence is:
+
+> **bedside clinical work → Protest, if proved → professional discharge decision → patient departure → completion/finalisation of the portable discharge synthesis, with exact timing of individual synthesis elements to be proved → downstream pathway and later institutional use.**
+
+This is not a claim of conspiracy, coordinated intent, bad faith or shared subjective motive. It is an analysis of how one unresolved clinical relationship may acquire different meanings as it passes through different institutional functions.
 
 ---
 
-## 1. One moment, several institutional meanings
+## 1. One unresolved relationship, several institutional states
 
-The central moment is the point at which the neurological–foot relationship remained unresolved but the professional process nevertheless became capable of closure.
+At the **bedside**, the abnormal lower limb, abnormal gait and painful abnormal foot coexist. The surviving record does not clearly demonstrate that their relationship has been fully integrated.
 
-From different institutional vantage points, that same moment can appear differently.
+At the **pre-discharge decision point**, the service may regard the principal neurological syndrome as sufficiently formulated to permit discharge despite residual uncertainty. The repository must not import the later documented therapeutic response into this state: the strong procyclidine/rasagiline response belongs after discharge.
 
-From the **bedside**, it is an unresolved clinical relationship: the abnormal lower limb, abnormal gait and painful abnormal foot have not yet been fully integrated.
+From the **patient's position**, if the Protest occurred as described, an important part of the presenting problem remains unanswered. His asserted complaint is not directed at the later sophisticated synthesis. It is directed at the clinical work he has actually experienced: **the feet have not been dealt with.**
 
-From the **discharging neurological service**, it may appear as a reasonable endpoint in a complex admission: the principal neurological syndrome has been substantially formulated, treatment has begun, residual uncertainty remains, and Podiatry is available for the structural foot problem.
+At **professional closure**, the decision becomes one to discharge notwithstanding that asserted challenge, if proved.
 
-From the **patient's position**, it is the point at which an important part of the presenting problem remains unanswered. If the Protest occurred as described, the patient expressly identified that incompleteness while the decision was still live.
+In the **final discharge synthesis**, the episode becomes a portable specialist state: extensive assessment, sophisticated neurological and neurogenetic reasoning, residual **“Not clear”**, possible separation and Podiatry. The exact timing and authorship of particular sophisticated elements must be reconstructed rather than assumed to predate the Protest.
 
-From the **discharge synthesis**, it becomes a portable specialist state: extensive assessment, sophisticated reasoning, residual uncertainty, possible separation and Podiatry.
+From **Podiatry**, the foot becomes a structural and mechanical problem to assess and manage.
 
-From **Podiatry**, it becomes a structural and mechanical problem to assess and manage.
-
-From **later Neurology**, it becomes an inherited clinical architecture within which new observations are interpreted.
+From **later Neurology**, the final specialist account becomes part of inherited clinical architecture within which new observations are interpreted.
 
 From **complaint/SIMT review**, it becomes historical evidence of what the neurological service had considered and concluded.
 
 From **later QPS governance**, it becomes part of a completed process whose prior determinations were treated as valid and whose continued reliance was not identified as a current governance risk.
 
-The underlying bodily problem can therefore remain materially the same while its institutional meaning changes.
+The underlying bodily problem can therefore remain materially continuous while its institutional status changes.
 
 ---
 
@@ -42,44 +44,36 @@ The repository calls this structure:
 
 Definition:
 
-> **Institutional parallax is the change in apparent meaning of one clinical moment when viewed through different institutional functions, even though the underlying unresolved phenotype has not itself changed.**
+> **Institutional parallax is the change in apparent meaning of one unresolved clinical relationship as it passes through successive institutional functions, even though the underlying phenotype has not necessarily changed.**
 
-The concept is useful because it avoids a false choice between two extremes:
+This corrected definition is preferable to treating every institutional meaning as simultaneously present at one July instant.
+
+The concept avoids a false choice between two extremes:
 
 - that every later institutional actor independently made the same clinical mistake; or
-- that the later continuity is irrelevant because each actor performed a different function.
+- that later continuity is irrelevant because each actor performed a different function.
 
-Both can be wrong.
+Different actors may behave locally within their proper functions while nevertheless preserving, translating or relying upon consequences of an earlier partition.
 
-Different institutional actors may behave locally within their proper functions while nevertheless preserving, translating or relying upon the consequences of an earlier partition.
+Thus the question is:
 
-Thus the question is not whether every later actor repeated the original bedside decision.
-
-It is:
-
-> **What did each institutional function inherit from that decision, what did it independently test, and what did it simply translate into its own operational language?**
+> **What did each institutional function inherit, what did it independently test, and what did it translate into its own operational language?**
 
 ---
 
 ## 3. The transformation sequence
 
-The founding moment can be represented as a sequence of institutional transformations:
+The sequence is now explicitly temporal:
 
-> **clinical incompleteness at the bedside → professional completion at discharge → documentary finality in the record → pathway allocation downstream → inherited assumption in later care → evidential object in review → governance object in later institutional reliance.**
+> **integrated referred problem → inpatient bedside work → Protest, if proved → professional closure / patient departure → final documentary state → pathway allocation → inherited assumption in later care → evidential object in review → governance object in later institutional reliance.**
 
-This sequence explains how a point that remained medically unresolved could progressively acquire administrative and documentary finality.
+The final documentary state may contain reasoning developed during the admission, around discharge or in subsequent completion of the document. Until source metadata, drafts, meeting records or witness evidence establish the exact sequence, no particular sophisticated element should be projected backwards into the Protest information state.
 
-The critical proposition is:
+This sequence explains how a relationship that remained medically unresolved could progressively acquire administrative and documentary finality.
 
-> **The founding moment was not merely a clinical decision. It was an institutional transformation.**
+The critical proposition is therefore:
 
-An unresolved bodily relationship became, successively:
-
-- a discharge conclusion;
-- a care-pathway allocation;
-- a longitudinal working assumption;
-- a historical review object;
-- and ultimately part of a governance position concerning continued reliance on completed processes.
+> **The closure sequence was not merely a clinical decision. It was a series of institutional transformations.**
 
 ---
 
@@ -87,17 +81,15 @@ An unresolved bodily relationship became, successively:
 
 Institutional roles change around the problem.
 
-The patient does not occupy those changing roles.
-
 The patient continues to inhabit the same body.
 
 That produces an important asymmetry:
 
 > **the institution changes vantage points; the body does not.**
 
-The left foot remains the same physical object through each translation: painful, structurally abnormal, mechanically loaded, neurologically adjacent, and later repeatedly affected by treatment state, movement state or both.
+The left foot remains the same physical object through each translation: painful, structurally abnormal and neurologically adjacent. Only **later**, after discharge, does additional evidence arise that it may vary with treatment state, movement state or both.
 
-The institution can convert the problem from bedside uncertainty into Podiatry work, then into historical documentation, then into review evidence and governance reliance.
+The institution can convert the problem from bedside uncertainty into professional closure, final documentation, Podiatry work, historical evidence and governance reliance.
 
 The patient continues to experience the unresolved interface itself.
 
@@ -107,29 +99,29 @@ This is the human centre of institutional parallax.
 
 ## 5. The body and the record can diverge
 
-The shortest formulation is:
+The shortest formulation remains:
 
 > **The body remained unresolved while the institution progressively resolved the record.**
 
-That formulation does not mean the institution falsified the record or claimed certainty where none existed.
+That does not mean the institution falsified the record or claimed certainty where none existed.
 
-The discharge synthesis itself preserved uncertainty through **“Not clear.”**
+The final discharge synthesis itself preserved uncertainty through **“Not clear.”**
 
 The issue is subtler.
 
-The record could preserve epistemic uncertainty while still creating operational finality.
+The record could preserve epistemic uncertainty while creating operational finality.
 
-That is the repository's existing distinction:
+That is the repository's distinction:
 
 > **epistemically uncertain, operationally committed.**
 
-Institutional parallax extends that distinction longitudinally. What remained unresolved clinically could nevertheless become progressively more settled as a matter of pathway, documentation, review and governance.
+Institutional parallax extends that distinction longitudinally. What remained unresolved clinically could become progressively more settled as a matter of pathway, documentation, review and governance.
 
 ---
 
 ## 6. Why this does not require conspiracy or motive
 
-The strength of the model is that no coordinated institutional intention is required.
+No coordinated institutional intention is required.
 
 A discharging clinician may reasonably think in terms of disposition.
 
@@ -145,29 +137,30 @@ The systems question survives all of those possibilities:
 
 > **Could a locally reasonable sequence of institutional acts nevertheless preserve the consequences of an inadequately grounded founding partition?**
 
-That is the value of the parallax model. It locates the problem in the transformation of information and responsibility rather than in presumed bad motive.
-
 ---
 
 ## 7. Relationship to professional closure before clinical completion
 
-The institutional-parallax model depends on the founding proposition now preserved elsewhere in the repository:
+The institutional-parallax model sits beside the conditional proposition:
 
 > **The service may have completed the professional act of discharge before completing the clinical act of integration.**
 
-If expert evidence supports that proposition, the closure moment acquires different meanings simultaneously:
+But the chronology must be kept explicit.
 
-- clinically, the neurological–foot relationship remains unresolved;
-- professionally, the admission is complete enough to close;
-- documentarily, the synthesis becomes the authoritative portable state;
+If expert evidence supports that proposition:
+
+- clinically, the neurological–foot relationship remains unresolved before departure;
+- professionally, the admission becomes complete enough to close;
+- if the Protest is proved, the unresolved feet have been expressly raised while the decision is live;
+- after closure/departure, the final synthesis becomes the authoritative portable state;
 - operationally, the feet can travel down a Podiatry pathway;
-- longitudinally, later care inherits the partition;
+- longitudinally, later care inherits the documentary partition;
 - retrospectively, the record becomes evidence of what was considered;
-- governantly, the completed processes become objects of continued reliance.
+- governantly, completed processes become objects of continued reliance.
 
 Thus:
 
-> **one unresolved clinical moment can generate several forms of institutional completion.**
+> **one unresolved clinical relationship can generate several successive forms of institutional completion.**
 
 ---
 
@@ -175,41 +168,37 @@ Thus:
 
 Institutional parallax sits beside [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md).
 
-The two concepts perform different jobs.
+**Institutional parallax** explains how the unresolved relationship changes institutional status across successive functions.
 
-**Institutional parallax** explains how the same founding moment changes meaning across institutional functions.
+**Documentary resilience** explains how the final synthesis retains authority as later functions inherit and rely upon it.
 
-**Documentary resilience** explains how the founding synthesis retains authority as those functions inherit and rely upon it.
+Together:
 
-Together the sequence is:
+> **unresolved clinical relationship → professional closure → final authoritative synthesis → institutional translation → longitudinal continuity → retrospective validation → governance reliance.**
 
-> **unresolved clinical relationship → professional closure → authoritative synthesis → institutional translation → longitudinal continuity → retrospective validation → governance reliance.**
+The recursive-validation question is:
 
-The recursive-validation question then becomes sharper:
-
-> **At each institutional vantage point, was the original neurological–foot relationship independently re-tested, or was the inherited representation principally translated into the language of the next function?**
+> **At each later institutional vantage point, was the original neurological–foot relationship independently re-tested, or was the inherited representation principally translated into the language of the next function?**
 
 ---
 
 ## 9. Relationship to the Protest
 
-If the Protest is proved, institutional parallax becomes especially important because it shows what may have been lost in the first transformation.
+If the Protest is proved, institutional parallax shows what may have been lost in the transition from bedside care to the portable record.
 
-At the bedside, the asserted full information state would be:
+At the bedside, the asserted information state is simply:
 
-> **the patient says the feet have not been dealt with and the clinical task is incomplete.**
+> **the patient says the feet have not been dealt with while he remains available for further examination.**
 
-But the exported synthesis presents the downstream reader with:
+The patient is not objecting to PRKN/PARK2, **“Not clear”**, or a sophisticated final frame he has not seen.
 
-> **extensive specialist assessment → sophisticated neurological reasoning → residual “Not clear” → Podiatry.**
+Later, the exported synthesis presents the downstream reader with extensive specialist assessment, sophisticated neurological reasoning, residual **“Not clear”** and Podiatry.
 
-If so, the transformation from bedside event to portable document changes not merely detail but provenance.
+If the Protest occurred and was not carried into the portable account, the later reader receives specialist uncertainty without necessarily receiving the asserted contemporaneous fact that the patient had challenged the adequacy of the underlying foot inquiry before closure.
 
-The later reader receives specialist uncertainty without necessarily receiving the asserted contemporaneous fact that the adequacy of the underlying inquiry had been challenged before closure.
+The relevant transition is therefore:
 
-The Protest therefore belongs to the first parallax transition:
-
-> **bedside contested incompleteness → documentary apparently considered uncertainty.**
+> **bedside contested incompleteness → professional closure → later documentary apparently considered uncertainty.**
 
 That remains conditional on factual proof of the Protest.
 
@@ -219,13 +208,13 @@ That remains conditional on factual proof of the Protest.
 
 The strongest systems question is:
 
-> **How did one unresolved neurological–foot relationship change meaning as it passed from bedside care to discharge, Podiatry, longitudinal Neurology, complaint review and governance, and at which of those transitions—if any—was the founding relationship independently reconstructed rather than inherited?**
+> **How did one unresolved neurological–foot relationship change institutional status as it passed from bedside care through discharge, final synthesis, Podiatry, longitudinal Neurology, complaint review and governance, and at which transitions—if any—was the underlying relationship independently reconstructed rather than inherited?**
 
 A shorter form is:
 
-> **What changed: the underlying phenotype, or the institution's description of its status?**
+> **What changed: the phenotype, or the institutional status assigned to it?**
 
-And the human form is:
+And the human form remains:
 
 > **The body remained unresolved while the institution progressively resolved the record.**
 
@@ -233,11 +222,11 @@ And the human form is:
 
 ## 11. Controlling formulation
 
-> **The July 2017 closure moment can be viewed as an instance of institutional parallax. At the bedside, the neurological–foot relationship remained clinically unresolved. At discharge, the case became professionally complete enough to close. In the synthesis, that state became portable specialist uncertainty with an operational destination. In subsequent care, it became inherited clinical architecture. In complaint review, it became historical evidence. In later governance, it became part of a completed process regarded as capable of continued reliance. The legal and expert question is whether any of those later forms of institutional completion can validate the founding clinical partition unless the underlying neurological–foot relationship had first been adequately investigated or later independently reopened.**
+> **The July 2017 episode should be analysed as a closure sequence rather than a single compressed moment. At the bedside, the neurological–foot relationship remained clinically unresolved on the surviving record. If the Protest occurred, the patient then said that the feet had not been dealt with while he remained available for further examination. The service nevertheless proceeded to professional closure. The final discharge synthesis subsequently became the portable specialist state, containing sophisticated neurological and neurogenetic reasoning together with residual “Not clear” and an operational destination for the feet; the exact timing of individual elements of that synthesis remains to be reconstructed. In subsequent care the final account became inherited clinical architecture, in complaint review historical evidence, and in later governance part of completed processes regarded as capable of continued reliance. The legal and expert question is whether those later forms of institutional completion can validate the founding clinical partition unless the underlying neurological–foot relationship had first been adequately investigated or later independently reopened.**
 
 Shortest form:
 
-> **One unresolved clinical moment became several forms of institutional completion.**
+> **One unresolved clinical relationship became several successive forms of institutional completion.**
 
 Human centre:
 
@@ -249,6 +238,8 @@ Human centre:
 
 This file does **not** establish that:
 
+- the final sophisticated synthesis existed before the Protest;
+- treatment response had occurred before discharge;
 - every later institutional actor made the same error;
 - later clinicians or reviewers acted in bad faith;
 - the discharge decision was necessarily negligent;
@@ -257,4 +248,4 @@ This file does **not** establish that:
 - institutional continuity proves conspiracy or coordinated intent;
 - or later reliance proves the founding partition was wrong.
 
-It identifies a systems structure for expert, evidential and governance scrutiny: **the same unresolved clinical moment may acquire different institutional meanings as it moves through care, documentation, review and governance.**
+It identifies a systems structure for expert, evidential and governance scrutiny while preserving the temporal firewall between **bedside work, Protest, professional closure, final synthesis, post-discharge biological evidence and later institutional reliance**.
