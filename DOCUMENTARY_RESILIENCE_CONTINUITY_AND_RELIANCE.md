@@ -71,6 +71,12 @@ That is why same-author and same-system continuity must be handled carefully:
 
 > **continuity strongly proves persistence; it does not automatically prove repeated independent validation of the founding inquiry.**
 
+A further documentary qualification is now controlling. The Healy sequence demonstrates that continuity at the broad level of **Parkinson's/Parkinsonism** does not establish continuity of the more specific **aetiological formulation**. See [`HEALY_DIAGNOSTIC_SPECIFICITY_AND_CONSTRUCTED_CONTINUITY.md`](HEALY_DIAGNOSTIC_SPECIFICITY_AND_CONSTRUCTED_CONTINUITY.md).
+
+The controlling question is therefore:
+
+> **Continuity of what?**
+
 ---
 
 ## 4. Prospective confidence: “a reviewer will see the reasoning”
@@ -114,6 +120,8 @@ This does not automatically make the review circular or invalid.
 It creates a provenance problem:
 
 > **which propositions were independently re-tested, and which gained evidential force because they had persisted in the record?**
+
+The Healy evidence adds a further question: **which historical propositions actually persisted in their original specificity, and which survived only after being compressed into a broader category?**
 
 ---
 
@@ -177,6 +185,10 @@ The governing question is:
 
 > **Did later review independently go beneath the founding synthesis and test whether the medicine actually done matched the medicine the synthesis made it appear had been done?**
 
+The Healy evidence now adds an important refinement:
+
+> **Did the later record preserve the original proposition, or preserve only enough of its authority to support a broader continuity claim?**
+
 ---
 
 ## 9. Clinical lock-in and governance lock-in must remain distinct
@@ -215,7 +227,9 @@ If that examination is not demonstrated, the later documentary chain acquires a 
 
 > **successive reviewers may have inherited the appearance of a deeply examined phenotype from a document whose theoretical sophistication exceeded the bedside work demonstrated in the surviving record.**
 
-That proposition remains expert- and evidence-dependent.
+The Healy second opinion makes this more consequential. Healy later recorded that the patient probably had PARK II, and Monaghan subsequently recorded PARK2/PRKN as what **“we/Prof Healy suspect is the cause.”** Yet the March 2025 complaint response invokes Healy as an early expert second opinion while categorically describing the disease as idiopathic Parkinson's disease. The specific analysis is preserved in [`HEALY_DIAGNOSTIC_SPECIFICITY_AND_CONSTRUCTED_CONTINUITY.md`](HEALY_DIAGNOSTIC_SPECIFICITY_AND_CONSTRUCTED_CONTINUITY.md).
+
+This does not prove intentional rebranding. It establishes that the later claim of continuity operates at a broader level of diagnostic abstraction than the earlier aetiological record.
 
 ---
 
@@ -247,7 +261,7 @@ The repository should understand the discharge synthesis in three dimensions:
 
 > **Resilience:** it retained explanatory authority despite later cross-boundary evidence.
 
-> **Continuity:** later clinical and documentary records accumulated inside the information architecture it helped establish.
+> **Continuity:** later clinical and documentary records accumulated inside the information architecture it helped establish. Continuity must now be specified by level: continuity of Parkinsonian care does not itself establish continuity of aetiological formulation.
 
 > **Reliance:** later complaint and governance processes treated the inherited record and completed processes as sufficiently authoritative to support “no deficit in care” and, in January 2026, continued reliance without reopening.
 
@@ -255,9 +269,17 @@ The shortest formulation is:
 
 > **The discharge synthesis did not merely survive. It became increasingly authoritative because later care, review and governance repeatedly relied upon the world it had created.**
 
-The expert/audit question beneath that proposition remains:
+But the Healy evidence now requires a second sentence:
+
+> **That apparent continuity must be audited for specificity, because a broader proposition can remain stable even when the narrower propositions beneath it materially change.**
+
+The expert/audit questions are therefore:
 
 > **Was the authority eventually accorded to the synthesis justified by the clinical work actually demonstrated beneath it?**
+
+and
+
+> **Continuity of what?**
 
 ---
 
@@ -289,15 +311,23 @@ The PRKN/PARK2 asymmetry makes that question especially important. If the discha
 
 > **A synthesis may have outrun the examination; the synthesis then structured the longitudinal record; the continuity of that record later helped validate the synthesis; and governance ultimately endorsed continued reliance on the completed processes.**
 
+The Healy evidence adds a further mechanism:
+
+> **A specific historical proposition may lose its specificity while the authority attached to its source survives, allowing a broader category to support an appearance of continuity that the narrower aetiological record does not possess.**
+
 This is the present strong formulation:
 
-> **The case concerns not merely whether the neurological–foot phenotype was prematurely partitioned in 2017, but whether that partition acquired increasing authority because it was embedded in a sophisticated founding synthesis, inherited through longitudinal care, repeatedly accommodated rather than reconstructed when later evidence crossed the boundary, and ultimately relied upon by complaint and governance processes as evidence of the adequacy of the clinical pathway itself.**
+> **The case concerns not merely whether the neurological–foot phenotype was prematurely partitioned in 2017, but whether that partition acquired increasing authority because it was embedded in a sophisticated founding synthesis, inherited through longitudinal care, repeatedly accommodated rather than reconstructed when later evidence crossed the boundary, selectively compressed when diagnostic specificity complicated the continuity account, and ultimately relied upon by complaint and governance processes as evidence of the adequacy of the clinical pathway itself.**
 
-Shortest form:
+Shortest forms:
 
 > **The alleged error did not merely persist in the record. The record may have made the error resilient.**
 
-That proposition remains conditional on expert evidence. If the founding partition was clinically reasonable and remained reasonable at later information thresholds, continuity and reliance are not themselves wrongful. But if the partition was inadequately grounded, or if later evidence should reasonably have broken it, then continuity, resilience and reliance explain how the original formulation could acquire institutional durability beyond the evidential work that initially supported it.
+> **Healy's authority survived; Healy's proposition did not.**
+
+> **Continuity of what?**
+
+These propositions remain conditional on expert evidence where they concern clinical adequacy. The documentary transformation itself can be tested directly against the primary record.
 
 ---
 
@@ -307,10 +337,13 @@ This file does **not** establish that:
 
 - the discharge synthesis was intentionally engineered to mislead;
 - any clinician or QPS officer consciously believed the record was “bulletproof”;
+- Professor Healy was deliberately misrepresented;
 - the 2025 SIMT outcome was invalid;
 - the January 2026 QPS response was unlawful or unsafe;
 - later reviewers acted in bad faith;
 - documentary continuity automatically proves circular reasoning;
+- idiopathic Parkinson's disease was medically impossible;
+- Sinemet response genetically proves PRKN;
 - or the PRKN formulation was clinically unreasonable.
 
-It establishes a source-backed structure of **resilience, continuity and reliance** that requires independent clinical and governance scrutiny.
+It establishes a source-backed structure of **resilience, continuity and reliance**, now qualified by a demonstrated change in diagnostic specificity, that requires independent clinical and governance scrutiny.
