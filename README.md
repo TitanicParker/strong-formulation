@@ -54,6 +54,14 @@ The key distinction is:
 
 > **epistemically uncertain, operationally committed.**
 
+A further audit point is now explicit:
+
+> **the synthesis may have outrun the examination.**
+
+The discharge document entertains a sophisticated PRKN/PARK2 formulation, but the surviving bedside record does not clearly demonstrate a correspondingly deliberate PRKN-oriented phenotypic examination of dystonia, lower-limb posture, toe posture, painful structural feet, loading and their relationship to gait.
+
+The question is therefore not only what the synthesis knew, but **what clinical work earned the knowledge it displayed**.
+
 The claimant does not allege that uncertainty itself was negligent or that Podiatry was inappropriate. The expert question is whether the neurological–foot relationship had been adequately investigated, or placed within a process capable of resolving it, before that operational separation occurred.
 
 ## The Protest
@@ -121,6 +129,42 @@ Or more compactly:
 > **local updating, global non-revision.**
 
 Read [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) for the full longitudinal analysis.
+
+## Documentary resilience, continuity and reliance
+
+A separate layer now tracks what happened to the **authority of the discharge synthesis itself**.
+
+Read [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md).
+
+The repository distinguishes:
+
+> **Resilience:** the synthesis retained explanatory authority despite later cross-boundary evidence.
+
+> **Continuity:** later clinical and documentary records accumulated inside the information architecture it helped establish.
+
+> **Reliance:** later complaint and governance processes treated the inherited record and completed processes as sufficiently authoritative to support retrospective validation and continued reliance without identified global reconstruction.
+
+The current three-stage sequence is:
+
+> **prospective confidence that a reviewer will “see the reasoning” → later institutional conclusion of “no deficit in care” → 26 January 2026 QPS conclusion that later information did not require reopening and that continued reliance on the completed processes created no identified current governance risk.**
+
+The January 2026 QPS source is preserved at [`SRC_QPS_2026_01_26_GOVERNANCE_RESPONSE.md`](SRC_QPS_2026_01_26_GOVERNANCE_RESPONSE.md).
+
+Its significance is limited but important: it directly proves that QPS affirmed the validity of the prior processes, stated that reopening was unnecessary, and expressly accepted **“continued reliance on the completed processes.”** It does not prove that QPS was wrong or that the original care was negligent.
+
+The systems concept is:
+
+> **documentary recursive validation.**
+
+That means a proposition may gain increasing institutional authority because later records and reviews inherit or rely upon it, and the resulting continuity may then itself be treated as evidence supporting the originating process.
+
+This is not automatic circularity. The audit question is:
+
+> **Did later review independently go beneath the founding synthesis and test whether the medicine actually done matched the medicine the synthesis made it appear had been done?**
+
+The shortest formulation is:
+
+> **The discharge synthesis did not merely survive. It became increasingly authoritative because later care, review and governance repeatedly relied upon the world it had created.**
 
 ## The expert-facing companion
 
@@ -205,11 +249,13 @@ Its particular value is in analysing:
 ## Primary and analytical material
 
 - [`SRC_COMPLETE_RECORD_FORENSIC.md`](SRC_COMPLETE_RECORD_FORENSIC.md) — canonical longitudinal primary-record transcription.
+- [`SRC_QPS_2026_01_26_GOVERNANCE_RESPONSE.md`](SRC_QPS_2026_01_26_GOVERNANCE_RESPONSE.md) — primary January 2026 QPS governance response excerpt.
 - [`CLINICAL_LOCK_IN_MASTER_NARRATIVE.md`](CLINICAL_LOCK_IN_MASTER_NARRATIVE.md) — primary clinical narrative.
 - [`EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md`](EXPERT_INSTRUCTION_CLINICAL_LOCK_IN.md) — expert-facing companion.
 - [`CRYSTAL_CLEAR_CENTRE.md`](CRYSTAL_CLEAR_CENTRE.md) — controlling evidential discipline.
 - [`DISCRETE_BREACH_ARCHITECTURE.md`](DISCRETE_BREACH_ARCHITECTURE.md) — breach-by-breach structure.
 - [`SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md`](SELECTIVE_UTILISATION_AND_INTEGRATIVE_REVISION.md) — longitudinal synthesis layer.
+- [`DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md`](DOCUMENTARY_RESILIENCE_CONTINUITY_AND_RELIANCE.md) — documentary resilience, recursive validation and governance reliance.
 - [`DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md`](DOCUMENTARY_INVESTIGATION_REPORT_2026-09-08.md) — source-level investigation report.
 - [`ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md`](ANALYTICAL_RESERVOIR_DEFENDANT_RISK_ORDERED.md) — analytical reservoir.
 
@@ -226,11 +272,14 @@ The repository does not presently claim that:
 - later Neurology never reconsidered the feet;
 - Sinemet response proves the original pathology was Parkinsonian;
 - clinical lock-in, confirmation bias, concealment or motive is proved;
+- the discharge synthesis was intentionally engineered to mislead;
+- the 2025 SIMT or January 2026 QPS conclusions were necessarily wrong;
+- documentary continuity automatically proves circular reasoning;
 - or every later harm was caused by any one earlier decision.
 
 The controlling posture is:
 
-> **Clinical boundary identified. Repeated crossings documented. Revision is an expert question. Breach and causation remain to be proved.**
+> **Clinical boundary identified. Repeated crossings documented. Documentary resilience and reliance documented. Revision, breach and causation remain questions for independent scrutiny.**
 
 ## Separate evidential-access track
 
